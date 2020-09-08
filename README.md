@@ -2,6 +2,10 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=w940853815)](https://github.com/anuraghazra/github-readme-stats)
 
+### 🗣 豆瓣:
+
+<!-- DOUBAN-ACTIVITIES:START -->
+<!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
