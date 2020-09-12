@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [看过 绿里奇迹 The Green Mile‎ (1999)](https://www.douban.com/doubanapp/dispatch?uri=/status/3103887556/)
 - [看过 达·芬奇密码 The Da Vinci Code‎ (2006)](https://www.douban.com/doubanapp/dispatch?uri=/status/3097211386/)
 - [看过 末代皇帝 The Last Emperor‎ (1987)](https://www.douban.com/doubanapp/dispatch?uri=/status/3095632728/)
 - [看过 蝴蝶效应 The Butterfly Effect‎ (2004)](https://www.douban.com/doubanapp/dispatch?uri=/status/3095395133/)
@@ -14,7 +15,6 @@
 - [看过 成为简·奥斯汀 Becoming Jane‎ (2007)](https://www.douban.com/doubanapp/dispatch?uri=/status/3088867378/)
 - [看过 三十而已‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3086401248/)
 - [在读 大地三部曲](https://www.douban.com/doubanapp/dispatch?uri=/status/3078255110/)
-- [读过 人类简史](https://www.douban.com/doubanapp/dispatch?uri=/status/3078252093/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
