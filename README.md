@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [看过 华尔街：金钱永不眠 Wall Street: Money Never Sleeps‎ (2010)](https://www.douban.com/doubanapp/dispatch?uri=/status/3126960388/)
 - [看过 沉默的真相‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3125110312/)
 - [在看 沉默的真相‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3123667668/)
 - [说: 我的书影音月度小结 https://douc.cc/29mXUp ](https://www.douban.com/doubanapp/dispatch?uri=/status/3123129540/)
@@ -14,7 +15,6 @@
 - [看过 绿里奇迹 The Green Mile‎ (1999)](https://www.douban.com/doubanapp/dispatch?uri=/status/3103887556/)
 - [看过 达·芬奇密码 The Da Vinci Code‎ (2006)](https://www.douban.com/doubanapp/dispatch?uri=/status/3097211386/)
 - [看过 末代皇帝 The Last Emperor‎ (1987)](https://www.douban.com/doubanapp/dispatch?uri=/status/3095632728/)
-- [看过 蝴蝶效应 The Butterfly Effect‎ (2004)](https://www.douban.com/doubanapp/dispatch?uri=/status/3095395133/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
