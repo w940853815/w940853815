@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [在看 灵笼‎ (2019)](https://www.douban.com/doubanapp/dispatch?uri=/status/3135374844/)
 - [看过 请回答1988 응답하라 1988‎ (2015)](https://www.douban.com/doubanapp/dispatch?uri=/status/3135130679/)
 - [看过 蝴蝶效应3：启示 The Butterfly Effect 3: Revelations‎ (2009)](https://www.douban.com/doubanapp/dispatch?uri=/status/3128225882/)
 - [看过 华尔街：金钱永不眠 Wall Street: Money Never Sleeps‎ (2010)](https://www.douban.com/doubanapp/dispatch?uri=/status/3126960388/)
@@ -14,7 +15,6 @@
 - [看过 蝴蝶效应2 The Butterfly Effect 2‎ (2006)](https://www.douban.com/doubanapp/dispatch?uri=/status/3118478616/)
 - [看过 无姓之人 Mr. Nobody‎ (2009)](https://www.douban.com/doubanapp/dispatch?uri=/status/3112842026/)
 - [看过 华尔街 Wall Street‎ (1987)](https://www.douban.com/doubanapp/dispatch?uri=/status/3111253138/)
-- [看过 绿里奇迹 The Green Mile‎ (1999)](https://www.douban.com/doubanapp/dispatch?uri=/status/3103887556/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
