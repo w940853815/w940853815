@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [看过 地质灾难 Geo-Disaster‎ (2017)](https://www.douban.com/doubanapp/dispatch?uri=/status/3148075224/)
 - [看过 帕丁顿熊2 Paddington 2‎ (2017)](https://www.douban.com/doubanapp/dispatch?uri=/status/3146955987/)
 - [在读 二手时间](https://www.douban.com/doubanapp/dispatch?uri=/status/3136240831/)
 - [说: sidegem 评价 《昆虫记》 https://douc.cc/41ziMQ ](https://www.douban.com/doubanapp/dispatch?uri=/status/3136240320/)
@@ -14,7 +15,6 @@
 - [看过 蝴蝶效应3：启示 The Butterfly Effect 3: Revelations‎ (2009)](https://www.douban.com/doubanapp/dispatch?uri=/status/3128225882/)
 - [看过 华尔街：金钱永不眠 Wall Street: Money Never Sleeps‎ (2010)](https://www.douban.com/doubanapp/dispatch?uri=/status/3126960388/)
 - [看过 沉默的真相‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3125110312/)
-- [在看 沉默的真相‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3123667668/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
