@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [读过 悲惨世界（上下）](https://www.douban.com/doubanapp/dispatch?uri=/status/3157750536/)
 - [想读 李光耀观天下](https://www.douban.com/doubanapp/dispatch?uri=/status/3154809578/)
 - [看过 门徒 門徒‎ (2007)](https://www.douban.com/doubanapp/dispatch?uri=/status/3151164311/)
 - [看过 星际特工：千星之城 Valérian and the City of a Thousand Planets‎ (2017)](https://www.douban.com/doubanapp/dispatch?uri=/status/3150386459/)
@@ -14,7 +15,6 @@
 - [说: sidegem 评价 《昆虫记》 https://douc.cc/41ziMQ ](https://www.douban.com/doubanapp/dispatch?uri=/status/3136240320/)
 - [读过 昆虫记](https://www.douban.com/doubanapp/dispatch?uri=/status/3136240238/)
 - [在看 灵笼‎ (2019)](https://www.douban.com/doubanapp/dispatch?uri=/status/3135374844/)
-- [看过 请回答1988 응답하라 1988‎ (2015)](https://www.douban.com/doubanapp/dispatch?uri=/status/3135130679/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
