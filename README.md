@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [说: 我的书影音月度小结 https://douc.cc/2zy6y8 ](https://www.douban.com/doubanapp/dispatch?uri=/status/3158701775/)
 - [在读 系统之美](https://www.douban.com/doubanapp/dispatch?uri=/status/3158445173/)
 - [读过 悲惨世界（上下）](https://www.douban.com/doubanapp/dispatch?uri=/status/3157750536/)
 - [想读 李光耀观天下](https://www.douban.com/doubanapp/dispatch?uri=/status/3154809578/)
@@ -14,7 +15,6 @@
 - [看过 帕丁顿熊2 Paddington 2‎ (2017)](https://www.douban.com/doubanapp/dispatch?uri=/status/3146955987/)
 - [在读 二手时间](https://www.douban.com/doubanapp/dispatch?uri=/status/3136240831/)
 - [说: sidegem 评价 《昆虫记》 https://douc.cc/41ziMQ ](https://www.douban.com/doubanapp/dispatch?uri=/status/3136240320/)
-- [读过 昆虫记](https://www.douban.com/doubanapp/dispatch?uri=/status/3136240238/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
