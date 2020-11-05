@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [读过 系统之美](https://www.douban.com/doubanapp/dispatch?uri=/status/3163687711/)
 - [在读 毛泽东选集 第二卷](https://www.douban.com/doubanapp/dispatch?uri=/status/3159580784/)
 - [看过 八佰‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3159202116/)
 - [说: 我的书影音月度小结 https://douc.cc/2zy6y8 ](https://www.douban.com/doubanapp/dispatch?uri=/status/3158701775/)
@@ -14,7 +15,6 @@
 - [看过 门徒 門徒‎ (2007)](https://www.douban.com/doubanapp/dispatch?uri=/status/3151164311/)
 - [看过 星际特工：千星之城 Valérian and the City of a Thousand Planets‎ (2017)](https://www.douban.com/doubanapp/dispatch?uri=/status/3150386459/)
 - [看过 地质灾难 Geo-Disaster‎ (2017)](https://www.douban.com/doubanapp/dispatch?uri=/status/3148075224/)
-- [看过 帕丁顿熊2 Paddington 2‎ (2017)](https://www.douban.com/doubanapp/dispatch?uri=/status/3146955987/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
