@@ -5,6 +5,8 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [在读 当我谈跑步时，我谈些什么（2015典藏版）](https://www.douban.com/doubanapp/dispatch?uri=/status/3169860731/)
+- [读过 天浴](https://www.douban.com/doubanapp/dispatch?uri=/status/3169859927/)
 - [在读 天浴](https://www.douban.com/doubanapp/dispatch?uri=/status/3169147401/)
 - [读过 二手时间](https://www.douban.com/doubanapp/dispatch?uri=/status/3169146443/)
 - [看过 悲惨世界 Les Misérables‎ (2012)](https://www.douban.com/doubanapp/dispatch?uri=/status/3167386041/)
@@ -13,8 +15,6 @@
 - [读过 系统之美](https://www.douban.com/doubanapp/dispatch?uri=/status/3163687711/)
 - [在读 毛泽东选集 第二卷](https://www.douban.com/doubanapp/dispatch?uri=/status/3159580784/)
 - [看过 八佰‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3159202116/)
-- [说: 我的书影音月度小结 https://douc.cc/2zy6y8 ](https://www.douban.com/doubanapp/dispatch?uri=/status/3158701775/)
-- [在读 系统之美](https://www.douban.com/doubanapp/dispatch?uri=/status/3158445173/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
