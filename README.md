@@ -5,6 +5,8 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [在读 Jenkins 2.x 实践指南](https://www.douban.com/doubanapp/dispatch?uri=/status/3172169754/)
+- [读过 Webpack实战：入门、进阶与调优](https://www.douban.com/doubanapp/dispatch?uri=/status/3172165854/)
 - [在读 当我谈跑步时，我谈些什么（2015典藏版）](https://www.douban.com/doubanapp/dispatch?uri=/status/3169860731/)
 - [读过 天浴](https://www.douban.com/doubanapp/dispatch?uri=/status/3169859927/)
 - [在读 天浴](https://www.douban.com/doubanapp/dispatch?uri=/status/3169147401/)
@@ -13,8 +15,6 @@
 - [看过 1917‎ (2019)](https://www.douban.com/doubanapp/dispatch?uri=/status/3166932472/)
 - [读过 资本论](https://www.douban.com/doubanapp/dispatch?uri=/status/3164184458/)
 - [读过 系统之美](https://www.douban.com/doubanapp/dispatch?uri=/status/3163687711/)
-- [在读 毛泽东选集 第二卷](https://www.douban.com/doubanapp/dispatch?uri=/status/3159580784/)
-- [看过 八佰‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3159202116/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
