@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [看过 死神来了 Final Destination‎ (2000)](https://www.douban.com/doubanapp/dispatch?uri=/status/3173521597/)
 - [在读 Jenkins 2.x 实践指南](https://www.douban.com/doubanapp/dispatch?uri=/status/3172169754/)
 - [读过 Webpack实战：入门、进阶与调优](https://www.douban.com/doubanapp/dispatch?uri=/status/3172165854/)
 - [在读 当我谈跑步时，我谈些什么（2015典藏版）](https://www.douban.com/doubanapp/dispatch?uri=/status/3169860731/)
@@ -14,7 +15,6 @@
 - [看过 悲惨世界 Les Misérables‎ (2012)](https://www.douban.com/doubanapp/dispatch?uri=/status/3167386041/)
 - [看过 1917‎ (2019)](https://www.douban.com/doubanapp/dispatch?uri=/status/3166932472/)
 - [读过 资本论](https://www.douban.com/doubanapp/dispatch?uri=/status/3164184458/)
-- [读过 系统之美](https://www.douban.com/doubanapp/dispatch?uri=/status/3163687711/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
