@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [看过 半泽直树 半沢直樹‎ (2013)](https://www.douban.com/doubanapp/dispatch?uri=/status/3184660500/)
 - [在读 Ansible自动化运维：技术与佳实践](https://www.douban.com/doubanapp/dispatch?uri=/status/3181010512/)
 - [在读 白轮船](https://www.douban.com/doubanapp/dispatch?uri=/status/3177695116/)
 - [读过 当我谈跑步时，我谈些什么（2015典藏版）](https://www.douban.com/doubanapp/dispatch?uri=/status/3177684057/)
@@ -14,7 +15,6 @@
 - [看过 死神来了 Final Destination‎ (2000)](https://www.douban.com/doubanapp/dispatch?uri=/status/3173521597/)
 - [在读 Jenkins 2.x 实践指南](https://www.douban.com/doubanapp/dispatch?uri=/status/3172169754/)
 - [读过 Webpack实战：入门、进阶与调优](https://www.douban.com/doubanapp/dispatch?uri=/status/3172165854/)
-- [在读 当我谈跑步时，我谈些什么（2015典藏版）](https://www.douban.com/doubanapp/dispatch?uri=/status/3169860731/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
