@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [看过 追风筝的人 The Kite Runner‎ (2007)](https://www.douban.com/doubanapp/dispatch?uri=/status/3192637907/)
 - [读过 Ansible自动化运维：技术与佳实践](https://www.douban.com/doubanapp/dispatch?uri=/status/3190810201/)
 - [读过 白轮船](https://www.douban.com/doubanapp/dispatch?uri=/status/3187926133/)
 - [在读 雾都孤儿](https://www.douban.com/doubanapp/dispatch?uri=/status/3187251738/)
@@ -14,7 +15,6 @@
 - [在读 白轮船](https://www.douban.com/doubanapp/dispatch?uri=/status/3177695116/)
 - [读过 当我谈跑步时，我谈些什么（2015典藏版）](https://www.douban.com/doubanapp/dispatch?uri=/status/3177684057/)
 - [读过 Jenkins 2.x 实践指南](https://www.douban.com/doubanapp/dispatch?uri=/status/3177218920/)
-- [在读 人体的秘密](https://www.douban.com/doubanapp/dispatch?uri=/status/3175325411/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
