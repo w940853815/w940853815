@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [在看 半泽直树2 半沢直樹2‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3193488113/)
 - [读过 毛泽东选集 第二卷](https://www.douban.com/doubanapp/dispatch?uri=/status/3193232328/)
 - [看过 追风筝的人 The Kite Runner‎ (2007)](https://www.douban.com/doubanapp/dispatch?uri=/status/3192637907/)
 - [读过 Ansible自动化运维：技术与佳实践](https://www.douban.com/doubanapp/dispatch?uri=/status/3190810201/)
@@ -14,7 +15,6 @@
 - [看过 半泽直树 半沢直樹‎ (2013)](https://www.douban.com/doubanapp/dispatch?uri=/status/3184660500/)
 - [在读 Ansible自动化运维：技术与佳实践](https://www.douban.com/doubanapp/dispatch?uri=/status/3181010512/)
 - [在读 白轮船](https://www.douban.com/doubanapp/dispatch?uri=/status/3177695116/)
-- [读过 当我谈跑步时，我谈些什么（2015典藏版）](https://www.douban.com/doubanapp/dispatch?uri=/status/3177684057/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
