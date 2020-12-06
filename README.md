@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [看过 半泽直树2 半沢直樹2‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3203229166/)
 - [在读 半小时漫画帝王史](https://www.douban.com/doubanapp/dispatch?uri=/status/3200138921/)
 - [读过 海龟交易法则](https://www.douban.com/doubanapp/dispatch?uri=/status/3200137032/)
 - [在看 半泽直树2 半沢直樹2‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3193488113/)
@@ -14,7 +15,6 @@
 - [读过 白轮船](https://www.douban.com/doubanapp/dispatch?uri=/status/3187926133/)
 - [在读 雾都孤儿](https://www.douban.com/doubanapp/dispatch?uri=/status/3187251738/)
 - [读过 人体的秘密](https://www.douban.com/doubanapp/dispatch?uri=/status/3187250112/)
-- [看过 半泽直树 半沢直樹‎ (2013)](https://www.douban.com/doubanapp/dispatch?uri=/status/3184660500/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
