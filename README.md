@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [在读 每天5分钟玩转Kubernetes](https://www.douban.com/doubanapp/dispatch?uri=/status/3206557714/)
 - [在读 人间草木](https://www.douban.com/doubanapp/dispatch?uri=/status/3203589241/)
 - [看过 半泽直树2 半沢直樹2‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3203229166/)
 - [在读 半小时漫画帝王史](https://www.douban.com/doubanapp/dispatch?uri=/status/3200138921/)
@@ -14,7 +15,6 @@
 - [看过 追风筝的人 The Kite Runner‎ (2007)](https://www.douban.com/doubanapp/dispatch?uri=/status/3192637907/)
 - [读过 Ansible自动化运维：技术与佳实践](https://www.douban.com/doubanapp/dispatch?uri=/status/3190810201/)
 - [读过 白轮船](https://www.douban.com/doubanapp/dispatch?uri=/status/3187926133/)
-- [在读 雾都孤儿](https://www.douban.com/doubanapp/dispatch?uri=/status/3187251738/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
