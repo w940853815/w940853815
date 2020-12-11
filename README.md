@@ -5,6 +5,8 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [在读 上帝掷骰子吗](https://www.douban.com/doubanapp/dispatch?uri=/status/3208522580/)
+- [读过 人间草木](https://www.douban.com/doubanapp/dispatch?uri=/status/3208522022/)
 - [在读 每天5分钟玩转Kubernetes](https://www.douban.com/doubanapp/dispatch?uri=/status/3206557714/)
 - [在读 人间草木](https://www.douban.com/doubanapp/dispatch?uri=/status/3203589241/)
 - [看过 半泽直树2 半沢直樹2‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3203229166/)
@@ -13,8 +15,6 @@
 - [在看 半泽直树2 半沢直樹2‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3193488113/)
 - [读过 毛泽东选集 第二卷](https://www.douban.com/doubanapp/dispatch?uri=/status/3193232328/)
 - [看过 追风筝的人 The Kite Runner‎ (2007)](https://www.douban.com/doubanapp/dispatch?uri=/status/3192637907/)
-- [读过 Ansible自动化运维：技术与佳实践](https://www.douban.com/doubanapp/dispatch?uri=/status/3190810201/)
-- [读过 白轮船](https://www.douban.com/doubanapp/dispatch?uri=/status/3187926133/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
