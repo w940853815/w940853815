@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [看过 雾都孤儿 Oliver Twist‎ (2005)](https://www.douban.com/doubanapp/dispatch?uri=/status/3211970890/)
 - [在读 爱上单片机（第4版）](https://www.douban.com/doubanapp/dispatch?uri=/status/3211284471/)
 - [在读 叙事经济学](https://www.douban.com/doubanapp/dispatch?uri=/status/3211155294/)
 - [读过 雾都孤儿](https://www.douban.com/doubanapp/dispatch?uri=/status/3211153860/)
@@ -14,7 +15,6 @@
 - [在读 每天5分钟玩转Kubernetes](https://www.douban.com/doubanapp/dispatch?uri=/status/3206557714/)
 - [在读 人间草木](https://www.douban.com/doubanapp/dispatch?uri=/status/3203589241/)
 - [看过 半泽直树2 半沢直樹2‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3203229166/)
-- [在读 半小时漫画帝王史](https://www.douban.com/doubanapp/dispatch?uri=/status/3200138921/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
