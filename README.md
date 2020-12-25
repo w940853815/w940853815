@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [读过 叙事经济学](https://www.douban.com/doubanapp/dispatch?uri=/status/3226645972/)
 - [想读 程序员的自我修养](https://www.douban.com/doubanapp/dispatch?uri=/status/3224647115/)
 - [读过 半小时漫画帝王史](https://www.douban.com/doubanapp/dispatch?uri=/status/3220157055/)
 - [看过 社交网络 The Social Network‎ (2010)](https://www.douban.com/doubanapp/dispatch?uri=/status/3219058087/)
@@ -14,7 +15,6 @@
 - [读过 雾都孤儿](https://www.douban.com/doubanapp/dispatch?uri=/status/3211153860/)
 - [看过 金刚川‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3210528830/)
 - [在读 上帝掷骰子吗](https://www.douban.com/doubanapp/dispatch?uri=/status/3208522580/)
-- [读过 人间草木](https://www.douban.com/doubanapp/dispatch?uri=/status/3208522022/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
