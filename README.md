@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [看过 夺冠‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3229896853/)
 - [读过 爱上单片机（第4版）](https://www.douban.com/doubanapp/dispatch?uri=/status/3229161441/)
 - [读过 叙事经济学](https://www.douban.com/doubanapp/dispatch?uri=/status/3226645972/)
 - [想读 程序员的自我修养](https://www.douban.com/doubanapp/dispatch?uri=/status/3224647115/)
@@ -14,7 +15,6 @@
 - [在读 爱上单片机（第4版）](https://www.douban.com/doubanapp/dispatch?uri=/status/3211284471/)
 - [在读 叙事经济学](https://www.douban.com/doubanapp/dispatch?uri=/status/3211155294/)
 - [读过 雾都孤儿](https://www.douban.com/doubanapp/dispatch?uri=/status/3211153860/)
-- [看过 金刚川‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3210528830/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
