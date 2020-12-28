@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [读过 每天5分钟玩转Kubernetes](https://www.douban.com/doubanapp/dispatch?uri=/status/3231178381/)
 - [在读 黑白画境](https://www.douban.com/doubanapp/dispatch?uri=/status/3230062071/)
 - [在读 复活](https://www.douban.com/doubanapp/dispatch?uri=/status/3230042899/)
 - [看过 夺冠‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3229896853/)
@@ -14,7 +15,6 @@
 - [读过 半小时漫画帝王史](https://www.douban.com/doubanapp/dispatch?uri=/status/3220157055/)
 - [看过 社交网络 The Social Network‎ (2010)](https://www.douban.com/doubanapp/dispatch?uri=/status/3219058087/)
 - [看过 雾都孤儿 Oliver Twist‎ (2005)](https://www.douban.com/doubanapp/dispatch?uri=/status/3211970890/)
-- [在读 爱上单片机（第4版）](https://www.douban.com/doubanapp/dispatch?uri=/status/3211284471/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
