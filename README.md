@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [看过 复仇者联盟4：终局之战 Avengers: Endgame‎ (2019)](https://www.douban.com/doubanapp/dispatch?uri=/status/3240572430/)
 - [看过 拆弹专家‎ (2017)](https://www.douban.com/doubanapp/dispatch?uri=/status/3238793545/)
 - [在读 CSS揭秘](https://www.douban.com/doubanapp/dispatch?uri=/status/3231190668/)
 - [读过 每天5分钟玩转Kubernetes](https://www.douban.com/doubanapp/dispatch?uri=/status/3231178381/)
@@ -14,7 +15,6 @@
 - [读过 爱上单片机（第4版）](https://www.douban.com/doubanapp/dispatch?uri=/status/3229161441/)
 - [读过 叙事经济学](https://www.douban.com/doubanapp/dispatch?uri=/status/3226645972/)
 - [想读 程序员的自我修养](https://www.douban.com/doubanapp/dispatch?uri=/status/3224647115/)
-- [读过 半小时漫画帝王史](https://www.douban.com/doubanapp/dispatch?uri=/status/3220157055/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
