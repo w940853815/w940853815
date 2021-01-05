@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [读过 大象](https://www.douban.com/doubanapp/dispatch?uri=/status/3243573147/)
 - [在看 宫崎骏：十载同行 10 Years with Hayao Miyazaki‎ (2019)](https://www.douban.com/doubanapp/dispatch?uri=/status/3241074321/)
 - [看过 复仇者联盟4：终局之战 Avengers: Endgame‎ (2019)](https://www.douban.com/doubanapp/dispatch?uri=/status/3240572430/)
 - [看过 拆弹专家‎ (2017)](https://www.douban.com/doubanapp/dispatch?uri=/status/3238793545/)
@@ -14,7 +15,6 @@
 - [在读 复活](https://www.douban.com/doubanapp/dispatch?uri=/status/3230042899/)
 - [看过 夺冠‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3229896853/)
 - [读过 爱上单片机（第4版）](https://www.douban.com/doubanapp/dispatch?uri=/status/3229161441/)
-- [读过 叙事经济学](https://www.douban.com/doubanapp/dispatch?uri=/status/3226645972/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
