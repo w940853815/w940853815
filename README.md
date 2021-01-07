@@ -5,6 +5,8 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [在读 罗生门](https://www.douban.com/doubanapp/dispatch?uri=/status/3245897925/)
+- [读过 上帝掷骰子吗](https://www.douban.com/doubanapp/dispatch?uri=/status/3245896690/)
 - [想读 男孩、鼹鼠、狐狸和马](https://www.douban.com/doubanapp/dispatch?uri=/status/3243626923/)
 - [读过 大象](https://www.douban.com/doubanapp/dispatch?uri=/status/3243573147/)
 - [在看 宫崎骏：十载同行 10 Years with Hayao Miyazaki‎ (2019)](https://www.douban.com/doubanapp/dispatch?uri=/status/3241074321/)
@@ -13,8 +15,6 @@
 - [在读 CSS揭秘](https://www.douban.com/doubanapp/dispatch?uri=/status/3231190668/)
 - [读过 每天5分钟玩转Kubernetes](https://www.douban.com/doubanapp/dispatch?uri=/status/3231178381/)
 - [在读 黑白画境](https://www.douban.com/doubanapp/dispatch?uri=/status/3230062071/)
-- [在读 复活](https://www.douban.com/doubanapp/dispatch?uri=/status/3230042899/)
-- [看过 夺冠‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3229896853/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
