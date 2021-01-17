@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [看过 我是路人甲 纪录片‎ (2016)](https://www.douban.com/doubanapp/dispatch?uri=/status/3259846279/)
 - [读过 微服务设计](https://www.douban.com/doubanapp/dispatch?uri=/status/3253430199/)
 - [看过 我是路人甲‎ (2015)](https://www.douban.com/doubanapp/dispatch?uri=/status/3251194581/)
 - [在读 一个投资家的20年](https://www.douban.com/doubanapp/dispatch?uri=/status/3250668774/)
@@ -14,7 +15,6 @@
 - [想读 男孩、鼹鼠、狐狸和马](https://www.douban.com/doubanapp/dispatch?uri=/status/3243626923/)
 - [读过 大象](https://www.douban.com/doubanapp/dispatch?uri=/status/3243573147/)
 - [在看 宫崎骏：十载同行 10 Years with Hayao Miyazaki‎ (2019)](https://www.douban.com/doubanapp/dispatch?uri=/status/3241074321/)
-- [看过 复仇者联盟4：终局之战 Avengers: Endgame‎ (2019)](https://www.douban.com/doubanapp/dispatch?uri=/status/3240572430/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
