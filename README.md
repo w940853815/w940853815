@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [在读 人人都懂设计模式：从生活中领悟设计模式：Python实现](https://www.douban.com/doubanapp/dispatch?uri=/status/3261768702/)
 - [看过 除暴‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3260724699/)
 - [看过 我是路人甲 纪录片‎ (2016)](https://www.douban.com/doubanapp/dispatch?uri=/status/3259846279/)
 - [读过 微服务设计](https://www.douban.com/doubanapp/dispatch?uri=/status/3253430199/)
@@ -14,7 +15,6 @@
 - [在读 罗生门](https://www.douban.com/doubanapp/dispatch?uri=/status/3245897925/)
 - [读过 上帝掷骰子吗](https://www.douban.com/doubanapp/dispatch?uri=/status/3245896690/)
 - [想读 男孩、鼹鼠、狐狸和马](https://www.douban.com/doubanapp/dispatch?uri=/status/3243626923/)
-- [读过 大象](https://www.douban.com/doubanapp/dispatch?uri=/status/3243573147/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
