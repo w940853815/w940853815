@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [看过 地久天长‎ (2019)](https://www.douban.com/people/136069238/status/3268732618/)
 - [在读 测试驱动开发](https://www.douban.com/people/136069238/status/3263070510/)
 - [在读 美丽新世界](https://www.douban.com/people/136069238/status/3262347709/)
 - [读过 一个投资家的20年](https://www.douban.com/people/136069238/status/3262345951/)
@@ -14,7 +15,6 @@
 - [读过 微服务设计](https://www.douban.com/people/136069238/status/3253430199/)
 - [看过 我是路人甲‎ (2015)](https://www.douban.com/people/136069238/status/3251194581/)
 - [在读 一个投资家的20年](https://www.douban.com/people/136069238/status/3250668774/)
-- [读过 复活](https://www.douban.com/people/136069238/status/3250667096/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
