@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [读过 测试驱动开发](https://www.douban.com/people/136069238/status/3276082664/)
 - [在看 山海情‎ (2021)](https://www.douban.com/people/136069238/status/3275641228/)
 - [读过 罗生门](https://www.douban.com/people/136069238/status/3272673396/)
 - [在读 徐文兵、梁冬对话·黄帝内经·金匮真言](https://www.douban.com/people/136069238/status/3272265974/)
@@ -14,7 +15,6 @@
 - [看过 地久天长‎ (2019)](https://www.douban.com/people/136069238/status/3268732618/)
 - [在读 测试驱动开发](https://www.douban.com/people/136069238/status/3263070510/)
 - [在读 美丽新世界](https://www.douban.com/people/136069238/status/3262347709/)
-- [读过 一个投资家的20年](https://www.douban.com/people/136069238/status/3262345951/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
