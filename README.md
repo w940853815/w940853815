@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [看过 地雷区 Under sandet‎ (2015)](https://www.douban.com/people/136069238/status/3290471057/)
 - [看过 勇往直前 Only the Brave‎ (2017)](https://www.douban.com/people/136069238/status/3289044929/)
 - [看过 为奴十二年 12 Years a Slave‎ (2013)](https://www.douban.com/people/136069238/status/3287780011/)
 - [读过 黑白画境](https://www.douban.com/people/136069238/status/3287292915/)
@@ -14,7 +15,6 @@
 - [看过 山海情‎ (2021)](https://www.douban.com/people/136069238/status/3281239004/)
 - [读过 测试驱动开发](https://www.douban.com/people/136069238/status/3276082664/)
 - [在看 山海情‎ (2021)](https://www.douban.com/people/136069238/status/3275641228/)
-- [读过 罗生门](https://www.douban.com/people/136069238/status/3272673396/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
