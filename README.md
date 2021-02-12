@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [在看 神话‎ (2010)](https://www.douban.com/people/136069238/status/3297353086/)
 - [看过 哈利·波特与火焰杯 Harry Potter and the Goblet of Fire‎ (2005)](https://www.douban.com/people/136069238/status/3294749734/)
 - [在读 一只特立独行的猪](https://www.douban.com/people/136069238/status/3293822344/)
 - [看过 地雷区 Under sandet‎ (2015)](https://www.douban.com/people/136069238/status/3290471057/)
@@ -14,7 +15,6 @@
 - [看过 宫崎骏：十载同行 10 Years with Hayao Miyazaki‎ (2019)](https://www.douban.com/people/136069238/status/3286904675/)
 - [看过 寒战 寒戰‎ (2012)](https://www.douban.com/people/136069238/status/3284394488/)
 - [看过 寒战2 寒戰II‎ (2016)](https://www.douban.com/people/136069238/status/3282895150/)
-- [看过 山海情‎ (2021)](https://www.douban.com/people/136069238/status/3281239004/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
