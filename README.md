@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [读过 一只特立独行的猪](https://www.douban.com/people/136069238/status/3313560873/)
 - [在读 我的前半生(全本)(精)](https://www.douban.com/people/136069238/status/3310205254/)
 - [读过 徐文兵、梁冬对话·黄帝内经·金匮真言](https://www.douban.com/people/136069238/status/3310202159/)
 - [在看 神话‎ (2010)](https://www.douban.com/people/136069238/status/3297353086/)
@@ -14,7 +15,6 @@
 - [看过 勇往直前 Only the Brave‎ (2017)](https://www.douban.com/people/136069238/status/3289044929/)
 - [看过 为奴十二年 12 Years a Slave‎ (2013)](https://www.douban.com/people/136069238/status/3287780011/)
 - [读过 黑白画境](https://www.douban.com/people/136069238/status/3287292915/)
-- [看过 宫崎骏：十载同行 10 Years with Hayao Miyazaki‎ (2019)](https://www.douban.com/people/136069238/status/3286904675/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
