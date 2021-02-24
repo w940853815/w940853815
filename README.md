@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [想看 流浪王妃·最后的皇弟 流転の王妃・最後の皇弟‎ (2003)](https://www.douban.com/people/136069238/status/3318666371/)
 - [看过 驴得水‎ (2016)](https://www.douban.com/people/136069238/status/3317718085/)
 - [看过 神话‎ (2010)](https://www.douban.com/people/136069238/status/3316357690/)
 - [读过 一只特立独行的猪](https://www.douban.com/people/136069238/status/3313560873/)
@@ -14,7 +15,6 @@
 - [看过 哈利·波特与火焰杯 Harry Potter and the Goblet of Fire‎ (2005)](https://www.douban.com/people/136069238/status/3294749734/)
 - [在读 一只特立独行的猪](https://www.douban.com/people/136069238/status/3293822344/)
 - [看过 地雷区 Under sandet‎ (2015)](https://www.douban.com/people/136069238/status/3290471057/)
-- [看过 勇往直前 Only the Brave‎ (2017)](https://www.douban.com/people/136069238/status/3289044929/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
