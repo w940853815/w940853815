@@ -5,6 +5,8 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [在读 俞军产品方法论](https://www.douban.com/people/136069238/status/3326796102/)
+- [读过 我的前半生(全本)(精)](https://www.douban.com/people/136069238/status/3326794576/)
 - [看过 人生七年3 21 Up‎ (1977)](https://www.douban.com/people/136069238/status/3325263297/)
 - [看过 人生七年2 7 Plus Seven‎ (1970)](https://www.douban.com/people/136069238/status/3325262989/)
 - [看过 人生七年1 Seven Up!‎ (1964)](https://www.douban.com/people/136069238/status/3325262638/)
@@ -13,8 +15,6 @@
 - [在读 TypeScript入门与实战](https://www.douban.com/people/136069238/status/3323078745/)
 - [看过 缉魂 緝魂‎ (2021)](https://www.douban.com/people/136069238/status/3322173634/)
 - [在看 去你家吃饭好吗‎ (2021)](https://www.douban.com/people/136069238/status/3320574779/)
-- [想看 流浪王妃·最后的皇弟 流転の王妃・最後の皇弟‎ (2003)](https://www.douban.com/people/136069238/status/3318666371/)
-- [看过 驴得水‎ (2016)](https://www.douban.com/people/136069238/status/3317718085/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
