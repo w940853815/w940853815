@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [看过 横空出世‎ (1999)](https://www.douban.com/people/136069238/status/3334374786/)
 - [看过 送你一朵小红花‎ (2020)](https://www.douban.com/people/136069238/status/3333405868/)
 - [在读 俞军产品方法论](https://www.douban.com/people/136069238/status/3326796102/)
 - [读过 我的前半生(全本)(精)](https://www.douban.com/people/136069238/status/3326794576/)
@@ -14,7 +15,6 @@
 - [看过 狗十三‎ (2013)](https://www.douban.com/people/136069238/status/3324721013/)
 - [看过 天才枪手 ฉลาดเกมส์โกง‎ (2017)](https://www.douban.com/people/136069238/status/3324568960/)
 - [在读 TypeScript入门与实战](https://www.douban.com/people/136069238/status/3323078745/)
-- [看过 缉魂 緝魂‎ (2021)](https://www.douban.com/people/136069238/status/3322173634/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
