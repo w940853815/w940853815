@@ -5,6 +5,8 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [在读 六里庄遗事](https://www.douban.com/people/136069238/status/3339168291/)
+- [读过 俞军产品方法论](https://www.douban.com/people/136069238/status/3339161173/)
 - [看过 横空出世‎ (1999)](https://www.douban.com/people/136069238/status/3334374786/)
 - [看过 送你一朵小红花‎ (2020)](https://www.douban.com/people/136069238/status/3333405868/)
 - [在读 俞军产品方法论](https://www.douban.com/people/136069238/status/3326796102/)
@@ -13,8 +15,6 @@
 - [看过 人生七年2 7 Plus Seven‎ (1970)](https://www.douban.com/people/136069238/status/3325262989/)
 - [看过 人生七年1 Seven Up!‎ (1964)](https://www.douban.com/people/136069238/status/3325262638/)
 - [看过 狗十三‎ (2013)](https://www.douban.com/people/136069238/status/3324721013/)
-- [看过 天才枪手 ฉลาดเกมส์โกง‎ (2017)](https://www.douban.com/people/136069238/status/3324568960/)
-- [在读 TypeScript入门与实战](https://www.douban.com/people/136069238/status/3323078745/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
