@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [看过 奇食记‎ (2021)](https://www.douban.com/people/136069238/status/3352683465/)
 - [在读 黄金时代](https://www.douban.com/people/136069238/status/3352364703/)
 - [读过 六里庄遗事](https://www.douban.com/people/136069238/status/3352361447/)
 - [看过 发财日记‎ (2021)](https://www.douban.com/people/136069238/status/3344641000/)
@@ -14,7 +15,6 @@
 - [看过 横空出世‎ (1999)](https://www.douban.com/people/136069238/status/3334374786/)
 - [看过 送你一朵小红花‎ (2020)](https://www.douban.com/people/136069238/status/3333405868/)
 - [在读 俞军产品方法论](https://www.douban.com/people/136069238/status/3326796102/)
-- [读过 我的前半生(全本)(精)](https://www.douban.com/people/136069238/status/3326794576/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
