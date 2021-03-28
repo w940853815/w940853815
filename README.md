@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [看过 心迷宫‎ (2014)](https://www.douban.com/people/136069238/status/3364992794/)
 - [在读 证券分析](https://www.douban.com/people/136069238/status/3364662597/)
 - [读过 黄金时代](https://www.douban.com/people/136069238/status/3364661885/)
 - [看过 去你家吃饭好吗‎ (2021)](https://www.douban.com/people/136069238/status/3363924258/)
@@ -14,7 +15,6 @@
 - [看过 奇食记‎ (2021)](https://www.douban.com/people/136069238/status/3352683465/)
 - [在读 黄金时代](https://www.douban.com/people/136069238/status/3352364703/)
 - [读过 六里庄遗事](https://www.douban.com/people/136069238/status/3352361447/)
-- [看过 发财日记‎ (2021)](https://www.douban.com/people/136069238/status/3344641000/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
