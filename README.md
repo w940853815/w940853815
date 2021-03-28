@@ -5,6 +5,8 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [在读 证券分析](https://www.douban.com/people/136069238/status/3364662597/)
+- [读过 黄金时代](https://www.douban.com/people/136069238/status/3364661885/)
 - [看过 去你家吃饭好吗‎ (2021)](https://www.douban.com/people/136069238/status/3363924258/)
 - [看过 暴裂无声‎ (2017)](https://www.douban.com/people/136069238/status/3363414378/)
 - [想看 心迷宫‎ (2014)](https://www.douban.com/people/136069238/status/3363413954/)
@@ -13,8 +15,6 @@
 - [在读 黄金时代](https://www.douban.com/people/136069238/status/3352364703/)
 - [读过 六里庄遗事](https://www.douban.com/people/136069238/status/3352361447/)
 - [看过 发财日记‎ (2021)](https://www.douban.com/people/136069238/status/3344641000/)
-- [看过 我的1919‎ (1999)](https://www.douban.com/people/136069238/status/3342622171/)
-- [在读 六里庄遗事](https://www.douban.com/people/136069238/status/3339168291/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
