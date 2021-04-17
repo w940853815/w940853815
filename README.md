@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [看过 吉祥如意‎ (2020)](https://www.douban.com/people/136069238/status/3393970927/)
 - [看过 中国机长‎ (2019)](https://www.douban.com/people/136069238/status/3393844047/)
 - [看过 幕后玩家‎ (2018)](https://www.douban.com/people/136069238/status/3393843719/)
 - [看过 小偷家族 万引き家族‎ (2018)](https://www.douban.com/people/136069238/status/3393843153/)
@@ -14,7 +15,6 @@
 - [看过 百鸟朝凤‎ (2013)](https://www.douban.com/people/136069238/status/3393842389/)
 - [看过 拆弹专家2‎ (2020)](https://www.douban.com/people/136069238/status/3393842248/)
 - [看过 超时空同居‎ (2018)](https://www.douban.com/people/136069238/status/3393842174/)
-- [看过 囧妈‎ (2020)](https://www.douban.com/people/136069238/status/3393841964/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
