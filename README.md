@@ -5,6 +5,8 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [在读 沉默的大多数](https://www.douban.com/people/136069238/status/3404532537/)
+- [读过 百万英镑](https://www.douban.com/people/136069238/status/3404528243/)
 - [在读 百万英镑](https://www.douban.com/people/136069238/status/3394239419/)
 - [读过 证券分析](https://www.douban.com/people/136069238/status/3394237792/)
 - [看过 吉祥如意‎ (2020)](https://www.douban.com/people/136069238/status/3393970927/)
@@ -13,8 +15,6 @@
 - [看过 小偷家族 万引き家族‎ (2018)](https://www.douban.com/people/136069238/status/3393843153/)
 - [看过 乘风破浪‎ (2017)](https://www.douban.com/people/136069238/status/3393842912/)
 - [看过 缝纫机乐队‎ (2017)](https://www.douban.com/people/136069238/status/3393842706/)
-- [看过 羞羞的铁拳‎ (2017)](https://www.douban.com/people/136069238/status/3393842630/)
-- [看过 百鸟朝凤‎ (2013)](https://www.douban.com/people/136069238/status/3393842389/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
