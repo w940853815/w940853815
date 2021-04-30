@@ -5,6 +5,8 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [在读 愤怒的葡萄](https://www.douban.com/people/136069238/status/3412182853/)
+- [读过 沉默的大多数](https://www.douban.com/people/136069238/status/3412182454/)
 - [在读 沉默的大多数](https://www.douban.com/people/136069238/status/3404532537/)
 - [读过 百万英镑](https://www.douban.com/people/136069238/status/3404528243/)
 - [在读 百万英镑](https://www.douban.com/people/136069238/status/3394239419/)
@@ -13,8 +15,6 @@
 - [看过 中国机长‎ (2019)](https://www.douban.com/people/136069238/status/3393844047/)
 - [看过 幕后玩家‎ (2018)](https://www.douban.com/people/136069238/status/3393843719/)
 - [看过 小偷家族 万引き家族‎ (2018)](https://www.douban.com/people/136069238/status/3393843153/)
-- [看过 乘风破浪‎ (2017)](https://www.douban.com/people/136069238/status/3393842912/)
-- [看过 缝纫机乐队‎ (2017)](https://www.douban.com/people/136069238/status/3393842706/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
