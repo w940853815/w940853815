@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [看过 人潮汹涌‎ (2021)](https://www.douban.com/people/136069238/status/3416110416/)
 - [看过 唐人街探案3‎ (2021)](https://www.douban.com/people/136069238/status/3413950725/)
 - [在读 愤怒的葡萄](https://www.douban.com/people/136069238/status/3412182853/)
 - [读过 沉默的大多数](https://www.douban.com/people/136069238/status/3412182454/)
@@ -14,7 +15,6 @@
 - [读过 证券分析](https://www.douban.com/people/136069238/status/3394237792/)
 - [看过 吉祥如意‎ (2020)](https://www.douban.com/people/136069238/status/3393970927/)
 - [看过 中国机长‎ (2019)](https://www.douban.com/people/136069238/status/3393844047/)
-- [看过 幕后玩家‎ (2018)](https://www.douban.com/people/136069238/status/3393843719/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
