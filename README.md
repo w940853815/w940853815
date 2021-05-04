@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [看过 风中有朵雨做的云‎ (2018)](https://www.douban.com/people/136069238/status/3419440934/)
 - [看过 数码宝贝：最后的进化 デジモンアドベンチャー LAST EVOLUTION 絆‎ (2020)](https://www.douban.com/people/136069238/status/3416991842/)
 - [看过 人潮汹涌‎ (2021)](https://www.douban.com/people/136069238/status/3416110416/)
 - [看过 唐人街探案3‎ (2021)](https://www.douban.com/people/136069238/status/3413950725/)
@@ -14,7 +15,6 @@
 - [读过 百万英镑](https://www.douban.com/people/136069238/status/3404528243/)
 - [在读 百万英镑](https://www.douban.com/people/136069238/status/3394239419/)
 - [读过 证券分析](https://www.douban.com/people/136069238/status/3394237792/)
-- [看过 吉祥如意‎ (2020)](https://www.douban.com/people/136069238/status/3393970927/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
