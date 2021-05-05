@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [看过 灵笼‎ (2019)](https://www.douban.com/people/136069238/status/3421157289/)
 - [在读 好好思考](https://www.douban.com/people/136069238/status/3420347919/)
 - [读过 愤怒的葡萄](https://www.douban.com/people/136069238/status/3420344466/)
 - [看过 风中有朵雨做的云‎ (2018)](https://www.douban.com/people/136069238/status/3419440934/)
@@ -14,7 +15,6 @@
 - [在读 愤怒的葡萄](https://www.douban.com/people/136069238/status/3412182853/)
 - [读过 沉默的大多数](https://www.douban.com/people/136069238/status/3412182454/)
 - [在读 沉默的大多数](https://www.douban.com/people/136069238/status/3404532537/)
-- [读过 百万英镑](https://www.douban.com/people/136069238/status/3404528243/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
