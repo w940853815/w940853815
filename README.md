@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [关注 科学史的乔治·萨顿奖精选书目](https://www.douban.com/people/136069238/status/3422640151/)
 - [看过 灵笼‎ (2019)](https://www.douban.com/people/136069238/status/3421157289/)
 - [在读 好好思考](https://www.douban.com/people/136069238/status/3420347919/)
 - [读过 愤怒的葡萄](https://www.douban.com/people/136069238/status/3420344466/)
@@ -14,7 +15,6 @@
 - [看过 唐人街探案3‎ (2021)](https://www.douban.com/people/136069238/status/3413950725/)
 - [在读 愤怒的葡萄](https://www.douban.com/people/136069238/status/3412182853/)
 - [读过 沉默的大多数](https://www.douban.com/people/136069238/status/3412182454/)
-- [在读 沉默的大多数](https://www.douban.com/people/136069238/status/3404532537/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
