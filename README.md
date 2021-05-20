@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [读过 废都](https://www.douban.com/people/136069238/status/3443526226/)
 - [在读 西藏，西藏！](https://www.douban.com/people/136069238/status/3427200734/)
 - [看过 嘉年华‎ (2017)](https://www.douban.com/people/136069238/status/3426741460/)
 - [在读 废都](https://www.douban.com/people/136069238/status/3426261988/)
@@ -14,7 +15,6 @@
 - [在读 好好思考](https://www.douban.com/people/136069238/status/3420347919/)
 - [读过 愤怒的葡萄](https://www.douban.com/people/136069238/status/3420344466/)
 - [看过 风中有朵雨做的云‎ (2018)](https://www.douban.com/people/136069238/status/3419440934/)
-- [看过 数码宝贝：最后的进化 デジモンアドベンチャー LAST EVOLUTION 絆‎ (2020)](https://www.douban.com/people/136069238/status/3416991842/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
