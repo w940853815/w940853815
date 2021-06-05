@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [看过 扫黑·决战‎ (2021)](https://www.douban.com/people/136069238/status/3465231000/)
 - [在读 邓小平时代](https://www.douban.com/people/136069238/status/3459184759/)
 - [读过 西藏，西藏！](https://www.douban.com/people/136069238/status/3459184659/)
 - [读过 废都](https://www.douban.com/people/136069238/status/3443526226/)
@@ -14,7 +15,6 @@
 - [读过 好好思考](https://www.douban.com/people/136069238/status/3426259186/)
 - [关注 科学史的乔治·萨顿奖精选书目](https://www.douban.com/people/136069238/status/3422640151/)
 - [看过 灵笼‎ (2019)](https://www.douban.com/people/136069238/status/3421157289/)
-- [在读 好好思考](https://www.douban.com/people/136069238/status/3420347919/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
