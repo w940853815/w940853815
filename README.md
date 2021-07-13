@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [读过 雪人](https://www.douban.com/people/136069238/status/3512870314/)
 - [在读 雪人](https://www.douban.com/people/136069238/status/3501430941/)
 - [在读 比知识有趣的冷知识](https://www.douban.com/people/136069238/status/3500993227/)
 - [读过 邓小平时代](https://www.douban.com/people/136069238/status/3500975893/)
@@ -14,7 +15,6 @@
 - [在读 邓小平时代](https://www.douban.com/people/136069238/status/3459184759/)
 - [读过 西藏，西藏！](https://www.douban.com/people/136069238/status/3459184659/)
 - [读过 废都](https://www.douban.com/people/136069238/status/3443526226/)
-- [在读 西藏，西藏！](https://www.douban.com/people/136069238/status/3427200734/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
