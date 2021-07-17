@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [看过 波斯语课 Persischstunden‎ (2020)](https://www.douban.com/people/136069238/status/3517199321/)
 - [在读 格鲁夫给经理人的第一课](https://www.douban.com/people/136069238/status/3515185071/)
 - [读过 雪人](https://www.douban.com/people/136069238/status/3512870314/)
 - [在读 雪人](https://www.douban.com/people/136069238/status/3501430941/)
@@ -14,7 +15,6 @@
 - [看过 悬崖之上‎ (2021)](https://www.douban.com/people/136069238/status/3492825919/)
 - [看过 扫黑·决战‎ (2021)](https://www.douban.com/people/136069238/status/3465231000/)
 - [在读 邓小平时代](https://www.douban.com/people/136069238/status/3459184759/)
-- [读过 西藏，西藏！](https://www.douban.com/people/136069238/status/3459184659/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
