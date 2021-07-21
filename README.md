@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [在读 远大前程](https://www.douban.com/people/136069238/status/3522133150/)
 - [读过 格鲁夫给经理人的第一课](https://www.douban.com/people/136069238/status/3521161153/)
 - [看过 第十一回‎ (2019)](https://www.douban.com/people/136069238/status/3518566602/)
 - [读过 比知识有趣的冷知识](https://www.douban.com/people/136069238/status/3517415815/)
@@ -14,7 +15,6 @@
 - [在读 雪人](https://www.douban.com/people/136069238/status/3501430941/)
 - [在读 比知识有趣的冷知识](https://www.douban.com/people/136069238/status/3500993227/)
 - [读过 邓小平时代](https://www.douban.com/people/136069238/status/3500975893/)
-- [看过 你好，李焕英‎ (2021)](https://www.douban.com/people/136069238/status/3492975577/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
