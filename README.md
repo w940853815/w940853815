@@ -5,16 +5,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [看过 万能钥匙 The Skeleton Key‎ (2005)](https://www.douban.com/people/136069238/status/3569501275/)
+- [读过 智能时代](https://www.douban.com/people/136069238/status/3557820187/)
+- [在读 双城记](https://www.douban.com/people/136069238/status/3556742680/)
+- [看过 远大前程 Great Expectations‎ (2012)](https://www.douban.com/people/136069238/status/3551308997/)
+- [看过 革命者‎ (2021)](https://www.douban.com/people/136069238/status/3550774581/)
+- [在读 智能时代](https://www.douban.com/people/136069238/status/3544928763/)
+- [读过 远大前程](https://www.douban.com/people/136069238/status/3543761902/)
+- [看过 金矿 Gold‎ (2016)](https://www.douban.com/people/136069238/status/3543131959/)
 - [看过 局内人 내부자들‎ (2015)](https://www.douban.com/people/136069238/status/3534615748/)
 - [在读 远大前程](https://www.douban.com/people/136069238/status/3522133150/)
-- [读过 格鲁夫给经理人的第一课](https://www.douban.com/people/136069238/status/3521161153/)
-- [看过 第十一回‎ (2019)](https://www.douban.com/people/136069238/status/3518566602/)
-- [读过 比知识有趣的冷知识](https://www.douban.com/people/136069238/status/3517415815/)
-- [看过 波斯语课 Persischstunden‎ (2020)](https://www.douban.com/people/136069238/status/3517199321/)
-- [在读 格鲁夫给经理人的第一课](https://www.douban.com/people/136069238/status/3515185071/)
-- [读过 雪人](https://www.douban.com/people/136069238/status/3512870314/)
-- [在读 雪人](https://www.douban.com/people/136069238/status/3501430941/)
-- [在读 比知识有趣的冷知识](https://www.douban.com/people/136069238/status/3500993227/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
