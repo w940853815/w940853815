@@ -20,6 +20,6 @@ jobs:
           uid: 136069238
           max_count: 10
       - name: Commit & Push changes
-        uses: actions-js/push@master
+        uses: actions-js/push@4decc2887d2770f29177082be3c8b04d342f5b64
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
