@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [在读 江村经济](https://www.douban.com/people/136069238/status/3583437704/)
 - [在读 枪林弹雨中成长](https://www.douban.com/people/136069238/status/3578352514/)
 - [读过 双城记](https://www.douban.com/people/136069238/status/3578065234/)
 - [看过 树上有个好地方‎ (2019)](https://www.douban.com/people/136069238/status/3577881240/)
@@ -14,7 +15,6 @@
 - [看过 远大前程 Great Expectations‎ (2012)](https://www.douban.com/people/136069238/status/3551308997/)
 - [看过 革命者‎ (2021)](https://www.douban.com/people/136069238/status/3550774581/)
 - [在读 智能时代](https://www.douban.com/people/136069238/status/3544928763/)
-- [读过 远大前程](https://www.douban.com/people/136069238/status/3543761902/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
