@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [看过 卡拉什尼科夫 Калашников‎ (2020)](https://www.douban.com/people/136069238/status/3594385753/)
 - [看过 追龙 追龍‎ (2017)](https://www.douban.com/people/136069238/status/3593309153/)
 - [看过 无证之罪‎ (2017)](https://www.douban.com/people/136069238/status/3593190723/)
 - [在看 无证之罪‎ (2017)](https://www.douban.com/people/136069238/status/3592025731/)
@@ -14,7 +15,6 @@
 - [在读 江村经济](https://www.douban.com/people/136069238/status/3583437704/)
 - [在读 枪林弹雨中成长](https://www.douban.com/people/136069238/status/3578352514/)
 - [读过 双城记](https://www.douban.com/people/136069238/status/3578065234/)
-- [看过 树上有个好地方‎ (2019)](https://www.douban.com/people/136069238/status/3577881240/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
