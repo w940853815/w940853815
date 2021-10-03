@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [看过 天下无贼‎ (2004)](https://www.douban.com/people/136069238/status/3607796611/)
 - [在读 戴维斯王朝](https://www.douban.com/people/136069238/status/3607201218/)
 - [读过 血酬定律](https://www.douban.com/people/136069238/status/3607197927/)
 - [看过 天劫余生 Alive‎ (1993)](https://www.douban.com/people/136069238/status/3606533766/)
@@ -14,7 +15,6 @@
 - [在读 血酬定律](https://www.douban.com/people/136069238/status/3594524981/)
 - [读过 江村经济](https://www.douban.com/people/136069238/status/3594523916/)
 - [看过 卡拉什尼科夫 Калашников‎ (2020)](https://www.douban.com/people/136069238/status/3594385753/)
-- [看过 追龙 追龍‎ (2017)](https://www.douban.com/people/136069238/status/3593309153/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
