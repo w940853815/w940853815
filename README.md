@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [看过 荒蛮故事 Relatos salvajes‎ (2014)](https://www.douban.com/people/136069238/status/3609045769/)
 - [看过 天下无贼‎ (2004)](https://www.douban.com/people/136069238/status/3607796611/)
 - [在读 戴维斯王朝](https://www.douban.com/people/136069238/status/3607201218/)
 - [读过 血酬定律](https://www.douban.com/people/136069238/status/3607197927/)
@@ -14,7 +15,6 @@
 - [看过 断箭 부러진 화살‎ (2011)](https://www.douban.com/people/136069238/status/3598453968/)
 - [在读 血酬定律](https://www.douban.com/people/136069238/status/3594524981/)
 - [读过 江村经济](https://www.douban.com/people/136069238/status/3594523916/)
-- [看过 卡拉什尼科夫 Калашников‎ (2020)](https://www.douban.com/people/136069238/status/3594385753/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
