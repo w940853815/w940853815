@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [看过 暗杀 암살‎ (2015)](https://www.douban.com/people/136069238/status/3621839871/)
 - [读过 戴维斯王朝](https://www.douban.com/people/136069238/status/3617163595/)
 - [看过 七宗罪 Se7en‎ (1995)](https://www.douban.com/people/136069238/status/3615741933/)
 - [看过 恐袭波士顿 Patriots Day‎ (2016)](https://www.douban.com/people/136069238/status/3612879333/)
@@ -14,7 +15,6 @@
 - [在读 戴维斯王朝](https://www.douban.com/people/136069238/status/3607201218/)
 - [读过 血酬定律](https://www.douban.com/people/136069238/status/3607197927/)
 - [看过 天劫余生 Alive‎ (1993)](https://www.douban.com/people/136069238/status/3606533766/)
-- [看过 来的都是客‎ (1990)](https://www.douban.com/people/136069238/status/3603086804/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
