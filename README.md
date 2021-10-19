@@ -5,6 +5,8 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [在读 安娜·卡列尼娜](https://www.douban.com/people/136069238/status/3625420280/)
+- [读过 世界电影史（第一卷）](https://www.douban.com/people/136069238/status/3625419209/)
 - [看过 暗杀 암살‎ (2015)](https://www.douban.com/people/136069238/status/3621839871/)
 - [读过 戴维斯王朝](https://www.douban.com/people/136069238/status/3617163595/)
 - [看过 七宗罪 Se7en‎ (1995)](https://www.douban.com/people/136069238/status/3615741933/)
@@ -13,8 +15,6 @@
 - [看过 荒蛮故事 Relatos salvajes‎ (2014)](https://www.douban.com/people/136069238/status/3609045769/)
 - [看过 天下无贼‎ (2004)](https://www.douban.com/people/136069238/status/3607796611/)
 - [在读 戴维斯王朝](https://www.douban.com/people/136069238/status/3607201218/)
-- [读过 血酬定律](https://www.douban.com/people/136069238/status/3607197927/)
-- [看过 天劫余生 Alive‎ (1993)](https://www.douban.com/people/136069238/status/3606533766/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
