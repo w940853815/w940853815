@@ -5,6 +5,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [看过 上车走吧‎ (2000)](https://www.douban.com/people/136069238/status/3637719305/)
 - [看过 手机‎ (2003)](https://www.douban.com/people/136069238/status/3637051304/)
 - [看过 落叶归根‎ (2007)](https://www.douban.com/people/136069238/status/3630316395/)
 - [在读 安娜·卡列尼娜](https://www.douban.com/people/136069238/status/3625420280/)
@@ -14,7 +15,6 @@
 - [看过 七宗罪 Se7en‎ (1995)](https://www.douban.com/people/136069238/status/3615741933/)
 - [看过 恐袭波士顿 Patriots Day‎ (2016)](https://www.douban.com/people/136069238/status/3612879333/)
 - [看过 传奇的诞生 Pelé: Birth of a Legend‎ (2016)](https://www.douban.com/people/136069238/status/3609701425/)
-- [看过 荒蛮故事 Relatos salvajes‎ (2014)](https://www.douban.com/people/136069238/status/3609045769/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
