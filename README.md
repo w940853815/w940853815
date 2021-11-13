@@ -18,6 +18,7 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [看过 甲方乙方‎ (1997)](https://www.douban.com/people/136069238/status/3651577723/)
 - [看过 巴比龙 Papillon‎ (2017)](https://www.douban.com/people/136069238/status/3645198699/)
 - [看过 上车走吧‎ (2000)](https://www.douban.com/people/136069238/status/3637719305/)
 - [看过 手机‎ (2003)](https://www.douban.com/people/136069238/status/3637051304/)
@@ -27,7 +28,6 @@
 - [看过 暗杀 암살‎ (2015)](https://www.douban.com/people/136069238/status/3621839871/)
 - [读过 戴维斯王朝](https://www.douban.com/people/136069238/status/3617163595/)
 - [看过 七宗罪 Se7en‎ (1995)](https://www.douban.com/people/136069238/status/3615741933/)
-- [看过 恐袭波士顿 Patriots Day‎ (2016)](https://www.douban.com/people/136069238/status/3612879333/)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
