@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 决不让步 North Country‎ (2005)](https://www.douban.com/people/136069238/status/3660051849/?_i=37542154)
-- [想读 我不知道该说什么，关于死亡还是爱情](https://www.douban.com/people/136069238/status/3653363833/?_i=37542154)
-- [看过 甲方乙方‎ (1997)](https://www.douban.com/people/136069238/status/3651577723/?_i=37542154)
-- [看过 巴比龙 Papillon‎ (2017)](https://www.douban.com/people/136069238/status/3645198699/?_i=37542154)
-- [看过 上车走吧‎ (2000)](https://www.douban.com/people/136069238/status/3637719305/?_i=37542154)
-- [看过 手机‎ (2003)](https://www.douban.com/people/136069238/status/3637051304/?_i=37542154)
-- [看过 落叶归根‎ (2007)](https://www.douban.com/people/136069238/status/3630316395/?_i=37542154)
-- [在读 安娜·卡列尼娜](https://www.douban.com/people/136069238/status/3625420280/?_i=37542154)
-- [读过 世界电影史（第一卷）](https://www.douban.com/people/136069238/status/3625419209/?_i=37542154)
-- [看过 暗杀 암살‎ (2015)](https://www.douban.com/people/136069238/status/3621839871/?_i=37542154)
+- [看过 决不让步 North Country‎ (2005)](https://www.douban.com/people/136069238/status/3660051849/?_i=37548147)
+- [想读 我不知道该说什么，关于死亡还是爱情](https://www.douban.com/people/136069238/status/3653363833/?_i=37548147)
+- [看过 甲方乙方‎ (1997)](https://www.douban.com/people/136069238/status/3651577723/?_i=37548147)
+- [看过 巴比龙 Papillon‎ (2017)](https://www.douban.com/people/136069238/status/3645198699/?_i=37548147)
+- [看过 上车走吧‎ (2000)](https://www.douban.com/people/136069238/status/3637719305/?_i=37548147)
+- [看过 手机‎ (2003)](https://www.douban.com/people/136069238/status/3637051304/?_i=37548147)
+- [看过 落叶归根‎ (2007)](https://www.douban.com/people/136069238/status/3630316395/?_i=37548147)
+- [在读 安娜·卡列尼娜](https://www.douban.com/people/136069238/status/3625420280/?_i=37548147)
+- [读过 世界电影史（第一卷）](https://www.douban.com/people/136069238/status/3625419209/?_i=37548147)
+- [看过 暗杀 암살‎ (2015)](https://www.douban.com/people/136069238/status/3621839871/?_i=37548147)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
