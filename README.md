@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在读 千面英雄](https://www.douban.com/people/136069238/status/3663940890/?_i=37748961)
-- [在看 安娜·卡列尼娜 Анна Каренина‎ (2017)](https://www.douban.com/people/136069238/status/3663786141/?_i=37748961)
-- [读过 安娜·卡列尼娜](https://www.douban.com/people/136069238/status/3663783067/?_i=37748961)
-- [看过 决不让步 North Country‎ (2005)](https://www.douban.com/people/136069238/status/3660051849/?_i=37748961)
-- [想读 我不知道该说什么，关于死亡还是爱情](https://www.douban.com/people/136069238/status/3653363833/?_i=37748961)
-- [看过 甲方乙方‎ (1997)](https://www.douban.com/people/136069238/status/3651577723/?_i=37748961)
-- [看过 巴比龙 Papillon‎ (2017)](https://www.douban.com/people/136069238/status/3645198699/?_i=37748961)
-- [看过 上车走吧‎ (2000)](https://www.douban.com/people/136069238/status/3637719305/?_i=37748961)
-- [看过 手机‎ (2003)](https://www.douban.com/people/136069238/status/3637051304/?_i=37748961)
-- [看过 落叶归根‎ (2007)](https://www.douban.com/people/136069238/status/3630316395/?_i=37748961)
+- [在读 千面英雄](https://www.douban.com/people/136069238/status/3663940890/?_i=37756598)
+- [在看 安娜·卡列尼娜 Анна Каренина‎ (2017)](https://www.douban.com/people/136069238/status/3663786141/?_i=37756598)
+- [读过 安娜·卡列尼娜](https://www.douban.com/people/136069238/status/3663783067/?_i=37756598)
+- [看过 决不让步 North Country‎ (2005)](https://www.douban.com/people/136069238/status/3660051849/?_i=37756598)
+- [想读 我不知道该说什么，关于死亡还是爱情](https://www.douban.com/people/136069238/status/3653363833/?_i=37756598)
+- [看过 甲方乙方‎ (1997)](https://www.douban.com/people/136069238/status/3651577723/?_i=37756598)
+- [看过 巴比龙 Papillon‎ (2017)](https://www.douban.com/people/136069238/status/3645198699/?_i=37756598)
+- [看过 上车走吧‎ (2000)](https://www.douban.com/people/136069238/status/3637719305/?_i=37756598)
+- [看过 手机‎ (2003)](https://www.douban.com/people/136069238/status/3637051304/?_i=37756598)
+- [看过 落叶归根‎ (2007)](https://www.douban.com/people/136069238/status/3630316395/?_i=37756598)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
