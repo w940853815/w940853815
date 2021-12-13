@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 入侵脑细胞 The Cell‎ (2000)](https://www.douban.com/people/136069238/status/3685689445/?_i=39404849)
-- [看过 大空头 The Big Short‎ (2015)](https://www.douban.com/people/136069238/status/3684552601/?_i=39404849)
-- [在读 毛泽东选集 第三卷](https://www.douban.com/people/136069238/status/3684195205/?_i=39404849)
-- [读过 TypeScript入门与实战](https://www.douban.com/people/136069238/status/3684185937/?_i=39404849)
-- [读过 千面英雄](https://www.douban.com/people/136069238/status/3684185774/?_i=39404849)
-- [读过 医学影像诊断学](https://www.douban.com/people/136069238/status/3677621058/?_i=39404849)
-- [看过 大而不倒 Too Big to Fail‎ (2011)](https://www.douban.com/people/136069238/status/3676265621/?_i=39404849)
-- [想读 赶往火星](https://www.douban.com/people/136069238/status/3669051189/?_i=39404849)
-- [看过 天际行者 Время первых‎ (2017)](https://www.douban.com/people/136069238/status/3669036721/?_i=39404849)
-- [看过 英雄联盟：双城之战 第一季 Arcane Season 1‎ (2021)](https://www.douban.com/people/136069238/status/3668451978/?_i=39404849)
+- [看过 入侵脑细胞 The Cell‎ (2000)](https://www.douban.com/people/136069238/status/3685689445/?_i=39412566)
+- [看过 大空头 The Big Short‎ (2015)](https://www.douban.com/people/136069238/status/3684552601/?_i=39412566)
+- [在读 毛泽东选集 第三卷](https://www.douban.com/people/136069238/status/3684195205/?_i=39412566)
+- [读过 TypeScript入门与实战](https://www.douban.com/people/136069238/status/3684185937/?_i=39412566)
+- [读过 千面英雄](https://www.douban.com/people/136069238/status/3684185774/?_i=39412566)
+- [读过 医学影像诊断学](https://www.douban.com/people/136069238/status/3677621058/?_i=39412566)
+- [看过 大而不倒 Too Big to Fail‎ (2011)](https://www.douban.com/people/136069238/status/3676265621/?_i=39412566)
+- [想读 赶往火星](https://www.douban.com/people/136069238/status/3669051189/?_i=39412566)
+- [看过 天际行者 Время первых‎ (2017)](https://www.douban.com/people/136069238/status/3669036721/?_i=39412566)
+- [看过 英雄联盟：双城之战 第一季 Arcane Season 1‎ (2021)](https://www.douban.com/people/136069238/status/3668451978/?_i=39412566)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
