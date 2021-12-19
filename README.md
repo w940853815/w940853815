@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [读过 毛泽东选集 第三卷](https://www.douban.com/people/136069238/status/3693765677/?_i=39908946)
-- [看过 千钧一发 Gattaca‎ (1997)](https://www.douban.com/people/136069238/status/3693596409/?_i=39908946)
-- [看过 破·局‎ (2017)](https://www.douban.com/people/136069238/status/3692455583/?_i=39908946)
-- [看过 入侵脑细胞 The Cell‎ (2000)](https://www.douban.com/people/136069238/status/3685689445/?_i=39908946)
-- [看过 大空头 The Big Short‎ (2015)](https://www.douban.com/people/136069238/status/3684552601/?_i=39908946)
-- [在读 毛泽东选集 第三卷](https://www.douban.com/people/136069238/status/3684195205/?_i=39908946)
-- [读过 TypeScript入门与实战](https://www.douban.com/people/136069238/status/3684185937/?_i=39908946)
-- [读过 千面英雄](https://www.douban.com/people/136069238/status/3684185774/?_i=39908946)
-- [读过 医学影像诊断学](https://www.douban.com/people/136069238/status/3677621058/?_i=39908946)
-- [看过 大而不倒 Too Big to Fail‎ (2011)](https://www.douban.com/people/136069238/status/3676265621/?_i=39908946)
+- [读过 毛泽东选集 第三卷](https://www.douban.com/people/136069238/status/3693765677/?_i=39916616)
+- [看过 千钧一发 Gattaca‎ (1997)](https://www.douban.com/people/136069238/status/3693596409/?_i=39916616)
+- [看过 破·局‎ (2017)](https://www.douban.com/people/136069238/status/3692455583/?_i=39916616)
+- [看过 入侵脑细胞 The Cell‎ (2000)](https://www.douban.com/people/136069238/status/3685689445/?_i=39916616)
+- [看过 大空头 The Big Short‎ (2015)](https://www.douban.com/people/136069238/status/3684552601/?_i=39916616)
+- [在读 毛泽东选集 第三卷](https://www.douban.com/people/136069238/status/3684195205/?_i=39916616)
+- [读过 TypeScript入门与实战](https://www.douban.com/people/136069238/status/3684185937/?_i=39916616)
+- [读过 千面英雄](https://www.douban.com/people/136069238/status/3684185774/?_i=39916616)
+- [读过 医学影像诊断学](https://www.douban.com/people/136069238/status/3677621058/?_i=39916616)
+- [看过 大而不倒 Too Big to Fail‎ (2011)](https://www.douban.com/people/136069238/status/3676265621/?_i=39916616)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
