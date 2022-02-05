@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [读过 强风吹拂](https://www.douban.com/people/136069238/status/3749992005/?_i=44021828)
-- [看过 感官游戏 eXistenZ‎ (1999)](https://www.douban.com/people/136069238/status/3748577364/?_i=44021828)
-- [看过 过年‎ (1991)](https://www.douban.com/people/136069238/status/3747235967/?_i=44021828)
-- [看过 解救吾先生‎ (2015)](https://www.douban.com/people/136069238/status/3744047085/?_i=44021828)
-- [在读 我不知道该说什么，关于死亡还是爱情](https://www.douban.com/people/136069238/status/3742672820/?_i=44021828)
-- [看过 开端‎ (2022)](https://www.douban.com/people/136069238/status/3737530861/?_i=44021828)
-- [看过 混沌行走 Chaos Walking‎ (2021)](https://www.douban.com/people/136069238/status/3734828206/?_i=44021828)
-- [在看 开端‎ (2022)](https://www.douban.com/people/136069238/status/3733533297/?_i=44021828)
-- [看过 沙丘 Dune‎ (2021)](https://www.douban.com/people/136069238/status/3726869471/?_i=44021828)
-- [读过 置身事内](https://www.douban.com/people/136069238/status/3726223867/?_i=44021828)
+- [读过 强风吹拂](https://www.douban.com/people/136069238/status/3749992005/?_i=44027266)
+- [看过 感官游戏 eXistenZ‎ (1999)](https://www.douban.com/people/136069238/status/3748577364/?_i=44027266)
+- [看过 过年‎ (1991)](https://www.douban.com/people/136069238/status/3747235967/?_i=44027266)
+- [看过 解救吾先生‎ (2015)](https://www.douban.com/people/136069238/status/3744047085/?_i=44027266)
+- [在读 我不知道该说什么，关于死亡还是爱情](https://www.douban.com/people/136069238/status/3742672820/?_i=44027266)
+- [看过 开端‎ (2022)](https://www.douban.com/people/136069238/status/3737530861/?_i=44027266)
+- [看过 混沌行走 Chaos Walking‎ (2021)](https://www.douban.com/people/136069238/status/3734828206/?_i=44027266)
+- [在看 开端‎ (2022)](https://www.douban.com/people/136069238/status/3733533297/?_i=44027266)
+- [看过 沙丘 Dune‎ (2021)](https://www.douban.com/people/136069238/status/3726869471/?_i=44027266)
+- [读过 置身事内](https://www.douban.com/people/136069238/status/3726223867/?_i=44027266)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
