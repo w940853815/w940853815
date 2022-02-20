@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [读过 日本第一](https://www.douban.com/people/136069238/status/3770375760/?_i=45330711)
-- [看过 尼罗河上的惨案 Death on the Nile‎ (2022)](https://www.douban.com/people/136069238/status/3769491950/?_i=45330711)
-- [想读 留学美国：一个时代的故事](https://www.douban.com/people/136069238/status/3768550721/?_i=45330711)
-- [在读 李光耀观天下](https://www.douban.com/people/136069238/status/3766041312/?_i=45330711)
-- [读过 HTML5 Canvas开发详解 Web前端开发精品课](https://www.douban.com/people/136069238/status/3766040143/?_i=45330711)
-- [读过 李鸿章·袁世凯](https://www.douban.com/people/136069238/status/3761877441/?_i=45330711)
-- [看过 光荣的愤怒‎ (2006)](https://www.douban.com/people/136069238/status/3761756079/?_i=45330711)
-- [看过 美国工厂 American Factory‎ (2019)](https://www.douban.com/people/136069238/status/3755217209/?_i=45330711)
-- [看过 私人订制‎ (2013)](https://www.douban.com/people/136069238/status/3754213881/?_i=45330711)
-- [在读 HTML5 Canvas开发详解 Web前端开发精品课](https://www.douban.com/people/136069238/status/3753058718/?_i=45330711)
+- [读过 日本第一](https://www.douban.com/people/136069238/status/3770375760/?_i=45337821)
+- [看过 尼罗河上的惨案 Death on the Nile‎ (2022)](https://www.douban.com/people/136069238/status/3769491950/?_i=45337821)
+- [想读 留学美国：一个时代的故事](https://www.douban.com/people/136069238/status/3768550721/?_i=45337821)
+- [在读 李光耀观天下](https://www.douban.com/people/136069238/status/3766041312/?_i=45337821)
+- [读过 HTML5 Canvas开发详解 Web前端开发精品课](https://www.douban.com/people/136069238/status/3766040143/?_i=45337821)
+- [读过 李鸿章·袁世凯](https://www.douban.com/people/136069238/status/3761877441/?_i=45337821)
+- [看过 光荣的愤怒‎ (2006)](https://www.douban.com/people/136069238/status/3761756079/?_i=45337821)
+- [看过 美国工厂 American Factory‎ (2019)](https://www.douban.com/people/136069238/status/3755217209/?_i=45337821)
+- [看过 私人订制‎ (2013)](https://www.douban.com/people/136069238/status/3754213881/?_i=45337821)
+- [在读 HTML5 Canvas开发详解 Web前端开发精品课](https://www.douban.com/people/136069238/status/3753058718/?_i=45337821)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
