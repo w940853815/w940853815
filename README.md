@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在读 Linux内核深度解析](https://www.douban.com/people/136069238/status/3790997133/?_i=46885971)
-- [在读 普京传](https://www.douban.com/people/136069238/status/3786411478/?_i=46885971)
-- [读过 运维前线](https://www.douban.com/people/136069238/status/3786410747/?_i=46885971)
-- [看过 思维空间 Anna‎ (2013)](https://www.douban.com/people/136069238/status/3786092531/?_i=46885971)
-- [读过 李光耀观天下](https://www.douban.com/people/136069238/status/3779830661/?_i=46885971)
-- [看过 误杀2‎ (2021)](https://www.douban.com/people/136069238/status/3779360592/?_i=46885971)
-- [在读 索拉里斯星](https://www.douban.com/people/136069238/status/3779002317/?_i=46885971)
-- [读过 我不知道该说什么，关于死亡还是爱情](https://www.douban.com/people/136069238/status/3778409279/?_i=46885971)
-- [看过 但是还有书籍 第二季‎ (2022)](https://www.douban.com/people/136069238/status/3778351685/?_i=46885971)
-- [想读 黑血 1](https://www.douban.com/people/136069238/status/3772430515/?_i=46885971)
+- [在读 Linux内核深度解析](https://www.douban.com/people/136069238/status/3790997133/?_i=46893103)
+- [在读 普京传](https://www.douban.com/people/136069238/status/3786411478/?_i=46893103)
+- [读过 运维前线](https://www.douban.com/people/136069238/status/3786410747/?_i=46893103)
+- [看过 思维空间 Anna‎ (2013)](https://www.douban.com/people/136069238/status/3786092531/?_i=46893103)
+- [读过 李光耀观天下](https://www.douban.com/people/136069238/status/3779830661/?_i=46893103)
+- [看过 误杀2‎ (2021)](https://www.douban.com/people/136069238/status/3779360592/?_i=46893103)
+- [在读 索拉里斯星](https://www.douban.com/people/136069238/status/3779002317/?_i=46893103)
+- [读过 我不知道该说什么，关于死亡还是爱情](https://www.douban.com/people/136069238/status/3778409279/?_i=46893103)
+- [看过 但是还有书籍 第二季‎ (2022)](https://www.douban.com/people/136069238/status/3778351685/?_i=46893103)
+- [想读 黑血 1](https://www.douban.com/people/136069238/status/3772430515/?_i=46893103)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
