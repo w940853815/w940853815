@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 变脸‎ (1995)](https://www.douban.com/people/136069238/status/3794210254/?_i=47102006)
-- [在读 OpenCV 4计算机视觉：Python语言实现（原书第3版）](https://www.douban.com/people/136069238/status/3794059733/?_i=47102006)
-- [在读 工作、消费主义和新穷人](https://www.douban.com/people/136069238/status/3793862963/?_i=47102006)
-- [想看 飞向太空 Солярис‎ (1972)](https://www.douban.com/people/136069238/status/3792219567/?_i=47102006)
-- [读过 索拉里斯星](https://www.douban.com/people/136069238/status/3792213928/?_i=47102006)
-- [在读 Linux内核深度解析](https://www.douban.com/people/136069238/status/3790997133/?_i=47102006)
-- [在读 普京传](https://www.douban.com/people/136069238/status/3786411478/?_i=47102006)
-- [读过 运维前线](https://www.douban.com/people/136069238/status/3786410747/?_i=47102006)
-- [看过 思维空间 Anna‎ (2013)](https://www.douban.com/people/136069238/status/3786092531/?_i=47102006)
-- [读过 李光耀观天下](https://www.douban.com/people/136069238/status/3779830661/?_i=47102006)
+- [看过 变脸‎ (1995)](https://www.douban.com/people/136069238/status/3794210254/?_i=47109037)
+- [在读 OpenCV 4计算机视觉：Python语言实现（原书第3版）](https://www.douban.com/people/136069238/status/3794059733/?_i=47109037)
+- [在读 工作、消费主义和新穷人](https://www.douban.com/people/136069238/status/3793862963/?_i=47109037)
+- [想看 飞向太空 Солярис‎ (1972)](https://www.douban.com/people/136069238/status/3792219567/?_i=47109037)
+- [读过 索拉里斯星](https://www.douban.com/people/136069238/status/3792213928/?_i=47109037)
+- [在读 Linux内核深度解析](https://www.douban.com/people/136069238/status/3790997133/?_i=47109037)
+- [在读 普京传](https://www.douban.com/people/136069238/status/3786411478/?_i=47109037)
+- [读过 运维前线](https://www.douban.com/people/136069238/status/3786410747/?_i=47109037)
+- [看过 思维空间 Anna‎ (2013)](https://www.douban.com/people/136069238/status/3786092531/?_i=47109037)
+- [读过 李光耀观天下](https://www.douban.com/people/136069238/status/3779830661/?_i=47109037)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
