@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [读过 工作、消费主义和新穷人](https://www.douban.com/people/136069238/status/3803834644/?_i=47857824)
-- [在读 穆斯林的葬礼](https://www.douban.com/people/136069238/status/3802824932/?_i=47857824)
-- [想看 功勋‎ (2021)](https://www.douban.com/people/136069238/status/3802127044/?_i=47857824)
-- [在读 回答不了](https://www.douban.com/people/136069238/status/3802078489/?_i=47857824)
-- [读过 普京传](https://www.douban.com/people/136069238/status/3802076688/?_i=47857824)
-- [在看 大明王朝1566‎ (2007)](https://www.douban.com/people/136069238/status/3800275133/?_i=47857824)
-- [看过 普罗米修斯 Prometheus‎ (2012)](https://www.douban.com/people/136069238/status/3795487470/?_i=47857824)
-- [想读 财务自由第一课](https://www.douban.com/people/136069238/status/3794955007/?_i=47857824)
-- [看过 变脸‎ (1995)](https://www.douban.com/people/136069238/status/3794210254/?_i=47857824)
-- [在读 OpenCV 4计算机视觉：Python语言实现（原书第3版）](https://www.douban.com/people/136069238/status/3794059733/?_i=47857824)
+- [读过 工作、消费主义和新穷人](https://www.douban.com/people/136069238/status/3803834644/?_i=47865619)
+- [在读 穆斯林的葬礼](https://www.douban.com/people/136069238/status/3802824932/?_i=47865619)
+- [想看 功勋‎ (2021)](https://www.douban.com/people/136069238/status/3802127044/?_i=47865619)
+- [在读 回答不了](https://www.douban.com/people/136069238/status/3802078489/?_i=47865619)
+- [读过 普京传](https://www.douban.com/people/136069238/status/3802076688/?_i=47865619)
+- [在看 大明王朝1566‎ (2007)](https://www.douban.com/people/136069238/status/3800275133/?_i=47865619)
+- [看过 普罗米修斯 Prometheus‎ (2012)](https://www.douban.com/people/136069238/status/3795487470/?_i=47865619)
+- [想读 财务自由第一课](https://www.douban.com/people/136069238/status/3794955007/?_i=47865619)
+- [看过 变脸‎ (1995)](https://www.douban.com/people/136069238/status/3794210254/?_i=47865619)
+- [在读 OpenCV 4计算机视觉：Python语言实现（原书第3版）](https://www.douban.com/people/136069238/status/3794059733/?_i=47865619)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
