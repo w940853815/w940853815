@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [读过 人人都懂设计模式：从生活中领悟设计模式：Python实现](https://www.douban.com/people/136069238/status/3806334005/?_i=48189180)
-- [在读 论中国](https://www.douban.com/people/136069238/status/3805671678/?_i=48189180)
-- [读过 工作、消费主义和新穷人](https://www.douban.com/people/136069238/status/3803834644/?_i=48189180)
-- [在读 穆斯林的葬礼](https://www.douban.com/people/136069238/status/3802824932/?_i=48189180)
-- [想看 功勋‎ (2021)](https://www.douban.com/people/136069238/status/3802127044/?_i=48189180)
-- [在读 回答不了](https://www.douban.com/people/136069238/status/3802078489/?_i=48189180)
-- [读过 普京传](https://www.douban.com/people/136069238/status/3802076688/?_i=48189180)
-- [在看 大明王朝1566‎ (2007)](https://www.douban.com/people/136069238/status/3800275133/?_i=48189180)
-- [看过 普罗米修斯 Prometheus‎ (2012)](https://www.douban.com/people/136069238/status/3795487470/?_i=48189180)
-- [想读 财务自由第一课](https://www.douban.com/people/136069238/status/3794955007/?_i=48189180)
+- [读过 人人都懂设计模式：从生活中领悟设计模式：Python实现](https://www.douban.com/people/136069238/status/3806334005/?_i=48196312)
+- [在读 论中国](https://www.douban.com/people/136069238/status/3805671678/?_i=48196312)
+- [读过 工作、消费主义和新穷人](https://www.douban.com/people/136069238/status/3803834644/?_i=48196312)
+- [在读 穆斯林的葬礼](https://www.douban.com/people/136069238/status/3802824932/?_i=48196312)
+- [想看 功勋‎ (2021)](https://www.douban.com/people/136069238/status/3802127044/?_i=48196312)
+- [在读 回答不了](https://www.douban.com/people/136069238/status/3802078489/?_i=48196312)
+- [读过 普京传](https://www.douban.com/people/136069238/status/3802076688/?_i=48196312)
+- [在看 大明王朝1566‎ (2007)](https://www.douban.com/people/136069238/status/3800275133/?_i=48196312)
+- [看过 普罗米修斯 Prometheus‎ (2012)](https://www.douban.com/people/136069238/status/3795487470/?_i=48196312)
+- [想读 财务自由第一课](https://www.douban.com/people/136069238/status/3794955007/?_i=48196312)
 <!-- DOUBAN-ACTIVITIES:END -->
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
