@@ -29,6 +29,10 @@
 - [看过 大明王朝1566‎ (2007)](https://www.douban.com/people/136069238/status/3821396719/?_i=49801725)
 - [读过 回答不了](https://www.douban.com/people/136069238/status/3812155932/?_i=49801725)
 <!-- DOUBAN-ACTIVITIES:END -->
+
+  
+![Snake animation](https://raw.githubusercontent.com/w940853815/w940853815/output/github-contribution-grid-snake.svg)
+
 <!--
 **w940853815/w940853815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
