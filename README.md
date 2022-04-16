@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 11:14‎ (2003)](https://www.douban.com/people/136069238/status/3835626317/?_i=50071361)
-- [在读 C# 7.0 核心技术指南](https://www.douban.com/people/136069238/status/3830662473/?_i=50071361)
-- [看过 本能反应 Instinct‎ (1999)](https://www.douban.com/people/136069238/status/3829930205/?_i=50071361)
-- [看过 神奇动物：邓布利多之谜 Fantastic Beasts: The Secrets of Dumbledore‎ (2022)](https://www.douban.com/people/136069238/status/3828272678/?_i=50071361)
-- [想看 胜者即是正义SP リーガル・ハイSP‎ (2013)](https://www.douban.com/people/136069238/status/3827478378/?_i=50071361)
-- [看过 入殓师 おくりびと‎ (2008)](https://www.douban.com/people/136069238/status/3827476944/?_i=50071361)
-- [看过 星尘 Stardust‎ (2007)](https://www.douban.com/people/136069238/status/3822692117/?_i=50071361)
-- [在看 北平无战事‎ (2014)](https://www.douban.com/people/136069238/status/3821449886/?_i=50071361)
-- [想看 汉武大帝‎ (2005)](https://www.douban.com/people/136069238/status/3821405621/?_i=50071361)
-- [看过 大明王朝1566‎ (2007)](https://www.douban.com/people/136069238/status/3821396719/?_i=50071361)
+- [看过 11:14‎ (2003)](https://www.douban.com/people/136069238/status/3835626317/?_i=50077464)
+- [在读 C# 7.0 核心技术指南](https://www.douban.com/people/136069238/status/3830662473/?_i=50077464)
+- [看过 本能反应 Instinct‎ (1999)](https://www.douban.com/people/136069238/status/3829930205/?_i=50077464)
+- [看过 神奇动物：邓布利多之谜 Fantastic Beasts: The Secrets of Dumbledore‎ (2022)](https://www.douban.com/people/136069238/status/3828272678/?_i=50077464)
+- [想看 胜者即是正义SP リーガル・ハイSP‎ (2013)](https://www.douban.com/people/136069238/status/3827478378/?_i=50077464)
+- [看过 入殓师 おくりびと‎ (2008)](https://www.douban.com/people/136069238/status/3827476944/?_i=50077464)
+- [看过 星尘 Stardust‎ (2007)](https://www.douban.com/people/136069238/status/3822692117/?_i=50077464)
+- [在看 北平无战事‎ (2014)](https://www.douban.com/people/136069238/status/3821449886/?_i=50077464)
+- [想看 汉武大帝‎ (2005)](https://www.douban.com/people/136069238/status/3821405621/?_i=50077464)
+- [看过 大明王朝1566‎ (2007)](https://www.douban.com/people/136069238/status/3821396719/?_i=50077464)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
