@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在看 重生之门‎ (2022)](https://www.douban.com/people/136069238/status/3882598762/?_i=54100714)
-- [在看 亿万 第一季 Billions Season 1‎ (2016)](https://www.douban.com/people/136069238/status/3878098700/?_i=54100714)
-- [在读 蒋经国传](https://www.douban.com/people/136069238/status/3877458956/?_i=54100714)
-- [在读 梁启超](https://www.douban.com/people/136069238/status/3876806133/?_i=54100714)
-- [想看 爱情公寓2‎ (2011)](https://www.douban.com/people/136069238/status/3876682115/?_i=54100714)
-- [读过 以鸟兽之名](https://www.douban.com/people/136069238/status/3876369302/?_i=54100714)
-- [在读 以鸟兽之名](https://www.douban.com/people/136069238/status/3869094471/?_i=54100714)
-- [读过 绝对笑喷之弃业医生日志](https://www.douban.com/people/136069238/status/3869093225/?_i=54100714)
-- [在读 绝对笑喷之弃业医生日志](https://www.douban.com/people/136069238/status/3862106751/?_i=54100714)
-- [读过 论中国](https://www.douban.com/people/136069238/status/3862105795/?_i=54100714)
+- [在看 重生之门‎ (2022)](https://www.douban.com/people/136069238/status/3882598762/?_i=54107680)
+- [在看 亿万 第一季 Billions Season 1‎ (2016)](https://www.douban.com/people/136069238/status/3878098700/?_i=54107680)
+- [在读 蒋经国传](https://www.douban.com/people/136069238/status/3877458956/?_i=54107680)
+- [在读 梁启超](https://www.douban.com/people/136069238/status/3876806133/?_i=54107680)
+- [想看 爱情公寓2‎ (2011)](https://www.douban.com/people/136069238/status/3876682115/?_i=54107680)
+- [读过 以鸟兽之名](https://www.douban.com/people/136069238/status/3876369302/?_i=54107680)
+- [在读 以鸟兽之名](https://www.douban.com/people/136069238/status/3869094471/?_i=54107680)
+- [读过 绝对笑喷之弃业医生日志](https://www.douban.com/people/136069238/status/3869093225/?_i=54107680)
+- [在读 绝对笑喷之弃业医生日志](https://www.douban.com/people/136069238/status/3862106751/?_i=54107680)
+- [读过 论中国](https://www.douban.com/people/136069238/status/3862105795/?_i=54107680)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
