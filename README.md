@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在读 大征服](https://www.douban.com/people/136069238/status/3898177227/?_i=55095062)
-- [读过 世界上最简单的会计书](https://www.douban.com/people/136069238/status/3898176892/?_i=55095062)
-- [在读 茶馆](https://www.douban.com/people/136069238/status/3894918531/?_i=55095062)
-- [在读 世界上最简单的会计书](https://www.douban.com/people/136069238/status/3893772291/?_i=55095062)
-- [读过 蒋经国传](https://www.douban.com/people/136069238/status/3893769582/?_i=55095063)
-- [在看 胜者即是正义 リーガル・ハイ‎ (2012)](https://www.douban.com/people/136069238/status/3893552292/?_i=55095063)
-- [看过 至暗时刻 Darkest Hour‎ (2017)](https://www.douban.com/people/136069238/status/3891150447/?_i=55095063)
-- [读过 梁启超](https://www.douban.com/people/136069238/status/3890762532/?_i=55095063)
-- [看过 重生之门‎ (2022)](https://www.douban.com/people/136069238/status/3890599462/?_i=55095063)
-- [看过 北平无战事‎ (2014)](https://www.douban.com/people/136069238/status/3889810506/?_i=55095063)
+- [看过 胜者即是正义 リーガル・ハイ‎ (2012)](https://www.douban.com/people/136069238/status/3898506981/?_i=55108411)
+- [看过 胜者即是正义SP リーガル・ハイSP‎ (2013)](https://www.douban.com/people/136069238/status/3898503190/?_i=55108411)
+- [在读 大征服](https://www.douban.com/people/136069238/status/3898177227/?_i=55108411)
+- [读过 世界上最简单的会计书](https://www.douban.com/people/136069238/status/3898176892/?_i=55108411)
+- [在读 茶馆](https://www.douban.com/people/136069238/status/3894918531/?_i=55108411)
+- [在读 世界上最简单的会计书](https://www.douban.com/people/136069238/status/3893772291/?_i=55108411)
+- [读过 蒋经国传](https://www.douban.com/people/136069238/status/3893769582/?_i=55108411)
+- [在看 胜者即是正义 リーガル・ハイ‎ (2012)](https://www.douban.com/people/136069238/status/3893552292/?_i=55108411)
+- [看过 至暗时刻 Darkest Hour‎ (2017)](https://www.douban.com/people/136069238/status/3891150447/?_i=55108411)
+- [读过 梁启超](https://www.douban.com/people/136069238/status/3890762532/?_i=55108411)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
