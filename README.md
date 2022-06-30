@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [读过 茶馆](https://www.douban.com/people/136069238/status/3913739555/?_i=56570046)
-- [看过 间谍之桥 Bridge of Spies‎ (2015)](https://www.douban.com/people/136069238/status/3911284776/?_i=56570046)
-- [看过 93航班 United 93‎ (2006)](https://www.douban.com/people/136069238/status/3904915492/?_i=56570046)
-- [看过 胜者即是正义2 リーガルハイ2‎ (2013)](https://www.douban.com/people/136069238/status/3904155690/?_i=56570046)
-- [看过 胜者即是正义 リーガル・ハイ‎ (2012)](https://www.douban.com/people/136069238/status/3898506981/?_i=56570046)
-- [看过 胜者即是正义SP リーガル・ハイSP‎ (2013)](https://www.douban.com/people/136069238/status/3898503190/?_i=56570046)
-- [在读 大征服](https://www.douban.com/people/136069238/status/3898177227/?_i=56570046)
-- [读过 世界上最简单的会计书](https://www.douban.com/people/136069238/status/3898176892/?_i=56570046)
-- [在读 茶馆](https://www.douban.com/people/136069238/status/3894918531/?_i=56570046)
-- [在读 世界上最简单的会计书](https://www.douban.com/people/136069238/status/3893772291/?_i=56570046)
+- [读过 茶馆](https://www.douban.com/people/136069238/status/3913739555/?_i=56577339)
+- [看过 间谍之桥 Bridge of Spies‎ (2015)](https://www.douban.com/people/136069238/status/3911284776/?_i=56577339)
+- [看过 93航班 United 93‎ (2006)](https://www.douban.com/people/136069238/status/3904915492/?_i=56577339)
+- [看过 胜者即是正义2 リーガルハイ2‎ (2013)](https://www.douban.com/people/136069238/status/3904155690/?_i=56577339)
+- [看过 胜者即是正义 リーガル・ハイ‎ (2012)](https://www.douban.com/people/136069238/status/3898506981/?_i=56577340)
+- [看过 胜者即是正义SP リーガル・ハイSP‎ (2013)](https://www.douban.com/people/136069238/status/3898503190/?_i=56577340)
+- [在读 大征服](https://www.douban.com/people/136069238/status/3898177227/?_i=56577340)
+- [读过 世界上最简单的会计书](https://www.douban.com/people/136069238/status/3898176892/?_i=56577340)
+- [在读 茶馆](https://www.douban.com/people/136069238/status/3894918531/?_i=56577340)
+- [在读 世界上最简单的会计书](https://www.douban.com/people/136069238/status/3893772291/?_i=56577340)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
