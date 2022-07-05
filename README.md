@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在读 人生海海](https://www.douban.com/people/136069238/status/3918707175/?_i=57016244)
-- [看过 轻松自由 Libre et assoupi‎ (2014)](https://www.douban.com/people/136069238/status/3916082199/?_i=57016244)
-- [读过 茶馆](https://www.douban.com/people/136069238/status/3913739555/?_i=57016244)
-- [看过 间谍之桥 Bridge of Spies‎ (2015)](https://www.douban.com/people/136069238/status/3911284776/?_i=57016244)
-- [看过 93航班 United 93‎ (2006)](https://www.douban.com/people/136069238/status/3904915492/?_i=57016244)
-- [看过 胜者即是正义2 リーガルハイ2‎ (2013)](https://www.douban.com/people/136069238/status/3904155690/?_i=57016244)
-- [看过 胜者即是正义 リーガル・ハイ‎ (2012)](https://www.douban.com/people/136069238/status/3898506981/?_i=57016244)
-- [看过 胜者即是正义SP リーガル・ハイSP‎ (2013)](https://www.douban.com/people/136069238/status/3898503190/?_i=57016244)
-- [在读 大征服](https://www.douban.com/people/136069238/status/3898177227/?_i=57016244)
-- [读过 世界上最简单的会计书](https://www.douban.com/people/136069238/status/3898176892/?_i=57016244)
+- [在读 人生海海](https://www.douban.com/people/136069238/status/3918707175/?_i=57025028)
+- [看过 轻松自由 Libre et assoupi‎ (2014)](https://www.douban.com/people/136069238/status/3916082199/?_i=57025028)
+- [读过 茶馆](https://www.douban.com/people/136069238/status/3913739555/?_i=57025028)
+- [看过 间谍之桥 Bridge of Spies‎ (2015)](https://www.douban.com/people/136069238/status/3911284776/?_i=57025028)
+- [看过 93航班 United 93‎ (2006)](https://www.douban.com/people/136069238/status/3904915492/?_i=57025028)
+- [看过 胜者即是正义2 リーガルハイ2‎ (2013)](https://www.douban.com/people/136069238/status/3904155690/?_i=57025028)
+- [看过 胜者即是正义 リーガル・ハイ‎ (2012)](https://www.douban.com/people/136069238/status/3898506981/?_i=57025028)
+- [看过 胜者即是正义SP リーガル・ハイSP‎ (2013)](https://www.douban.com/people/136069238/status/3898503190/?_i=57025028)
+- [在读 大征服](https://www.douban.com/people/136069238/status/3898177227/?_i=57025028)
+- [读过 世界上最简单的会计书](https://www.douban.com/people/136069238/status/3898176892/?_i=57025028)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
