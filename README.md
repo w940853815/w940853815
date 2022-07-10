@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 我是谁：没有绝对安全的系统 Who Am I - Kein System ist sicher‎ (2014)](https://www.douban.com/people/136069238/status/3923354208/?_i=57433962)
-- [看过 扬名立万‎ (2021)](https://www.douban.com/people/136069238/status/3922879395/?_i=57433962)
-- [看过 人生第二次‎ (2022)](https://www.douban.com/people/136069238/status/3920843107/?_i=57433962)
-- [读过 大征服](https://www.douban.com/people/136069238/status/3919014869/?_i=57433962)
-- [在读 人生海海](https://www.douban.com/people/136069238/status/3918707175/?_i=57433962)
-- [看过 轻松自由 Libre et assoupi‎ (2014)](https://www.douban.com/people/136069238/status/3916082199/?_i=57433962)
-- [读过 茶馆](https://www.douban.com/people/136069238/status/3913739555/?_i=57433962)
-- [看过 间谍之桥 Bridge of Spies‎ (2015)](https://www.douban.com/people/136069238/status/3911284776/?_i=57433962)
-- [看过 93航班 United 93‎ (2006)](https://www.douban.com/people/136069238/status/3904915492/?_i=57433962)
-- [看过 胜者即是正义2 リーガルハイ2‎ (2013)](https://www.douban.com/people/136069238/status/3904155690/?_i=57433962)
+- [看过 类人猿行动 Anthropoid‎ (2016)](https://www.douban.com/people/136069238/status/3923462011/?_i=57441123)
+- [看过 我是谁：没有绝对安全的系统 Who Am I - Kein System ist sicher‎ (2014)](https://www.douban.com/people/136069238/status/3923354208/?_i=57441123)
+- [看过 扬名立万‎ (2021)](https://www.douban.com/people/136069238/status/3922879395/?_i=57441123)
+- [看过 人生第二次‎ (2022)](https://www.douban.com/people/136069238/status/3920843107/?_i=57441123)
+- [读过 大征服](https://www.douban.com/people/136069238/status/3919014869/?_i=57441123)
+- [在读 人生海海](https://www.douban.com/people/136069238/status/3918707175/?_i=57441123)
+- [看过 轻松自由 Libre et assoupi‎ (2014)](https://www.douban.com/people/136069238/status/3916082199/?_i=57441123)
+- [读过 茶馆](https://www.douban.com/people/136069238/status/3913739555/?_i=57441123)
+- [看过 间谍之桥 Bridge of Spies‎ (2015)](https://www.douban.com/people/136069238/status/3911284776/?_i=57441123)
+- [看过 93航班 United 93‎ (2006)](https://www.douban.com/people/136069238/status/3904915492/?_i=57441123)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
