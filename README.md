@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在看 绝命毒师  第二季 Breaking Bad Season 2‎ (2009)](https://www.douban.com/people/136069238/status/3930633711/?_i=58096109)
-- [在看 绝命毒师 第一季 Breaking Bad Season 1‎ (2008)](https://www.douban.com/people/136069238/status/3930633527/?_i=58096109)
-- [看过 三峡好人‎ (2006)](https://www.douban.com/people/136069238/status/3930286271/?_i=58096109)
-- [在读 温柔之歌](https://www.douban.com/people/136069238/status/3926809748/?_i=58096109)
-- [在读 精通Matlab数字图像处理与识别](https://www.douban.com/people/136069238/status/3926295355/?_i=58096109)
-- [看过 类人猿行动 Anthropoid‎ (2016)](https://www.douban.com/people/136069238/status/3923462011/?_i=58096109)
-- [看过 我是谁：没有绝对安全的系统 Who Am I - Kein System ist sicher‎ (2014)](https://www.douban.com/people/136069238/status/3923354208/?_i=58096109)
-- [看过 扬名立万‎ (2021)](https://www.douban.com/people/136069238/status/3922879395/?_i=58096109)
-- [看过 人生第二次‎ (2022)](https://www.douban.com/people/136069238/status/3920843107/?_i=58096109)
-- [读过 大征服](https://www.douban.com/people/136069238/status/3919014869/?_i=58096109)
+- [在看 绝命毒师  第二季 Breaking Bad Season 2‎ (2009)](https://www.douban.com/people/136069238/status/3930633711/?_i=58108486)
+- [在看 绝命毒师 第一季 Breaking Bad Season 1‎ (2008)](https://www.douban.com/people/136069238/status/3930633527/?_i=58108486)
+- [看过 三峡好人‎ (2006)](https://www.douban.com/people/136069238/status/3930286271/?_i=58108486)
+- [在读 温柔之歌](https://www.douban.com/people/136069238/status/3926809748/?_i=58108486)
+- [在读 精通Matlab数字图像处理与识别](https://www.douban.com/people/136069238/status/3926295355/?_i=58108486)
+- [看过 类人猿行动 Anthropoid‎ (2016)](https://www.douban.com/people/136069238/status/3923462011/?_i=58108486)
+- [看过 我是谁：没有绝对安全的系统 Who Am I - Kein System ist sicher‎ (2014)](https://www.douban.com/people/136069238/status/3923354208/?_i=58108486)
+- [看过 扬名立万‎ (2021)](https://www.douban.com/people/136069238/status/3922879395/?_i=58108486)
+- [看过 人生第二次‎ (2022)](https://www.douban.com/people/136069238/status/3920843107/?_i=58108486)
+- [读过 大征服](https://www.douban.com/people/136069238/status/3919014869/?_i=58108486)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
