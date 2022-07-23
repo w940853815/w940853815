@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 黑暗面 La cara oculta‎ (2011)](https://www.douban.com/people/136069238/status/3936169206/?_i=58585660)
-- [想看 我爱你 그대를 사랑합니다‎ (2011)](https://www.douban.com/people/136069238/status/3936087400/?_i=58585660)
-- [在读 高性能MySQL(第3版)](https://www.douban.com/people/136069238/status/3931525974/?_i=58585660)
-- [在看 绝命毒师  第二季 Breaking Bad Season 2‎ (2009)](https://www.douban.com/people/136069238/status/3930633711/?_i=58585660)
-- [在看 绝命毒师 第一季 Breaking Bad Season 1‎ (2008)](https://www.douban.com/people/136069238/status/3930633527/?_i=58585660)
-- [看过 三峡好人‎ (2006)](https://www.douban.com/people/136069238/status/3930286271/?_i=58585660)
-- [在读 温柔之歌](https://www.douban.com/people/136069238/status/3926809748/?_i=58585660)
-- [在读 精通Matlab数字图像处理与识别](https://www.douban.com/people/136069238/status/3926295355/?_i=58585660)
-- [看过 类人猿行动 Anthropoid‎ (2016)](https://www.douban.com/people/136069238/status/3923462011/?_i=58585660)
-- [看过 我是谁：没有绝对安全的系统 Who Am I - Kein System ist sicher‎ (2014)](https://www.douban.com/people/136069238/status/3923354208/?_i=58585660)
+- [在看 绝命毒师  第三季 Breaking Bad Season 3‎ (2010)](https://www.douban.com/people/136069238/status/3936701642/?_i=58593310)
+- [看过 绝命毒师  第二季 Breaking Bad Season 2‎ (2009)](https://www.douban.com/people/136069238/status/3936701214/?_i=58593310)
+- [看过 黑暗面 La cara oculta‎ (2011)](https://www.douban.com/people/136069238/status/3936169206/?_i=58593310)
+- [想看 我爱你 그대를 사랑합니다‎ (2011)](https://www.douban.com/people/136069238/status/3936087400/?_i=58593310)
+- [在读 高性能MySQL(第3版)](https://www.douban.com/people/136069238/status/3931525974/?_i=58593310)
+- [在看 绝命毒师  第二季 Breaking Bad Season 2‎ (2009)](https://www.douban.com/people/136069238/status/3930633711/?_i=58593310)
+- [在看 绝命毒师 第一季 Breaking Bad Season 1‎ (2008)](https://www.douban.com/people/136069238/status/3930633527/?_i=58593310)
+- [看过 三峡好人‎ (2006)](https://www.douban.com/people/136069238/status/3930286271/?_i=58593310)
+- [在读 温柔之歌](https://www.douban.com/people/136069238/status/3926809748/?_i=58593310)
+- [在读 精通Matlab数字图像处理与识别](https://www.douban.com/people/136069238/status/3926295355/?_i=58593310)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
