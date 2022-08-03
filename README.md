@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在读 城乡中国（修订版）](https://www.douban.com/people/136069238/status/3946246855/?_i=59502955)
-- [读过 图解漫画版民法典](https://www.douban.com/people/136069238/status/3946246138/?_i=59502955)
-- [想读 食人魔花园](https://www.douban.com/people/136069238/status/3944062040/?_i=59502955)
-- [读过 温柔之歌](https://www.douban.com/people/136069238/status/3944060896/?_i=59502955)
-- [看过 误杀‎ (2019)](https://www.douban.com/people/136069238/status/3942854956/?_i=59502955)
-- [在读 图解漫画版民法典](https://www.douban.com/people/136069238/status/3937674632/?_i=59502955)
-- [读过 人生海海](https://www.douban.com/people/136069238/status/3937527209/?_i=59502955)
-- [在看 绝命毒师  第三季 Breaking Bad Season 3‎ (2010)](https://www.douban.com/people/136069238/status/3936701642/?_i=59502955)
-- [看过 绝命毒师  第二季 Breaking Bad Season 2‎ (2009)](https://www.douban.com/people/136069238/status/3936701214/?_i=59502955)
-- [看过 黑暗面 La cara oculta‎ (2011)](https://www.douban.com/people/136069238/status/3936169206/?_i=59502955)
+- [在读 城乡中国（修订版）](https://www.douban.com/people/136069238/status/3946246855/?_i=59507581)
+- [读过 图解漫画版民法典](https://www.douban.com/people/136069238/status/3946246138/?_i=59507581)
+- [想读 食人魔花园](https://www.douban.com/people/136069238/status/3944062040/?_i=59507581)
+- [读过 温柔之歌](https://www.douban.com/people/136069238/status/3944060896/?_i=59507581)
+- [看过 误杀‎ (2019)](https://www.douban.com/people/136069238/status/3942854956/?_i=59507581)
+- [在读 图解漫画版民法典](https://www.douban.com/people/136069238/status/3937674632/?_i=59507581)
+- [读过 人生海海](https://www.douban.com/people/136069238/status/3937527209/?_i=59507581)
+- [在看 绝命毒师  第三季 Breaking Bad Season 3‎ (2010)](https://www.douban.com/people/136069238/status/3936701642/?_i=59507582)
+- [看过 绝命毒师  第二季 Breaking Bad Season 2‎ (2009)](https://www.douban.com/people/136069238/status/3936701214/?_i=59507582)
+- [看过 黑暗面 La cara oculta‎ (2011)](https://www.douban.com/people/136069238/status/3936169206/?_i=59507582)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
