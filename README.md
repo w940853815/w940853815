@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [读过 C# 7.0 核心技术指南](https://www.douban.com/people/136069238/status/3969307694/?_i=61422741)
-- [读过 Unity AR/VR开发：从新手到专家](https://www.douban.com/people/136069238/status/3969307557/?_i=61422741)
-- [读过 RabbitMQ实战指南](https://www.douban.com/people/136069238/status/3969307348/?_i=61422741)
-- [在看 西部世界 第一季 Westworld Season 1‎ (2016)](https://www.douban.com/people/136069238/status/3966428514/?_i=61422741)
-- [看过 绝命毒师  第五季 Breaking Bad Season 5‎ (2012)](https://www.douban.com/people/136069238/status/3965409463/?_i=61422741)
-- [看过 隐入尘烟‎ (2022)](https://www.douban.com/people/136069238/status/3964251370/?_i=61422741)
-- [在读 RabbitMQ实战指南](https://www.douban.com/people/136069238/status/3961861271/?_i=61422741)
-- [在看 绝命毒师  第五季 Breaking Bad Season 5‎ (2012)](https://www.douban.com/people/136069238/status/3957370498/?_i=61422741)
-- [看过 绝命毒师  第四季 Breaking Bad Season 4‎ (2011)](https://www.douban.com/people/136069238/status/3957370010/?_i=61422741)
-- [在读 与世界温柔相处](https://www.douban.com/people/136069238/status/3949217689/?_i=61422741)
+- [读过 C# 7.0 核心技术指南](https://www.douban.com/people/136069238/status/3969307694/?_i=61430827)
+- [读过 Unity AR/VR开发：从新手到专家](https://www.douban.com/people/136069238/status/3969307557/?_i=61430827)
+- [读过 RabbitMQ实战指南](https://www.douban.com/people/136069238/status/3969307348/?_i=61430827)
+- [在看 西部世界 第一季 Westworld Season 1‎ (2016)](https://www.douban.com/people/136069238/status/3966428514/?_i=61430827)
+- [看过 绝命毒师  第五季 Breaking Bad Season 5‎ (2012)](https://www.douban.com/people/136069238/status/3965409463/?_i=61430827)
+- [看过 隐入尘烟‎ (2022)](https://www.douban.com/people/136069238/status/3964251370/?_i=61430827)
+- [在读 RabbitMQ实战指南](https://www.douban.com/people/136069238/status/3961861271/?_i=61430827)
+- [在看 绝命毒师  第五季 Breaking Bad Season 5‎ (2012)](https://www.douban.com/people/136069238/status/3957370498/?_i=61430827)
+- [看过 绝命毒师  第四季 Breaking Bad Season 4‎ (2011)](https://www.douban.com/people/136069238/status/3957370010/?_i=61430827)
+- [在读 与世界温柔相处](https://www.douban.com/people/136069238/status/3949217689/?_i=61430827)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
