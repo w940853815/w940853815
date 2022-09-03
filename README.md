@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 西部世界 第二季 Westworld Season 2‎ (2018)](https://www.douban.com/people/136069238/status/3978153196/?_i=62157019)
-- [在读 白鲸](https://www.douban.com/people/136069238/status/3973866073/?_i=62157019)
-- [读过 城乡中国（修订版）](https://www.douban.com/people/136069238/status/3972692472/?_i=62157019)
-- [在看 西部世界 第二季 Westworld Season 2‎ (2018)](https://www.douban.com/people/136069238/status/3971717318/?_i=62157019)
-- [看过 西部世界 第一季 Westworld Season 1‎ (2016)](https://www.douban.com/people/136069238/status/3971717094/?_i=62157019)
-- [读过 C# 7.0 核心技术指南](https://www.douban.com/people/136069238/status/3969307694/?_i=62157019)
-- [读过 Unity AR/VR开发：从新手到专家](https://www.douban.com/people/136069238/status/3969307557/?_i=62157019)
-- [读过 RabbitMQ实战指南](https://www.douban.com/people/136069238/status/3969307348/?_i=62157019)
-- [在看 西部世界 第一季 Westworld Season 1‎ (2016)](https://www.douban.com/people/136069238/status/3966428514/?_i=62157019)
-- [看过 绝命毒师  第五季 Breaking Bad Season 5‎ (2012)](https://www.douban.com/people/136069238/status/3965409463/?_i=62157019)
+- [看过 西部世界 第二季 Westworld Season 2‎ (2018)](https://www.douban.com/people/136069238/status/3978153196/?_i=62169766)
+- [在读 白鲸](https://www.douban.com/people/136069238/status/3973866073/?_i=62169766)
+- [读过 城乡中国（修订版）](https://www.douban.com/people/136069238/status/3972692472/?_i=62169766)
+- [在看 西部世界 第二季 Westworld Season 2‎ (2018)](https://www.douban.com/people/136069238/status/3971717318/?_i=62169766)
+- [看过 西部世界 第一季 Westworld Season 1‎ (2016)](https://www.douban.com/people/136069238/status/3971717094/?_i=62169766)
+- [读过 C# 7.0 核心技术指南](https://www.douban.com/people/136069238/status/3969307694/?_i=62169766)
+- [读过 Unity AR/VR开发：从新手到专家](https://www.douban.com/people/136069238/status/3969307557/?_i=62169766)
+- [读过 RabbitMQ实战指南](https://www.douban.com/people/136069238/status/3969307348/?_i=62169766)
+- [在看 西部世界 第一季 Westworld Season 1‎ (2016)](https://www.douban.com/people/136069238/status/3966428514/?_i=62169766)
+- [看过 绝命毒师  第五季 Breaking Bad Season 5‎ (2012)](https://www.douban.com/people/136069238/status/3965409463/?_i=62169766)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
