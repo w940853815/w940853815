@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 神探大战 神探大戰‎ (2022)](https://www.douban.com/people/136069238/status/3978666860/?_i=62733301)
-- [在看 西部世界 第三季 Westworld Season 3‎ (2020)](https://www.douban.com/people/136069238/status/3978582010/?_i=62733301)
-- [看过 西部世界 第二季 Westworld Season 2‎ (2018)](https://www.douban.com/people/136069238/status/3978153196/?_i=62733301)
-- [在读 白鲸](https://www.douban.com/people/136069238/status/3973866073/?_i=62733301)
-- [读过 城乡中国（修订版）](https://www.douban.com/people/136069238/status/3972692472/?_i=62733301)
-- [在看 西部世界 第二季 Westworld Season 2‎ (2018)](https://www.douban.com/people/136069238/status/3971717318/?_i=62733301)
-- [看过 西部世界 第一季 Westworld Season 1‎ (2016)](https://www.douban.com/people/136069238/status/3971717094/?_i=62733301)
-- [读过 C# 7.0 核心技术指南](https://www.douban.com/people/136069238/status/3969307694/?_i=62733301)
-- [读过 Unity AR/VR开发：从新手到专家](https://www.douban.com/people/136069238/status/3969307557/?_i=62733301)
-- [读过 RabbitMQ实战指南](https://www.douban.com/people/136069238/status/3969307348/?_i=62733301)
+- [看过 神探大战 神探大戰‎ (2022)](https://www.douban.com/people/136069238/status/3978666860/?_i=62740696)
+- [在看 西部世界 第三季 Westworld Season 3‎ (2020)](https://www.douban.com/people/136069238/status/3978582010/?_i=62740696)
+- [看过 西部世界 第二季 Westworld Season 2‎ (2018)](https://www.douban.com/people/136069238/status/3978153196/?_i=62740696)
+- [在读 白鲸](https://www.douban.com/people/136069238/status/3973866073/?_i=62740696)
+- [读过 城乡中国（修订版）](https://www.douban.com/people/136069238/status/3972692472/?_i=62740696)
+- [在看 西部世界 第二季 Westworld Season 2‎ (2018)](https://www.douban.com/people/136069238/status/3971717318/?_i=62740696)
+- [看过 西部世界 第一季 Westworld Season 1‎ (2016)](https://www.douban.com/people/136069238/status/3971717094/?_i=62740696)
+- [读过 C# 7.0 核心技术指南](https://www.douban.com/people/136069238/status/3969307694/?_i=62740696)
+- [读过 Unity AR/VR开发：从新手到专家](https://www.douban.com/people/136069238/status/3969307557/?_i=62740696)
+- [读过 RabbitMQ实战指南](https://www.douban.com/people/136069238/status/3969307348/?_i=62740696)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
