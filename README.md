@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 黑话律师 빅마우스‎ (2022)](https://www.douban.com/people/136069238/status/4000528774/?_i=64187628)
-- [看过 天才少女 Gifted‎ (2017)](https://www.douban.com/people/136069238/status/4000157745/?_i=64187628)
-- [读过 与世界温柔相处](https://www.douban.com/people/136069238/status/3999819293/?_i=64187628)
-- [在看 黑话律师 빅마우스‎ (2022)](https://www.douban.com/people/136069238/status/3993878962/?_i=64187628)
-- [看过 天鹅挽歌 Swan Song‎ (2021)](https://www.douban.com/people/136069238/status/3993577555/?_i=64187628)
-- [在读 C++ Primer 中文版（第 5 版）](https://www.douban.com/people/136069238/status/3993274050/?_i=64187628)
-- [读过 高性能MySQL(第3版)](https://www.douban.com/people/136069238/status/3993269906/?_i=64187628)
-- [看过 会见戈尔巴乔夫 Meeting Gorbachev‎ (2018)](https://www.douban.com/people/136069238/status/3992422843/?_i=64187628)
-- [看过 第八日的蝉 八日目の蟬‎ (2011)](https://www.douban.com/people/136069238/status/3987899306/?_i=64187628)
-- [在看 去你家吃饭好吗 第二季‎ (2022)](https://www.douban.com/people/136069238/status/3986958983/?_i=64187628)
+- [在看 纸牌屋 第一季 House of Cards Season 1‎ (2013)](https://www.douban.com/people/136069238/status/4001244828/?_i=64195944)
+- [看过 黑话律师 빅마우스‎ (2022)](https://www.douban.com/people/136069238/status/4000528774/?_i=64195944)
+- [看过 天才少女 Gifted‎ (2017)](https://www.douban.com/people/136069238/status/4000157745/?_i=64195944)
+- [读过 与世界温柔相处](https://www.douban.com/people/136069238/status/3999819293/?_i=64195944)
+- [在看 黑话律师 빅마우스‎ (2022)](https://www.douban.com/people/136069238/status/3993878962/?_i=64195944)
+- [看过 天鹅挽歌 Swan Song‎ (2021)](https://www.douban.com/people/136069238/status/3993577555/?_i=64195944)
+- [在读 C++ Primer 中文版（第 5 版）](https://www.douban.com/people/136069238/status/3993274050/?_i=64195944)
+- [读过 高性能MySQL(第3版)](https://www.douban.com/people/136069238/status/3993269906/?_i=64195944)
+- [看过 会见戈尔巴乔夫 Meeting Gorbachev‎ (2018)](https://www.douban.com/people/136069238/status/3992422843/?_i=64195944)
+- [看过 第八日的蝉 八日目の蟬‎ (2011)](https://www.douban.com/people/136069238/status/3987899306/?_i=64195944)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
