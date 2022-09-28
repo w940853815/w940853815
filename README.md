@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在读 城堡](https://www.douban.com/people/136069238/status/4001359327/?_i=64360531)
-- [在看 纸牌屋 第一季 House of Cards Season 1‎ (2013)](https://www.douban.com/people/136069238/status/4001244828/?_i=64360531)
-- [看过 黑话律师 빅마우스‎ (2022)](https://www.douban.com/people/136069238/status/4000528774/?_i=64360531)
-- [看过 天才少女 Gifted‎ (2017)](https://www.douban.com/people/136069238/status/4000157745/?_i=64360531)
-- [读过 与世界温柔相处](https://www.douban.com/people/136069238/status/3999819293/?_i=64360531)
-- [在看 黑话律师 빅마우스‎ (2022)](https://www.douban.com/people/136069238/status/3993878962/?_i=64360531)
-- [看过 天鹅挽歌 Swan Song‎ (2021)](https://www.douban.com/people/136069238/status/3993577555/?_i=64360531)
-- [在读 C++ Primer 中文版（第 5 版）](https://www.douban.com/people/136069238/status/3993274050/?_i=64360531)
-- [读过 高性能MySQL(第3版)](https://www.douban.com/people/136069238/status/3993269906/?_i=64360531)
-- [看过 会见戈尔巴乔夫 Meeting Gorbachev‎ (2018)](https://www.douban.com/people/136069238/status/3992422843/?_i=64360531)
+- [看过 癫佬正传 癲佬正傳‎ (1986)](https://www.douban.com/people/136069238/status/4003112410/?_i=64375569)
+- [在读 城堡](https://www.douban.com/people/136069238/status/4001359327/?_i=64375569)
+- [在看 纸牌屋 第一季 House of Cards Season 1‎ (2013)](https://www.douban.com/people/136069238/status/4001244828/?_i=64375569)
+- [看过 黑话律师 빅마우스‎ (2022)](https://www.douban.com/people/136069238/status/4000528774/?_i=64375569)
+- [看过 天才少女 Gifted‎ (2017)](https://www.douban.com/people/136069238/status/4000157745/?_i=64375569)
+- [读过 与世界温柔相处](https://www.douban.com/people/136069238/status/3999819293/?_i=64375569)
+- [在看 黑话律师 빅마우스‎ (2022)](https://www.douban.com/people/136069238/status/3993878962/?_i=64375569)
+- [看过 天鹅挽歌 Swan Song‎ (2021)](https://www.douban.com/people/136069238/status/3993577555/?_i=64375569)
+- [在读 C++ Primer 中文版（第 5 版）](https://www.douban.com/people/136069238/status/3993274050/?_i=64375569)
+- [读过 高性能MySQL(第3版)](https://www.douban.com/people/136069238/status/3993269906/?_i=64375569)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
