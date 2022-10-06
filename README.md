@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 暗黑 第一季 Dark Season 1‎ (2017)](https://www.douban.com/people/136069238/status/4011110588/?_i=65073794)
-- [在读 蒋介石与现代中国](https://www.douban.com/people/136069238/status/4009815462/?_i=65073794)
-- [读过 白鲸](https://www.douban.com/people/136069238/status/4009813369/?_i=65073794)
-- [看过 失踪的莱昂纳多 The Lost Leonardo‎ (2021)](https://www.douban.com/people/136069238/status/4007978397/?_i=65073794)
-- [在看 暗黑 第一季 Dark Season 1‎ (2017)](https://www.douban.com/people/136069238/status/4006812073/?_i=65073794)
-- [看过 子弹列车 Bullet Train‎ (2022)](https://www.douban.com/people/136069238/status/4006795592/?_i=65073794)
-- [看过 去你家吃饭好吗 第二季‎ (2022)](https://www.douban.com/people/136069238/status/4005728209/?_i=65073794)
-- [看过 癫佬正传 癲佬正傳‎ (1986)](https://www.douban.com/people/136069238/status/4003112410/?_i=65073794)
-- [在读 城堡](https://www.douban.com/people/136069238/status/4001359327/?_i=65073794)
-- [在看 纸牌屋 第一季 House of Cards Season 1‎ (2013)](https://www.douban.com/people/136069238/status/4001244828/?_i=65073794)
+- [看过 暗黑 第一季 Dark Season 1‎ (2017)](https://www.douban.com/people/136069238/status/4011110588/?_i=65080794)
+- [在读 蒋介石与现代中国](https://www.douban.com/people/136069238/status/4009815462/?_i=65080794)
+- [读过 白鲸](https://www.douban.com/people/136069238/status/4009813369/?_i=65080794)
+- [看过 失踪的莱昂纳多 The Lost Leonardo‎ (2021)](https://www.douban.com/people/136069238/status/4007978397/?_i=65080794)
+- [在看 暗黑 第一季 Dark Season 1‎ (2017)](https://www.douban.com/people/136069238/status/4006812073/?_i=65080794)
+- [看过 子弹列车 Bullet Train‎ (2022)](https://www.douban.com/people/136069238/status/4006795592/?_i=65080794)
+- [看过 去你家吃饭好吗 第二季‎ (2022)](https://www.douban.com/people/136069238/status/4005728209/?_i=65080794)
+- [看过 癫佬正传 癲佬正傳‎ (1986)](https://www.douban.com/people/136069238/status/4003112410/?_i=65080794)
+- [在读 城堡](https://www.douban.com/people/136069238/status/4001359327/?_i=65080794)
+- [在看 纸牌屋 第一季 House of Cards Season 1‎ (2013)](https://www.douban.com/people/136069238/status/4001244828/?_i=65080794)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
