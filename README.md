@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在读 轻松掌握超声心动图](https://www.douban.com/people/136069238/status/4030989967/?_i=66845980)
-- [在看 机智医生生活 슬기로운 의사생활‎ (2020)](https://www.douban.com/people/136069238/status/4028652712/?_i=66845980)
-- [看过 一个星期四 A Thursday‎ (2022)](https://www.douban.com/people/136069238/status/4027759975/?_i=66845980)
-- [在读 东京贫困女子](https://www.douban.com/people/136069238/status/4027149520/?_i=66845980)
-- [读过 蒋介石与现代中国](https://www.douban.com/people/136069238/status/4027149061/?_i=66845980)
-- [看过 万里归途‎ (2022)](https://www.douban.com/people/136069238/status/4026748987/?_i=66845980)
-- [看过 独行月球‎ (2022)](https://www.douban.com/people/136069238/status/4022883157/?_i=66845980)
-- [看过 暗黑 第三季 Dark Season 3‎ (2020)](https://www.douban.com/people/136069238/status/4020413112/?_i=66845980)
-- [在看 暗黑 第三季 Dark Season 3‎ (2020)](https://www.douban.com/people/136069238/status/4018885752/?_i=66845981)
-- [看过 暗黑 第二季 Dark Season 2‎ (2019)](https://www.douban.com/people/136069238/status/4018884610/?_i=66845981)
+- [在读 轻松掌握超声心动图](https://www.douban.com/people/136069238/status/4030989967/?_i=66858966)
+- [在看 机智医生生活 슬기로운 의사생활‎ (2020)](https://www.douban.com/people/136069238/status/4028652712/?_i=66858966)
+- [看过 一个星期四 A Thursday‎ (2022)](https://www.douban.com/people/136069238/status/4027759975/?_i=66858966)
+- [在读 东京贫困女子](https://www.douban.com/people/136069238/status/4027149520/?_i=66858966)
+- [读过 蒋介石与现代中国](https://www.douban.com/people/136069238/status/4027149061/?_i=66858966)
+- [看过 万里归途‎ (2022)](https://www.douban.com/people/136069238/status/4026748987/?_i=66858966)
+- [看过 独行月球‎ (2022)](https://www.douban.com/people/136069238/status/4022883157/?_i=66858966)
+- [看过 暗黑 第三季 Dark Season 3‎ (2020)](https://www.douban.com/people/136069238/status/4020413112/?_i=66858966)
+- [在看 暗黑 第三季 Dark Season 3‎ (2020)](https://www.douban.com/people/136069238/status/4018885752/?_i=66858966)
+- [看过 暗黑 第二季 Dark Season 2‎ (2019)](https://www.douban.com/people/136069238/status/4018884610/?_i=66858966)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
