@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在读 政治学通识](https://www.douban.com/people/136069238/status/4079807580/?_i=71228758)
-- [读过 打开一颗心](https://www.douban.com/people/136069238/status/4079806351/?_i=71228758)
-- [在看 风骚律师 第二季 Better Call Saul Season 2‎ (2016)](https://www.douban.com/people/136069238/status/4076700321/?_i=71228758)
-- [看过 我记得 리멤버‎ (2022)](https://www.douban.com/people/136069238/status/4075901098/?_i=71228758)
-- [看过 风骚律师 第一季 Better Call Saul Season 1‎ (2015)](https://www.douban.com/people/136069238/status/4075482619/?_i=71228758)
-- [读过 基督山伯爵](https://www.douban.com/people/136069238/status/4074593759/?_i=71228758)
-- [想看 神迹 Something The Lord Made‎ (2004)](https://www.douban.com/people/136069238/status/4074340304/?_i=71228758)
-- [在读 打开一颗心](https://www.douban.com/people/136069238/status/4074339283/?_i=71228758)
-- [看过 地狱尖兵 Лучшие в аду‎ (2022)](https://www.douban.com/people/136069238/status/4071353412/?_i=71228758)
-- [看过 荒野生存 Into the Wild‎ (2007)](https://www.douban.com/people/136069238/status/4069101490/?_i=71228758)
+- [在读 政治学通识](https://www.douban.com/people/136069238/status/4079807580/?_i=71239114)
+- [读过 打开一颗心](https://www.douban.com/people/136069238/status/4079806351/?_i=71239114)
+- [在看 风骚律师 第二季 Better Call Saul Season 2‎ (2016)](https://www.douban.com/people/136069238/status/4076700321/?_i=71239114)
+- [看过 我记得 리멤버‎ (2022)](https://www.douban.com/people/136069238/status/4075901098/?_i=71239114)
+- [看过 风骚律师 第一季 Better Call Saul Season 1‎ (2015)](https://www.douban.com/people/136069238/status/4075482619/?_i=71239114)
+- [读过 基督山伯爵](https://www.douban.com/people/136069238/status/4074593759/?_i=71239114)
+- [想看 神迹 Something The Lord Made‎ (2004)](https://www.douban.com/people/136069238/status/4074340304/?_i=71239114)
+- [在读 打开一颗心](https://www.douban.com/people/136069238/status/4074339283/?_i=71239114)
+- [看过 地狱尖兵 Лучшие в аду‎ (2022)](https://www.douban.com/people/136069238/status/4071353412/?_i=71239114)
+- [看过 荒野生存 Into the Wild‎ (2007)](https://www.douban.com/people/136069238/status/4069101490/?_i=71239114)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
