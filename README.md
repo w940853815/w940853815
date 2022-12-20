@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 永别了，霍夫曼先生 Adieu Monsieur Haffmann‎ (2022)](https://www.douban.com/people/136069238/status/4082103836/?_i=71545632)
-- [在看 风骚律师 第三季 Better Call Saul Season 3‎ (2017)](https://www.douban.com/people/136069238/status/4080914219/?_i=71545632)
-- [看过 风骚律师 第二季 Better Call Saul Season 2‎ (2016)](https://www.douban.com/people/136069238/status/4080913787/?_i=71545632)
-- [在读 政治学通识](https://www.douban.com/people/136069238/status/4079807580/?_i=71545632)
-- [读过 打开一颗心](https://www.douban.com/people/136069238/status/4079806351/?_i=71545632)
-- [在看 风骚律师 第二季 Better Call Saul Season 2‎ (2016)](https://www.douban.com/people/136069238/status/4076700321/?_i=71545632)
-- [看过 我记得 리멤버‎ (2022)](https://www.douban.com/people/136069238/status/4075901098/?_i=71545632)
-- [看过 风骚律师 第一季 Better Call Saul Season 1‎ (2015)](https://www.douban.com/people/136069238/status/4075482619/?_i=71545632)
-- [读过 基督山伯爵](https://www.douban.com/people/136069238/status/4074593759/?_i=71545632)
-- [想看 神迹 Something The Lord Made‎ (2004)](https://www.douban.com/people/136069238/status/4074340304/?_i=71545632)
+- [看过 永别了，霍夫曼先生 Adieu Monsieur Haffmann‎ (2022)](https://www.douban.com/people/136069238/status/4082103836/?_i=71553195)
+- [在看 风骚律师 第三季 Better Call Saul Season 3‎ (2017)](https://www.douban.com/people/136069238/status/4080914219/?_i=71553195)
+- [看过 风骚律师 第二季 Better Call Saul Season 2‎ (2016)](https://www.douban.com/people/136069238/status/4080913787/?_i=71553195)
+- [在读 政治学通识](https://www.douban.com/people/136069238/status/4079807580/?_i=71553195)
+- [读过 打开一颗心](https://www.douban.com/people/136069238/status/4079806351/?_i=71553195)
+- [在看 风骚律师 第二季 Better Call Saul Season 2‎ (2016)](https://www.douban.com/people/136069238/status/4076700321/?_i=71553195)
+- [看过 我记得 리멤버‎ (2022)](https://www.douban.com/people/136069238/status/4075901098/?_i=71553195)
+- [看过 风骚律师 第一季 Better Call Saul Season 1‎ (2015)](https://www.douban.com/people/136069238/status/4075482619/?_i=71553195)
+- [读过 基督山伯爵](https://www.douban.com/people/136069238/status/4074593759/?_i=71553195)
+- [想看 神迹 Something The Lord Made‎ (2004)](https://www.douban.com/people/136069238/status/4074340304/?_i=71553195)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
