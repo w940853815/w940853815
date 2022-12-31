@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在看 风骚律师 第六季 Better Call Saul Season 6‎ (2022)](https://www.douban.com/people/136069238/status/4093109627/?_i=72481588)
-- [看过 风骚律师 第五季 Better Call Saul Season 5‎ (2020)](https://www.douban.com/people/136069238/status/4093108864/?_i=72481588)
-- [看过 风骚律师 第四季 Better Call Saul Season 4‎ (2018)](https://www.douban.com/people/136069238/status/4087305798/?_i=72481588)
-- [在看 风骚律师 第四季 Better Call Saul Season 4‎ (2018)](https://www.douban.com/people/136069238/status/4085268768/?_i=72481588)
-- [看过 风骚律师 第三季 Better Call Saul Season 3‎ (2017)](https://www.douban.com/people/136069238/status/4084947711/?_i=72481588)
-- [看过 永别了，霍夫曼先生 Adieu Monsieur Haffmann‎ (2022)](https://www.douban.com/people/136069238/status/4082103836/?_i=72481588)
-- [在看 风骚律师 第三季 Better Call Saul Season 3‎ (2017)](https://www.douban.com/people/136069238/status/4080914219/?_i=72481588)
-- [看过 风骚律师 第二季 Better Call Saul Season 2‎ (2016)](https://www.douban.com/people/136069238/status/4080913787/?_i=72481588)
-- [在读 政治学通识](https://www.douban.com/people/136069238/status/4079807580/?_i=72481588)
-- [读过 打开一颗心](https://www.douban.com/people/136069238/status/4079806351/?_i=72481588)
+- [在看 风骚律师 第六季 Better Call Saul Season 6‎ (2022)](https://www.douban.com/people/136069238/status/4093109627/?_i=72489389)
+- [看过 风骚律师 第五季 Better Call Saul Season 5‎ (2020)](https://www.douban.com/people/136069238/status/4093108864/?_i=72489389)
+- [看过 风骚律师 第四季 Better Call Saul Season 4‎ (2018)](https://www.douban.com/people/136069238/status/4087305798/?_i=72489389)
+- [在看 风骚律师 第四季 Better Call Saul Season 4‎ (2018)](https://www.douban.com/people/136069238/status/4085268768/?_i=72489389)
+- [看过 风骚律师 第三季 Better Call Saul Season 3‎ (2017)](https://www.douban.com/people/136069238/status/4084947711/?_i=72489389)
+- [看过 永别了，霍夫曼先生 Adieu Monsieur Haffmann‎ (2022)](https://www.douban.com/people/136069238/status/4082103836/?_i=72489389)
+- [在看 风骚律师 第三季 Better Call Saul Season 3‎ (2017)](https://www.douban.com/people/136069238/status/4080914219/?_i=72489389)
+- [看过 风骚律师 第二季 Better Call Saul Season 2‎ (2016)](https://www.douban.com/people/136069238/status/4080913787/?_i=72489389)
+- [在读 政治学通识](https://www.douban.com/people/136069238/status/4079807580/?_i=72489389)
+- [读过 打开一颗心](https://www.douban.com/people/136069238/status/4079806351/?_i=72489389)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
