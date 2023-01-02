@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在读 生死疲劳](https://www.douban.com/people/136069238/status/4097697897/?_i=72647484)
-- [读过 政治学通识](https://www.douban.com/people/136069238/status/4097697419/?_i=72647484)
-- [玩过 瘟疫传说 安魂曲 A Plague Tale: Requiem](https://www.douban.com/people/136069238/status/4096156365/?_i=72647484)
-- [在看 风骚律师 第六季 Better Call Saul Season 6‎ (2022)](https://www.douban.com/people/136069238/status/4093109627/?_i=72647484)
-- [看过 风骚律师 第五季 Better Call Saul Season 5‎ (2020)](https://www.douban.com/people/136069238/status/4093108864/?_i=72647484)
-- [看过 风骚律师 第四季 Better Call Saul Season 4‎ (2018)](https://www.douban.com/people/136069238/status/4087305798/?_i=72647484)
-- [在看 风骚律师 第四季 Better Call Saul Season 4‎ (2018)](https://www.douban.com/people/136069238/status/4085268768/?_i=72647484)
-- [看过 风骚律师 第三季 Better Call Saul Season 3‎ (2017)](https://www.douban.com/people/136069238/status/4084947711/?_i=72647484)
-- [看过 永别了，霍夫曼先生 Adieu Monsieur Haffmann‎ (2022)](https://www.douban.com/people/136069238/status/4082103836/?_i=72647484)
-- [在看 风骚律师 第三季 Better Call Saul Season 3‎ (2017)](https://www.douban.com/people/136069238/status/4080914219/?_i=72647484)
+- [在读 生死疲劳](https://www.douban.com/people/136069238/status/4097697897/?_i=72654479)
+- [读过 政治学通识](https://www.douban.com/people/136069238/status/4097697419/?_i=72654479)
+- [玩过 瘟疫传说 安魂曲 A Plague Tale: Requiem](https://www.douban.com/people/136069238/status/4096156365/?_i=72654479)
+- [在看 风骚律师 第六季 Better Call Saul Season 6‎ (2022)](https://www.douban.com/people/136069238/status/4093109627/?_i=72654479)
+- [看过 风骚律师 第五季 Better Call Saul Season 5‎ (2020)](https://www.douban.com/people/136069238/status/4093108864/?_i=72654479)
+- [看过 风骚律师 第四季 Better Call Saul Season 4‎ (2018)](https://www.douban.com/people/136069238/status/4087305798/?_i=72654479)
+- [在看 风骚律师 第四季 Better Call Saul Season 4‎ (2018)](https://www.douban.com/people/136069238/status/4085268768/?_i=72654479)
+- [看过 风骚律师 第三季 Better Call Saul Season 3‎ (2017)](https://www.douban.com/people/136069238/status/4084947711/?_i=72654479)
+- [看过 永别了，霍夫曼先生 Adieu Monsieur Haffmann‎ (2022)](https://www.douban.com/people/136069238/status/4082103836/?_i=72654479)
+- [在看 风骚律师 第三季 Better Call Saul Season 3‎ (2017)](https://www.douban.com/people/136069238/status/4080914219/?_i=72654479)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
