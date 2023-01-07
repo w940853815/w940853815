@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 新神榜：杨戬‎ (2022)](https://www.douban.com/people/136069238/status/4104037754/?_i=73122408)
-- [看过 风骚律师 第六季 Better Call Saul Season 6‎ (2022)](https://www.douban.com/people/136069238/status/4101692107/?_i=73122408)
-- [看过 阿根廷，1985 Argentina, 1985‎ (2022)](https://www.douban.com/people/136069238/status/4098228234/?_i=73122408)
-- [在读 生死疲劳](https://www.douban.com/people/136069238/status/4097697897/?_i=73122408)
-- [读过 政治学通识](https://www.douban.com/people/136069238/status/4097697419/?_i=73122408)
-- [玩过 瘟疫传说 安魂曲 A Plague Tale: Requiem](https://www.douban.com/people/136069238/status/4096156365/?_i=73122408)
-- [在看 风骚律师 第六季 Better Call Saul Season 6‎ (2022)](https://www.douban.com/people/136069238/status/4093109627/?_i=73122408)
-- [看过 风骚律师 第五季 Better Call Saul Season 5‎ (2020)](https://www.douban.com/people/136069238/status/4093108864/?_i=73122408)
-- [看过 风骚律师 第四季 Better Call Saul Season 4‎ (2018)](https://www.douban.com/people/136069238/status/4087305798/?_i=73122408)
-- [在看 风骚律师 第四季 Better Call Saul Season 4‎ (2018)](https://www.douban.com/people/136069238/status/4085268768/?_i=73122408)
+- [看过 新神榜：杨戬‎ (2022)](https://www.douban.com/people/136069238/status/4104037754/?_i=73129521)
+- [看过 风骚律师 第六季 Better Call Saul Season 6‎ (2022)](https://www.douban.com/people/136069238/status/4101692107/?_i=73129521)
+- [看过 阿根廷，1985 Argentina, 1985‎ (2022)](https://www.douban.com/people/136069238/status/4098228234/?_i=73129521)
+- [在读 生死疲劳](https://www.douban.com/people/136069238/status/4097697897/?_i=73129521)
+- [读过 政治学通识](https://www.douban.com/people/136069238/status/4097697419/?_i=73129521)
+- [玩过 瘟疫传说 安魂曲 A Plague Tale: Requiem](https://www.douban.com/people/136069238/status/4096156365/?_i=73129521)
+- [在看 风骚律师 第六季 Better Call Saul Season 6‎ (2022)](https://www.douban.com/people/136069238/status/4093109627/?_i=73129521)
+- [看过 风骚律师 第五季 Better Call Saul Season 5‎ (2020)](https://www.douban.com/people/136069238/status/4093108864/?_i=73129521)
+- [看过 风骚律师 第四季 Better Call Saul Season 4‎ (2018)](https://www.douban.com/people/136069238/status/4087305798/?_i=73129521)
+- [在看 风骚律师 第四季 Better Call Saul Season 4‎ (2018)](https://www.douban.com/people/136069238/status/4085268768/?_i=73129521)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
