@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在看 怪奇物语 第一季 Stranger Things Season 1‎ (2016)](https://www.douban.com/people/136069238/status/4106211193/?_i=73281532)
-- [看过 逆冰之行 Against the Ice‎ (2022)](https://www.douban.com/people/136069238/status/4104706568/?_i=73281532)
-- [看过 新神榜：杨戬‎ (2022)](https://www.douban.com/people/136069238/status/4104037754/?_i=73281532)
-- [看过 风骚律师 第六季 Better Call Saul Season 6‎ (2022)](https://www.douban.com/people/136069238/status/4101692107/?_i=73281532)
-- [看过 阿根廷，1985 Argentina, 1985‎ (2022)](https://www.douban.com/people/136069238/status/4098228234/?_i=73281532)
-- [在读 生死疲劳](https://www.douban.com/people/136069238/status/4097697897/?_i=73281532)
-- [读过 政治学通识](https://www.douban.com/people/136069238/status/4097697419/?_i=73281532)
-- [玩过 瘟疫传说 安魂曲 A Plague Tale: Requiem](https://www.douban.com/people/136069238/status/4096156365/?_i=73281532)
-- [在看 风骚律师 第六季 Better Call Saul Season 6‎ (2022)](https://www.douban.com/people/136069238/status/4093109627/?_i=73281532)
-- [看过 风骚律师 第五季 Better Call Saul Season 5‎ (2020)](https://www.douban.com/people/136069238/status/4093108864/?_i=73281532)
+- [在看 怪奇物语 第一季 Stranger Things Season 1‎ (2016)](https://www.douban.com/people/136069238/status/4106211193/?_i=73288280)
+- [看过 逆冰之行 Against the Ice‎ (2022)](https://www.douban.com/people/136069238/status/4104706568/?_i=73288280)
+- [看过 新神榜：杨戬‎ (2022)](https://www.douban.com/people/136069238/status/4104037754/?_i=73288280)
+- [看过 风骚律师 第六季 Better Call Saul Season 6‎ (2022)](https://www.douban.com/people/136069238/status/4101692107/?_i=73288280)
+- [看过 阿根廷，1985 Argentina, 1985‎ (2022)](https://www.douban.com/people/136069238/status/4098228234/?_i=73288280)
+- [在读 生死疲劳](https://www.douban.com/people/136069238/status/4097697897/?_i=73288280)
+- [读过 政治学通识](https://www.douban.com/people/136069238/status/4097697419/?_i=73288280)
+- [玩过 瘟疫传说 安魂曲 A Plague Tale: Requiem](https://www.douban.com/people/136069238/status/4096156365/?_i=73288280)
+- [在看 风骚律师 第六季 Better Call Saul Season 6‎ (2022)](https://www.douban.com/people/136069238/status/4093109627/?_i=73288280)
+- [看过 风骚律师 第五季 Better Call Saul Season 5‎ (2020)](https://www.douban.com/people/136069238/status/4093108864/?_i=73288280)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
