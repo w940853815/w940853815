@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在看 怪奇物语 第二季 Stranger Things Season 2‎ (2017)](https://www.douban.com/people/136069238/status/4113832119/?_i=73885928)
-- [看过 怪奇物语 第一季 Stranger Things Season 1‎ (2016)](https://www.douban.com/people/136069238/status/4113831182/?_i=73885928)
-- [在看 怪奇物语 第一季 Stranger Things Season 1‎ (2016)](https://www.douban.com/people/136069238/status/4106211193/?_i=73885928)
-- [看过 逆冰之行 Against the Ice‎ (2022)](https://www.douban.com/people/136069238/status/4104706568/?_i=73885928)
-- [看过 新神榜：杨戬‎ (2022)](https://www.douban.com/people/136069238/status/4104037754/?_i=73885928)
-- [看过 风骚律师 第六季 Better Call Saul Season 6‎ (2022)](https://www.douban.com/people/136069238/status/4101692107/?_i=73885928)
-- [看过 阿根廷，1985 Argentina, 1985‎ (2022)](https://www.douban.com/people/136069238/status/4098228234/?_i=73885929)
-- [在读 生死疲劳](https://www.douban.com/people/136069238/status/4097697897/?_i=73885929)
-- [读过 政治学通识](https://www.douban.com/people/136069238/status/4097697419/?_i=73885929)
-- [玩过 瘟疫传说 安魂曲 A Plague Tale: Requiem](https://www.douban.com/people/136069238/status/4096156365/?_i=73885929)
+- [在看 怪奇物语 第二季 Stranger Things Season 2‎ (2017)](https://www.douban.com/people/136069238/status/4113832119/?_i=73893013)
+- [看过 怪奇物语 第一季 Stranger Things Season 1‎ (2016)](https://www.douban.com/people/136069238/status/4113831182/?_i=73893013)
+- [在看 怪奇物语 第一季 Stranger Things Season 1‎ (2016)](https://www.douban.com/people/136069238/status/4106211193/?_i=73893013)
+- [看过 逆冰之行 Against the Ice‎ (2022)](https://www.douban.com/people/136069238/status/4104706568/?_i=73893013)
+- [看过 新神榜：杨戬‎ (2022)](https://www.douban.com/people/136069238/status/4104037754/?_i=73893013)
+- [看过 风骚律师 第六季 Better Call Saul Season 6‎ (2022)](https://www.douban.com/people/136069238/status/4101692107/?_i=73893013)
+- [看过 阿根廷，1985 Argentina, 1985‎ (2022)](https://www.douban.com/people/136069238/status/4098228234/?_i=73893013)
+- [在读 生死疲劳](https://www.douban.com/people/136069238/status/4097697897/?_i=73893013)
+- [读过 政治学通识](https://www.douban.com/people/136069238/status/4097697419/?_i=73893013)
+- [玩过 瘟疫传说 安魂曲 A Plague Tale: Requiem](https://www.douban.com/people/136069238/status/4096156365/?_i=73893013)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
