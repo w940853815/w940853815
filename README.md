@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在读 始于极限](https://www.douban.com/people/136069238/status/4115193410/?_i=74009748)
-- [说: 我的「豆瓣2022年度书影音报告」 https://douc.cc/0aBKnV ](https://www.douban.com/people/136069238/status/4115190771/?_i=74009748)
-- [说: 我的「豆瓣2022年度书影音报告」 https://douc.cc/0aBKnV ](https://www.douban.com/people/136069238/status/4115190072/?_i=74009749)
-- [读过 生死疲劳](https://www.douban.com/people/136069238/status/4115186746/?_i=74009749)
-- [在看 怪奇物语 第二季 Stranger Things Season 2‎ (2017)](https://www.douban.com/people/136069238/status/4113832119/?_i=74009749)
-- [看过 怪奇物语 第一季 Stranger Things Season 1‎ (2016)](https://www.douban.com/people/136069238/status/4113831182/?_i=74009749)
-- [在看 怪奇物语 第一季 Stranger Things Season 1‎ (2016)](https://www.douban.com/people/136069238/status/4106211193/?_i=74009749)
-- [看过 逆冰之行 Against the Ice‎ (2022)](https://www.douban.com/people/136069238/status/4104706568/?_i=74009749)
-- [看过 新神榜：杨戬‎ (2022)](https://www.douban.com/people/136069238/status/4104037754/?_i=74009749)
-- [看过 风骚律师 第六季 Better Call Saul Season 6‎ (2022)](https://www.douban.com/people/136069238/status/4101692107/?_i=74009749)
+- [在读 始于极限](https://www.douban.com/people/136069238/status/4115193410/?_i=74015425)
+- [说: 我的「豆瓣2022年度书影音报告」 https://douc.cc/0aBKnV ](https://www.douban.com/people/136069238/status/4115190771/?_i=74015425)
+- [说: 我的「豆瓣2022年度书影音报告」 https://douc.cc/0aBKnV ](https://www.douban.com/people/136069238/status/4115190072/?_i=74015425)
+- [读过 生死疲劳](https://www.douban.com/people/136069238/status/4115186746/?_i=74015425)
+- [在看 怪奇物语 第二季 Stranger Things Season 2‎ (2017)](https://www.douban.com/people/136069238/status/4113832119/?_i=74015425)
+- [看过 怪奇物语 第一季 Stranger Things Season 1‎ (2016)](https://www.douban.com/people/136069238/status/4113831182/?_i=74015425)
+- [在看 怪奇物语 第一季 Stranger Things Season 1‎ (2016)](https://www.douban.com/people/136069238/status/4106211193/?_i=74015425)
+- [看过 逆冰之行 Against the Ice‎ (2022)](https://www.douban.com/people/136069238/status/4104706568/?_i=74015425)
+- [看过 新神榜：杨戬‎ (2022)](https://www.douban.com/people/136069238/status/4104037754/?_i=74015425)
+- [看过 风骚律师 第六季 Better Call Saul Season 6‎ (2022)](https://www.douban.com/people/136069238/status/4101692107/?_i=74015425)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
