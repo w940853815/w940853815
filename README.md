@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在看 怪奇物语 第三季 Stranger Things Season 3‎ (2019)](https://www.douban.com/people/136069238/status/4117787534/?_i=74231570)
-- [看过 怪奇物语 第二季 Stranger Things Season 2‎ (2017)](https://www.douban.com/people/136069238/status/4117786735/?_i=74231570)
-- [看过 坠落 Fall‎ (2022)](https://www.douban.com/people/136069238/status/4117534536/?_i=74231570)
-- [在读 始于极限](https://www.douban.com/people/136069238/status/4115193410/?_i=74231570)
-- [说: 我的「豆瓣2022年度书影音报告」 https://douc.cc/0aBKnV ](https://www.douban.com/people/136069238/status/4115190771/?_i=74231570)
-- [说: 我的「豆瓣2022年度书影音报告」 https://douc.cc/0aBKnV ](https://www.douban.com/people/136069238/status/4115190072/?_i=74231570)
-- [读过 生死疲劳](https://www.douban.com/people/136069238/status/4115186746/?_i=74231570)
-- [在看 怪奇物语 第二季 Stranger Things Season 2‎ (2017)](https://www.douban.com/people/136069238/status/4113832119/?_i=74231570)
-- [看过 怪奇物语 第一季 Stranger Things Season 1‎ (2016)](https://www.douban.com/people/136069238/status/4113831182/?_i=74231570)
-- [在看 怪奇物语 第一季 Stranger Things Season 1‎ (2016)](https://www.douban.com/people/136069238/status/4106211193/?_i=74231570)
+- [在看 怪奇物语 第三季 Stranger Things Season 3‎ (2019)](https://www.douban.com/people/136069238/status/4117787534/?_i=74238642)
+- [看过 怪奇物语 第二季 Stranger Things Season 2‎ (2017)](https://www.douban.com/people/136069238/status/4117786735/?_i=74238642)
+- [看过 坠落 Fall‎ (2022)](https://www.douban.com/people/136069238/status/4117534536/?_i=74238642)
+- [在读 始于极限](https://www.douban.com/people/136069238/status/4115193410/?_i=74238642)
+- [说: 我的「豆瓣2022年度书影音报告」 https://douc.cc/0aBKnV ](https://www.douban.com/people/136069238/status/4115190771/?_i=74238642)
+- [说: 我的「豆瓣2022年度书影音报告」 https://douc.cc/0aBKnV ](https://www.douban.com/people/136069238/status/4115190072/?_i=74238642)
+- [读过 生死疲劳](https://www.douban.com/people/136069238/status/4115186746/?_i=74238642)
+- [在看 怪奇物语 第二季 Stranger Things Season 2‎ (2017)](https://www.douban.com/people/136069238/status/4113832119/?_i=74238642)
+- [看过 怪奇物语 第一季 Stranger Things Season 1‎ (2016)](https://www.douban.com/people/136069238/status/4113831182/?_i=74238642)
+- [在看 怪奇物语 第一季 Stranger Things Season 1‎ (2016)](https://www.douban.com/people/136069238/status/4106211193/?_i=74238642)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
