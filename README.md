@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 怪奇物语 第三季 Stranger Things Season 3‎ (2019)](https://www.douban.com/people/136069238/status/4128137084/?_i=74936792)
-- [看过 椒麻堂会‎ (2021)](https://www.douban.com/people/136069238/status/4121285981/?_i=74936792)
-- [在读 兄弟](https://www.douban.com/people/136069238/status/4118865218/?_i=74936792)
-- [读过 始于极限](https://www.douban.com/people/136069238/status/4118688115/?_i=74936792)
-- [在看 怪奇物语 第三季 Stranger Things Season 3‎ (2019)](https://www.douban.com/people/136069238/status/4117787534/?_i=74936792)
-- [看过 怪奇物语 第二季 Stranger Things Season 2‎ (2017)](https://www.douban.com/people/136069238/status/4117786735/?_i=74936792)
-- [看过 坠落 Fall‎ (2022)](https://www.douban.com/people/136069238/status/4117534536/?_i=74936792)
-- [在读 始于极限](https://www.douban.com/people/136069238/status/4115193410/?_i=74936792)
-- [说: 我的「豆瓣2022年度书影音报告」 https://douc.cc/0aBKnV ](https://www.douban.com/people/136069238/status/4115190771/?_i=74936792)
-- [说: 我的「豆瓣2022年度书影音报告」 https://douc.cc/0aBKnV ](https://www.douban.com/people/136069238/status/4115190072/?_i=74936792)
+- [看过 怪奇物语 第三季 Stranger Things Season 3‎ (2019)](https://www.douban.com/people/136069238/status/4128137084/?_i=74943923)
+- [看过 椒麻堂会‎ (2021)](https://www.douban.com/people/136069238/status/4121285981/?_i=74943923)
+- [在读 兄弟](https://www.douban.com/people/136069238/status/4118865218/?_i=74943923)
+- [读过 始于极限](https://www.douban.com/people/136069238/status/4118688115/?_i=74943923)
+- [在看 怪奇物语 第三季 Stranger Things Season 3‎ (2019)](https://www.douban.com/people/136069238/status/4117787534/?_i=74943923)
+- [看过 怪奇物语 第二季 Stranger Things Season 2‎ (2017)](https://www.douban.com/people/136069238/status/4117786735/?_i=74943923)
+- [看过 坠落 Fall‎ (2022)](https://www.douban.com/people/136069238/status/4117534536/?_i=74943923)
+- [在读 始于极限](https://www.douban.com/people/136069238/status/4115193410/?_i=74943923)
+- [说: 我的「豆瓣2022年度书影音报告」 https://douc.cc/0aBKnV ](https://www.douban.com/people/136069238/status/4115190771/?_i=74943923)
+- [说: 我的「豆瓣2022年度书影音报告」 https://douc.cc/0aBKnV ](https://www.douban.com/people/136069238/status/4115190072/?_i=74943923)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
