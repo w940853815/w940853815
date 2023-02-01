@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [读过 兄弟](https://www.douban.com/people/136069238/status/4130695500/?_i=75220024)
-- [看过 核磁共振 R.M.N.‎ (2022)](https://www.douban.com/people/136069238/status/4129280068/?_i=75220024)
-- [在看 怪奇物语 第四季 Stranger Things Season 4‎ (2022)](https://www.douban.com/people/136069238/status/4128731025/?_i=75220024)
-- [看过 怪奇物语 第三季 Stranger Things Season 3‎ (2019)](https://www.douban.com/people/136069238/status/4128137084/?_i=75220024)
-- [看过 椒麻堂会‎ (2021)](https://www.douban.com/people/136069238/status/4121285981/?_i=75220024)
-- [在读 兄弟](https://www.douban.com/people/136069238/status/4118865218/?_i=75220024)
-- [读过 始于极限](https://www.douban.com/people/136069238/status/4118688115/?_i=75220024)
-- [在看 怪奇物语 第三季 Stranger Things Season 3‎ (2019)](https://www.douban.com/people/136069238/status/4117787534/?_i=75220024)
-- [看过 怪奇物语 第二季 Stranger Things Season 2‎ (2017)](https://www.douban.com/people/136069238/status/4117786735/?_i=75220024)
-- [看过 坠落 Fall‎ (2022)](https://www.douban.com/people/136069238/status/4117534536/?_i=75220024)
+- [读过 兄弟](https://www.douban.com/people/136069238/status/4130695500/?_i=75225034)
+- [看过 核磁共振 R.M.N.‎ (2022)](https://www.douban.com/people/136069238/status/4129280068/?_i=75225034)
+- [在看 怪奇物语 第四季 Stranger Things Season 4‎ (2022)](https://www.douban.com/people/136069238/status/4128731025/?_i=75225034)
+- [看过 怪奇物语 第三季 Stranger Things Season 3‎ (2019)](https://www.douban.com/people/136069238/status/4128137084/?_i=75225034)
+- [看过 椒麻堂会‎ (2021)](https://www.douban.com/people/136069238/status/4121285981/?_i=75225034)
+- [在读 兄弟](https://www.douban.com/people/136069238/status/4118865218/?_i=75225034)
+- [读过 始于极限](https://www.douban.com/people/136069238/status/4118688115/?_i=75225034)
+- [在看 怪奇物语 第三季 Stranger Things Season 3‎ (2019)](https://www.douban.com/people/136069238/status/4117787534/?_i=75225034)
+- [看过 怪奇物语 第二季 Stranger Things Season 2‎ (2017)](https://www.douban.com/people/136069238/status/4117786735/?_i=75225034)
+- [看过 坠落 Fall‎ (2022)](https://www.douban.com/people/136069238/status/4117534536/?_i=75225034)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
