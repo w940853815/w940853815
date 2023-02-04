@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在读 Python工匠](https://www.douban.com/people/136069238/status/4134512399/?_i=75527465)
-- [在读 这才是心理学（第11版）](https://www.douban.com/people/136069238/status/4132381532/?_i=75527465)
-- [读过 兄弟](https://www.douban.com/people/136069238/status/4130695500/?_i=75527465)
-- [看过 核磁共振 R.M.N.‎ (2022)](https://www.douban.com/people/136069238/status/4129280068/?_i=75527465)
-- [在看 怪奇物语 第四季 Stranger Things Season 4‎ (2022)](https://www.douban.com/people/136069238/status/4128731025/?_i=75527465)
-- [看过 怪奇物语 第三季 Stranger Things Season 3‎ (2019)](https://www.douban.com/people/136069238/status/4128137084/?_i=75527465)
-- [看过 椒麻堂会‎ (2021)](https://www.douban.com/people/136069238/status/4121285981/?_i=75527465)
-- [在读 兄弟](https://www.douban.com/people/136069238/status/4118865218/?_i=75527465)
-- [读过 始于极限](https://www.douban.com/people/136069238/status/4118688115/?_i=75527465)
-- [在看 怪奇物语 第三季 Stranger Things Season 3‎ (2019)](https://www.douban.com/people/136069238/status/4117787534/?_i=75527465)
+- [在读 Python工匠](https://www.douban.com/people/136069238/status/4134512399/?_i=75534533)
+- [在读 这才是心理学（第11版）](https://www.douban.com/people/136069238/status/4132381532/?_i=75534533)
+- [读过 兄弟](https://www.douban.com/people/136069238/status/4130695500/?_i=75534533)
+- [看过 核磁共振 R.M.N.‎ (2022)](https://www.douban.com/people/136069238/status/4129280068/?_i=75534533)
+- [在看 怪奇物语 第四季 Stranger Things Season 4‎ (2022)](https://www.douban.com/people/136069238/status/4128731025/?_i=75534533)
+- [看过 怪奇物语 第三季 Stranger Things Season 3‎ (2019)](https://www.douban.com/people/136069238/status/4128137084/?_i=75534533)
+- [看过 椒麻堂会‎ (2021)](https://www.douban.com/people/136069238/status/4121285981/?_i=75534533)
+- [在读 兄弟](https://www.douban.com/people/136069238/status/4118865218/?_i=75534533)
+- [读过 始于极限](https://www.douban.com/people/136069238/status/4118688115/?_i=75534533)
+- [在看 怪奇物语 第三季 Stranger Things Season 3‎ (2019)](https://www.douban.com/people/136069238/status/4117787534/?_i=75534533)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
