@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 踏血寻梅 踏血尋梅‎ (2015)](https://www.douban.com/people/136069238/status/4143953316/?_i=76550497)
-- [在读 显微镜下的大明](https://www.douban.com/people/136069238/status/4141443873/?_i=76550497)
-- [读过 这才是心理学（第11版）](https://www.douban.com/people/136069238/status/4141443837/?_i=76550497)
-- [在看 狂飙‎ (2023)](https://www.douban.com/people/136069238/status/4138126519/?_i=76550497)
-- [看过 怪奇物语 第四季 Stranger Things Season 4‎ (2022)](https://www.douban.com/people/136069238/status/4137317500/?_i=76550497)
-- [在读 Python工匠](https://www.douban.com/people/136069238/status/4134512399/?_i=76550497)
-- [在读 这才是心理学（第11版）](https://www.douban.com/people/136069238/status/4132381532/?_i=76550497)
-- [读过 兄弟](https://www.douban.com/people/136069238/status/4130695500/?_i=76550497)
-- [看过 核磁共振 R.M.N.‎ (2022)](https://www.douban.com/people/136069238/status/4129280068/?_i=76550497)
-- [在看 怪奇物语 第四季 Stranger Things Season 4‎ (2022)](https://www.douban.com/people/136069238/status/4128731025/?_i=76550497)
+- [看过 踏血寻梅 踏血尋梅‎ (2015)](https://www.douban.com/people/136069238/status/4143953316/?_i=76556793)
+- [在读 显微镜下的大明](https://www.douban.com/people/136069238/status/4141443873/?_i=76556793)
+- [读过 这才是心理学（第11版）](https://www.douban.com/people/136069238/status/4141443837/?_i=76556793)
+- [在看 狂飙‎ (2023)](https://www.douban.com/people/136069238/status/4138126519/?_i=76556793)
+- [看过 怪奇物语 第四季 Stranger Things Season 4‎ (2022)](https://www.douban.com/people/136069238/status/4137317500/?_i=76556793)
+- [在读 Python工匠](https://www.douban.com/people/136069238/status/4134512399/?_i=76556793)
+- [在读 这才是心理学（第11版）](https://www.douban.com/people/136069238/status/4132381532/?_i=76556793)
+- [读过 兄弟](https://www.douban.com/people/136069238/status/4130695500/?_i=76556793)
+- [看过 核磁共振 R.M.N.‎ (2022)](https://www.douban.com/people/136069238/status/4129280068/?_i=76556793)
+- [在看 怪奇物语 第四季 Stranger Things Season 4‎ (2022)](https://www.douban.com/people/136069238/status/4128731025/?_i=76556793)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
