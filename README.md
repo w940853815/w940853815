@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在看 鱿鱼游戏 第一季 오징어 게임‎ (2021)](https://www.douban.com/people/136069238/status/4150463590/?_i=76881174)
-- [看过 军中乐园 軍中樂園‎ (2014)](https://www.douban.com/people/136069238/status/4150454414/?_i=76881174)
-- [看过 狂飙‎ (2023)](https://www.douban.com/people/136069238/status/4149900774/?_i=76881174)
-- [看过 踏血寻梅 踏血尋梅‎ (2015)](https://www.douban.com/people/136069238/status/4143953316/?_i=76881174)
-- [在读 显微镜下的大明](https://www.douban.com/people/136069238/status/4141443873/?_i=76881175)
-- [读过 这才是心理学（第11版）](https://www.douban.com/people/136069238/status/4141443837/?_i=76881175)
-- [在看 狂飙‎ (2023)](https://www.douban.com/people/136069238/status/4138126519/?_i=76881175)
-- [看过 怪奇物语 第四季 Stranger Things Season 4‎ (2022)](https://www.douban.com/people/136069238/status/4137317500/?_i=76881175)
-- [在读 Python工匠](https://www.douban.com/people/136069238/status/4134512399/?_i=76881175)
-- [在读 这才是心理学（第11版）](https://www.douban.com/people/136069238/status/4132381532/?_i=76881175)
+- [在看 鱿鱼游戏 第一季 오징어 게임‎ (2021)](https://www.douban.com/people/136069238/status/4150463590/?_i=76888223)
+- [看过 军中乐园 軍中樂園‎ (2014)](https://www.douban.com/people/136069238/status/4150454414/?_i=76888223)
+- [看过 狂飙‎ (2023)](https://www.douban.com/people/136069238/status/4149900774/?_i=76888223)
+- [看过 踏血寻梅 踏血尋梅‎ (2015)](https://www.douban.com/people/136069238/status/4143953316/?_i=76888223)
+- [在读 显微镜下的大明](https://www.douban.com/people/136069238/status/4141443873/?_i=76888223)
+- [读过 这才是心理学（第11版）](https://www.douban.com/people/136069238/status/4141443837/?_i=76888223)
+- [在看 狂飙‎ (2023)](https://www.douban.com/people/136069238/status/4138126519/?_i=76888223)
+- [看过 怪奇物语 第四季 Stranger Things Season 4‎ (2022)](https://www.douban.com/people/136069238/status/4137317500/?_i=76888223)
+- [在读 Python工匠](https://www.douban.com/people/136069238/status/4134512399/?_i=76888223)
+- [在读 这才是心理学（第11版）](https://www.douban.com/people/136069238/status/4132381532/?_i=76888223)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
