@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 套装 The Outfit‎ (2022)](https://www.douban.com/people/136069238/status/4162666216/?_i=78238257)
-- [在读 一句顶一万句](https://www.douban.com/people/136069238/status/4159175551/?_i=78238257)
-- [读过 西线无战事](https://www.douban.com/people/136069238/status/4159174932/?_i=78238257)
-- [在看 人格 Şahsiyet‎ (2019)](https://www.douban.com/people/136069238/status/4156515578/?_i=78238257)
-- [看过 鱿鱼游戏 第一季 오징어 게임‎ (2021)](https://www.douban.com/people/136069238/status/4155581327/?_i=78238257)
-- [在读 西线无战事](https://www.douban.com/people/136069238/status/4152732008/?_i=78238257)
-- [读过 显微镜下的大明](https://www.douban.com/people/136069238/status/4151770126/?_i=78238257)
-- [在看 鱿鱼游戏 第一季 오징어 게임‎ (2021)](https://www.douban.com/people/136069238/status/4150463590/?_i=78238257)
-- [看过 军中乐园 軍中樂園‎ (2014)](https://www.douban.com/people/136069238/status/4150454414/?_i=78238257)
-- [看过 狂飙‎ (2023)](https://www.douban.com/people/136069238/status/4149900774/?_i=78238257)
+- [看过 套装 The Outfit‎ (2022)](https://www.douban.com/people/136069238/status/4162666216/?_i=78243863)
+- [在读 一句顶一万句](https://www.douban.com/people/136069238/status/4159175551/?_i=78243863)
+- [读过 西线无战事](https://www.douban.com/people/136069238/status/4159174932/?_i=78243863)
+- [在看 人格 Şahsiyet‎ (2019)](https://www.douban.com/people/136069238/status/4156515578/?_i=78243863)
+- [看过 鱿鱼游戏 第一季 오징어 게임‎ (2021)](https://www.douban.com/people/136069238/status/4155581327/?_i=78243863)
+- [在读 西线无战事](https://www.douban.com/people/136069238/status/4152732008/?_i=78243863)
+- [读过 显微镜下的大明](https://www.douban.com/people/136069238/status/4151770126/?_i=78243863)
+- [在看 鱿鱼游戏 第一季 오징어 게임‎ (2021)](https://www.douban.com/people/136069238/status/4150463590/?_i=78243863)
+- [看过 军中乐园 軍中樂園‎ (2014)](https://www.douban.com/people/136069238/status/4150454414/?_i=78243863)
+- [看过 狂飙‎ (2023)](https://www.douban.com/people/136069238/status/4149900774/?_i=78243863)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
