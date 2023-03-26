@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 铃芽之旅 すずめの戸締まり‎ (2022)](https://www.douban.com/people/136069238/status/4180574625/?_i=79825560)
-- [在读 中国在梁庄](https://www.douban.com/people/136069238/status/4174783134/?_i=79825560)
-- [读过 被讨厌的勇气](https://www.douban.com/people/136069238/status/4174194174/?_i=79825560)
-- [看过 雷霆沙赞！众神之怒 Shazam! Fury of the Gods‎ (2023)](https://www.douban.com/people/136069238/status/4173862129/?_i=79825560)
-- [在读 被讨厌的勇气](https://www.douban.com/people/136069238/status/4169494233/?_i=79825560)
-- [读过 一句顶一万句](https://www.douban.com/people/136069238/status/4169392626/?_i=79825560)
-- [看过 千寻小姐 ちひろさん‎ (2023)](https://www.douban.com/people/136069238/status/4168594115/?_i=79825560)
-- [看过 西线无战事 Im Westen nichts Neues‎ (2022)](https://www.douban.com/people/136069238/status/4167652023/?_i=79825560)
-- [看过 套装 The Outfit‎ (2022)](https://www.douban.com/people/136069238/status/4162666216/?_i=79825560)
-- [在读 一句顶一万句](https://www.douban.com/people/136069238/status/4159175551/?_i=79825560)
+- [看过 铃芽之旅 すずめの戸締まり‎ (2022)](https://www.douban.com/people/136069238/status/4180574625/?_i=79833448)
+- [在读 中国在梁庄](https://www.douban.com/people/136069238/status/4174783134/?_i=79833448)
+- [读过 被讨厌的勇气](https://www.douban.com/people/136069238/status/4174194174/?_i=79833448)
+- [看过 雷霆沙赞！众神之怒 Shazam! Fury of the Gods‎ (2023)](https://www.douban.com/people/136069238/status/4173862129/?_i=79833449)
+- [在读 被讨厌的勇气](https://www.douban.com/people/136069238/status/4169494233/?_i=79833449)
+- [读过 一句顶一万句](https://www.douban.com/people/136069238/status/4169392626/?_i=79833449)
+- [看过 千寻小姐 ちひろさん‎ (2023)](https://www.douban.com/people/136069238/status/4168594115/?_i=79833449)
+- [看过 西线无战事 Im Westen nichts Neues‎ (2022)](https://www.douban.com/people/136069238/status/4167652023/?_i=79833449)
+- [看过 套装 The Outfit‎ (2022)](https://www.douban.com/people/136069238/status/4162666216/?_i=79833449)
+- [在读 一句顶一万句](https://www.douban.com/people/136069238/status/4159175551/?_i=79833449)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
