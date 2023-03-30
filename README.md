@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在读 出梁庄记](https://www.douban.com/people/136069238/status/4183319077/?_i=80200130)
-- [读过 中国在梁庄](https://www.douban.com/people/136069238/status/4183317765/?_i=80200130)
-- [看过 铃芽之旅 すずめの戸締まり‎ (2022)](https://www.douban.com/people/136069238/status/4180574625/?_i=80200130)
-- [在读 中国在梁庄](https://www.douban.com/people/136069238/status/4174783134/?_i=80200130)
-- [读过 被讨厌的勇气](https://www.douban.com/people/136069238/status/4174194174/?_i=80200130)
-- [看过 雷霆沙赞！众神之怒 Shazam! Fury of the Gods‎ (2023)](https://www.douban.com/people/136069238/status/4173862129/?_i=80200130)
-- [在读 被讨厌的勇气](https://www.douban.com/people/136069238/status/4169494233/?_i=80200130)
-- [读过 一句顶一万句](https://www.douban.com/people/136069238/status/4169392626/?_i=80200130)
-- [看过 千寻小姐 ちひろさん‎ (2023)](https://www.douban.com/people/136069238/status/4168594115/?_i=80200130)
-- [看过 西线无战事 Im Westen nichts Neues‎ (2022)](https://www.douban.com/people/136069238/status/4167652023/?_i=80200130)
+- [在读 出梁庄记](https://www.douban.com/people/136069238/status/4183319077/?_i=80207236)
+- [读过 中国在梁庄](https://www.douban.com/people/136069238/status/4183317765/?_i=80207236)
+- [看过 铃芽之旅 すずめの戸締まり‎ (2022)](https://www.douban.com/people/136069238/status/4180574625/?_i=80207236)
+- [在读 中国在梁庄](https://www.douban.com/people/136069238/status/4174783134/?_i=80207236)
+- [读过 被讨厌的勇气](https://www.douban.com/people/136069238/status/4174194174/?_i=80207236)
+- [看过 雷霆沙赞！众神之怒 Shazam! Fury of the Gods‎ (2023)](https://www.douban.com/people/136069238/status/4173862129/?_i=80207236)
+- [在读 被讨厌的勇气](https://www.douban.com/people/136069238/status/4169494233/?_i=80207236)
+- [读过 一句顶一万句](https://www.douban.com/people/136069238/status/4169392626/?_i=80207236)
+- [看过 千寻小姐 ちひろさん‎ (2023)](https://www.douban.com/people/136069238/status/4168594115/?_i=80207236)
+- [看过 西线无战事 Im Westen nichts Neues‎ (2022)](https://www.douban.com/people/136069238/status/4167652023/?_i=80207236)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
