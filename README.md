@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [想看 谁可以这样爱我 Redeeming Love‎ (2022)](https://www.douban.com/people/136069238/status/4188956472/?_i=80646299)
-- [读过 Python工匠](https://www.douban.com/people/136069238/status/4188860579/?_i=80646299)
-- [看过 廊桥遗梦 The Bridges of Madison County‎ (1995)](https://www.douban.com/people/136069238/status/4185308287/?_i=80646299)
-- [在读 出梁庄记](https://www.douban.com/people/136069238/status/4183319077/?_i=80646299)
-- [读过 中国在梁庄](https://www.douban.com/people/136069238/status/4183317765/?_i=80646299)
-- [看过 铃芽之旅 すずめの戸締まり‎ (2022)](https://www.douban.com/people/136069238/status/4180574625/?_i=80646299)
-- [在读 中国在梁庄](https://www.douban.com/people/136069238/status/4174783134/?_i=80646299)
-- [读过 被讨厌的勇气](https://www.douban.com/people/136069238/status/4174194174/?_i=80646299)
-- [看过 雷霆沙赞！众神之怒 Shazam! Fury of the Gods‎ (2023)](https://www.douban.com/people/136069238/status/4173862129/?_i=80646299)
-- [在读 被讨厌的勇气](https://www.douban.com/people/136069238/status/4169494233/?_i=80646299)
+- [想看 谁可以这样爱我 Redeeming Love‎ (2022)](https://www.douban.com/people/136069238/status/4188956472/?_i=80656100)
+- [读过 Python工匠](https://www.douban.com/people/136069238/status/4188860579/?_i=80656100)
+- [看过 廊桥遗梦 The Bridges of Madison County‎ (1995)](https://www.douban.com/people/136069238/status/4185308287/?_i=80656100)
+- [在读 出梁庄记](https://www.douban.com/people/136069238/status/4183319077/?_i=80656100)
+- [读过 中国在梁庄](https://www.douban.com/people/136069238/status/4183317765/?_i=80656101)
+- [看过 铃芽之旅 すずめの戸締まり‎ (2022)](https://www.douban.com/people/136069238/status/4180574625/?_i=80656101)
+- [在读 中国在梁庄](https://www.douban.com/people/136069238/status/4174783134/?_i=80656101)
+- [读过 被讨厌的勇气](https://www.douban.com/people/136069238/status/4174194174/?_i=80656101)
+- [看过 雷霆沙赞！众神之怒 Shazam! Fury of the Gods‎ (2023)](https://www.douban.com/people/136069238/status/4173862129/?_i=80656101)
+- [在读 被讨厌的勇气](https://www.douban.com/people/136069238/status/4169494233/?_i=80656101)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
