@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在读 数据架构师的PostgreSQL修炼：高效设计、开发与维护数据库应用](https://www.douban.com/people/136069238/status/4195338884/?_i=81380823)
-- [想看 谁可以这样爱我 Redeeming Love‎ (2022)](https://www.douban.com/people/136069238/status/4188956472/?_i=81380823)
-- [读过 Python工匠](https://www.douban.com/people/136069238/status/4188860579/?_i=81380823)
-- [看过 廊桥遗梦 The Bridges of Madison County‎ (1995)](https://www.douban.com/people/136069238/status/4185308287/?_i=81380823)
-- [在读 出梁庄记](https://www.douban.com/people/136069238/status/4183319077/?_i=81380823)
-- [读过 中国在梁庄](https://www.douban.com/people/136069238/status/4183317765/?_i=81380823)
-- [看过 铃芽之旅 すずめの戸締まり‎ (2022)](https://www.douban.com/people/136069238/status/4180574625/?_i=81380823)
-- [在读 中国在梁庄](https://www.douban.com/people/136069238/status/4174783134/?_i=81380823)
-- [读过 被讨厌的勇气](https://www.douban.com/people/136069238/status/4174194174/?_i=81380823)
-- [看过 雷霆沙赞！众神之怒 Shazam! Fury of the Gods‎ (2023)](https://www.douban.com/people/136069238/status/4173862129/?_i=81380823)
+- [在读 数据架构师的PostgreSQL修炼：高效设计、开发与维护数据库应用](https://www.douban.com/people/136069238/status/4195338884/?_i=81388790)
+- [想看 谁可以这样爱我 Redeeming Love‎ (2022)](https://www.douban.com/people/136069238/status/4188956472/?_i=81388790)
+- [读过 Python工匠](https://www.douban.com/people/136069238/status/4188860579/?_i=81388790)
+- [看过 廊桥遗梦 The Bridges of Madison County‎ (1995)](https://www.douban.com/people/136069238/status/4185308287/?_i=81388790)
+- [在读 出梁庄记](https://www.douban.com/people/136069238/status/4183319077/?_i=81388790)
+- [读过 中国在梁庄](https://www.douban.com/people/136069238/status/4183317765/?_i=81388790)
+- [看过 铃芽之旅 すずめの戸締まり‎ (2022)](https://www.douban.com/people/136069238/status/4180574625/?_i=81388790)
+- [在读 中国在梁庄](https://www.douban.com/people/136069238/status/4174783134/?_i=81388790)
+- [读过 被讨厌的勇气](https://www.douban.com/people/136069238/status/4174194174/?_i=81388790)
+- [看过 雷霆沙赞！众神之怒 Shazam! Fury of the Gods‎ (2023)](https://www.douban.com/people/136069238/status/4173862129/?_i=81388790)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
