@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [读过 梁庄十年](https://www.douban.com/people/136069238/status/4206664969/?_i=82756080)
-- [在读 AI·未来](https://www.douban.com/people/136069238/status/4206653520/?_i=82756080)
-- [看过 流浪地球2‎ (2023)](https://www.douban.com/people/136069238/status/4199558549/?_i=82756080)
-- [读过 数据架构师的PostgreSQL修炼：高效设计、开发与维护数据库应用](https://www.douban.com/people/136069238/status/4199451104/?_i=82756080)
-- [在读 梁庄十年](https://www.douban.com/people/136069238/status/4198822794/?_i=82756080)
-- [读过 出梁庄记](https://www.douban.com/people/136069238/status/4198821001/?_i=82756080)
-- [在看 康熙王朝‎ (2001)](https://www.douban.com/people/136069238/status/4198508156/?_i=82756080)
-- [看过 人格 Şahsiyet‎ (2019)](https://www.douban.com/people/136069238/status/4198163968/?_i=82756080)
-- [在读 数据架构师的PostgreSQL修炼：高效设计、开发与维护数据库应用](https://www.douban.com/people/136069238/status/4195338884/?_i=82756080)
-- [想看 谁可以这样爱我 Redeeming Love‎ (2022)](https://www.douban.com/people/136069238/status/4188956472/?_i=82756080)
+- [读过 梁庄十年](https://www.douban.com/people/136069238/status/4206664969/?_i=82763137)
+- [在读 AI·未来](https://www.douban.com/people/136069238/status/4206653520/?_i=82763137)
+- [看过 流浪地球2‎ (2023)](https://www.douban.com/people/136069238/status/4199558549/?_i=82763137)
+- [读过 数据架构师的PostgreSQL修炼：高效设计、开发与维护数据库应用](https://www.douban.com/people/136069238/status/4199451104/?_i=82763137)
+- [在读 梁庄十年](https://www.douban.com/people/136069238/status/4198822794/?_i=82763137)
+- [读过 出梁庄记](https://www.douban.com/people/136069238/status/4198821001/?_i=82763137)
+- [在看 康熙王朝‎ (2001)](https://www.douban.com/people/136069238/status/4198508156/?_i=82763137)
+- [看过 人格 Şahsiyet‎ (2019)](https://www.douban.com/people/136069238/status/4198163968/?_i=82763137)
+- [在读 数据架构师的PostgreSQL修炼：高效设计、开发与维护数据库应用](https://www.douban.com/people/136069238/status/4195338884/?_i=82763137)
+- [想看 谁可以这样爱我 Redeeming Love‎ (2022)](https://www.douban.com/people/136069238/status/4188956472/?_i=82763137)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
