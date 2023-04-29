@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 回廊亭‎ (2023)](https://www.douban.com/people/136069238/status/4215992758/?_i=82792077)
-- [读过 梁庄十年](https://www.douban.com/people/136069238/status/4206664969/?_i=82792077)
-- [在读 AI·未来](https://www.douban.com/people/136069238/status/4206653520/?_i=82792077)
-- [看过 流浪地球2‎ (2023)](https://www.douban.com/people/136069238/status/4199558549/?_i=82792077)
-- [读过 数据架构师的PostgreSQL修炼：高效设计、开发与维护数据库应用](https://www.douban.com/people/136069238/status/4199451104/?_i=82792077)
-- [在读 梁庄十年](https://www.douban.com/people/136069238/status/4198822794/?_i=82792077)
-- [读过 出梁庄记](https://www.douban.com/people/136069238/status/4198821001/?_i=82792077)
-- [在看 康熙王朝‎ (2001)](https://www.douban.com/people/136069238/status/4198508156/?_i=82792077)
-- [看过 人格 Şahsiyet‎ (2019)](https://www.douban.com/people/136069238/status/4198163968/?_i=82792077)
-- [在读 数据架构师的PostgreSQL修炼：高效设计、开发与维护数据库应用](https://www.douban.com/people/136069238/status/4195338884/?_i=82792077)
+- [看过 回廊亭‎ (2023)](https://www.douban.com/people/136069238/status/4215992758/?_i=82799143)
+- [读过 梁庄十年](https://www.douban.com/people/136069238/status/4206664969/?_i=82799143)
+- [在读 AI·未来](https://www.douban.com/people/136069238/status/4206653520/?_i=82799143)
+- [看过 流浪地球2‎ (2023)](https://www.douban.com/people/136069238/status/4199558549/?_i=82799143)
+- [读过 数据架构师的PostgreSQL修炼：高效设计、开发与维护数据库应用](https://www.douban.com/people/136069238/status/4199451104/?_i=82799143)
+- [在读 梁庄十年](https://www.douban.com/people/136069238/status/4198822794/?_i=82799143)
+- [读过 出梁庄记](https://www.douban.com/people/136069238/status/4198821001/?_i=82799143)
+- [在看 康熙王朝‎ (2001)](https://www.douban.com/people/136069238/status/4198508156/?_i=82799143)
+- [看过 人格 Şahsiyet‎ (2019)](https://www.douban.com/people/136069238/status/4198163968/?_i=82799143)
+- [在读 数据架构师的PostgreSQL修炼：高效设计、开发与维护数据库应用](https://www.douban.com/people/136069238/status/4195338884/?_i=82799143)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
