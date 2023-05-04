@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在读 美国增长的起落](https://www.douban.com/people/136069238/status/4220055912/?_i=83224141)
-- [读过 AI·未来](https://www.douban.com/people/136069238/status/4220054171/?_i=83224141)
-- [看过 满江红‎ (2023)](https://www.douban.com/people/136069238/status/4219146433/?_i=83224141)
-- [看过 回廊亭‎ (2023)](https://www.douban.com/people/136069238/status/4215992758/?_i=83224141)
-- [读过 梁庄十年](https://www.douban.com/people/136069238/status/4206664969/?_i=83224141)
-- [在读 AI·未来](https://www.douban.com/people/136069238/status/4206653520/?_i=83224141)
-- [看过 流浪地球2‎ (2023)](https://www.douban.com/people/136069238/status/4199558549/?_i=83224141)
-- [读过 数据架构师的PostgreSQL修炼：高效设计、开发与维护数据库应用](https://www.douban.com/people/136069238/status/4199451104/?_i=83224141)
-- [在读 梁庄十年](https://www.douban.com/people/136069238/status/4198822794/?_i=83224141)
-- [读过 出梁庄记](https://www.douban.com/people/136069238/status/4198821001/?_i=83224141)
+- [在读 美国增长的起落](https://www.douban.com/people/136069238/status/4220055912/?_i=83231194)
+- [读过 AI·未来](https://www.douban.com/people/136069238/status/4220054171/?_i=83231194)
+- [看过 满江红‎ (2023)](https://www.douban.com/people/136069238/status/4219146433/?_i=83231194)
+- [看过 回廊亭‎ (2023)](https://www.douban.com/people/136069238/status/4215992758/?_i=83231195)
+- [读过 梁庄十年](https://www.douban.com/people/136069238/status/4206664969/?_i=83231195)
+- [在读 AI·未来](https://www.douban.com/people/136069238/status/4206653520/?_i=83231195)
+- [看过 流浪地球2‎ (2023)](https://www.douban.com/people/136069238/status/4199558549/?_i=83231195)
+- [读过 数据架构师的PostgreSQL修炼：高效设计、开发与维护数据库应用](https://www.douban.com/people/136069238/status/4199451104/?_i=83231195)
+- [在读 梁庄十年](https://www.douban.com/people/136069238/status/4198822794/?_i=83231195)
+- [读过 出梁庄记](https://www.douban.com/people/136069238/status/4198821001/?_i=83231195)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
