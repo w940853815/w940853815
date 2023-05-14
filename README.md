@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 银河护卫队3 Guardians of the Galaxy Vol. 3‎ (2023)](https://www.douban.com/people/136069238/status/4236631849/?_i=84088044)
-- [在读 微信小程序开发实战](https://www.douban.com/people/136069238/status/4230177692/?_i=84088044)
-- [在读 美国增长的起落](https://www.douban.com/people/136069238/status/4220055912/?_i=84088044)
-- [读过 AI·未来](https://www.douban.com/people/136069238/status/4220054171/?_i=84088044)
-- [看过 满江红‎ (2023)](https://www.douban.com/people/136069238/status/4219146433/?_i=84088044)
-- [看过 回廊亭‎ (2023)](https://www.douban.com/people/136069238/status/4215992758/?_i=84088044)
-- [读过 梁庄十年](https://www.douban.com/people/136069238/status/4206664969/?_i=84088045)
-- [在读 AI·未来](https://www.douban.com/people/136069238/status/4206653520/?_i=84088045)
-- [看过 流浪地球2‎ (2023)](https://www.douban.com/people/136069238/status/4199558549/?_i=84088045)
-- [读过 数据架构师的PostgreSQL修炼：高效设计、开发与维护数据库应用](https://www.douban.com/people/136069238/status/4199451104/?_i=84088045)
+- [看过 银河护卫队3 Guardians of the Galaxy Vol. 3‎ (2023)](https://www.douban.com/people/136069238/status/4236631849/?_i=84095137)
+- [在读 微信小程序开发实战](https://www.douban.com/people/136069238/status/4230177692/?_i=84095137)
+- [在读 美国增长的起落](https://www.douban.com/people/136069238/status/4220055912/?_i=84095137)
+- [读过 AI·未来](https://www.douban.com/people/136069238/status/4220054171/?_i=84095137)
+- [看过 满江红‎ (2023)](https://www.douban.com/people/136069238/status/4219146433/?_i=84095137)
+- [看过 回廊亭‎ (2023)](https://www.douban.com/people/136069238/status/4215992758/?_i=84095137)
+- [读过 梁庄十年](https://www.douban.com/people/136069238/status/4206664969/?_i=84095137)
+- [在读 AI·未来](https://www.douban.com/people/136069238/status/4206653520/?_i=84095137)
+- [看过 流浪地球2‎ (2023)](https://www.douban.com/people/136069238/status/4199558549/?_i=84095137)
+- [读过 数据架构师的PostgreSQL修炼：高效设计、开发与维护数据库应用](https://www.douban.com/people/136069238/status/4199451104/?_i=84095137)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
