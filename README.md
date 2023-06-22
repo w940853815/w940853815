@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 黑暗荣耀 第二季 더 글로리2‎ (2023)](https://www.douban.com/people/136069238/status/4277926500/?_i=87421732)
-- [在看 黑暗荣耀 第二季 더 글로리2‎ (2023)](https://www.douban.com/people/136069238/status/4272241100/?_i=87421732)
-- [看过 黑暗荣耀 더 글로리‎ (2022)](https://www.douban.com/people/136069238/status/4272240930/?_i=87421732)
-- [看过 变形金刚：超能勇士崛起 Transformers: Rise of the Beasts‎ (2023)](https://www.douban.com/people/136069238/status/4267685771/?_i=87421732)
-- [在读 光刻巨人：ASML崛起之路](https://www.douban.com/people/136069238/status/4266569048/?_i=87421732)
-- [读过 山月记](https://www.douban.com/people/136069238/status/4266567455/?_i=87421732)
-- [在读 山月记](https://www.douban.com/people/136069238/status/4256796460/?_i=87421732)
-- [读过 美国增长的起落](https://www.douban.com/people/136069238/status/4256795052/?_i=87421732)
-- [在看 黑暗荣耀 더 글로리‎ (2022)](https://www.douban.com/people/136069238/status/4256207386/?_i=87421732)
-- [看过 康熙王朝‎ (2001)](https://www.douban.com/people/136069238/status/4254396418/?_i=87421732)
+- [看过 黑暗荣耀 第二季 더 글로리2‎ (2023)](https://www.douban.com/people/136069238/status/4277926500/?_i=87428806)
+- [在看 黑暗荣耀 第二季 더 글로리2‎ (2023)](https://www.douban.com/people/136069238/status/4272241100/?_i=87428806)
+- [看过 黑暗荣耀 더 글로리‎ (2022)](https://www.douban.com/people/136069238/status/4272240930/?_i=87428806)
+- [看过 变形金刚：超能勇士崛起 Transformers: Rise of the Beasts‎ (2023)](https://www.douban.com/people/136069238/status/4267685771/?_i=87428806)
+- [在读 光刻巨人：ASML崛起之路](https://www.douban.com/people/136069238/status/4266569048/?_i=87428806)
+- [读过 山月记](https://www.douban.com/people/136069238/status/4266567455/?_i=87428806)
+- [在读 山月记](https://www.douban.com/people/136069238/status/4256796460/?_i=87428806)
+- [读过 美国增长的起落](https://www.douban.com/people/136069238/status/4256795052/?_i=87428806)
+- [在看 黑暗荣耀 더 글로리‎ (2022)](https://www.douban.com/people/136069238/status/4256207386/?_i=87428806)
+- [看过 康熙王朝‎ (2001)](https://www.douban.com/people/136069238/status/4254396418/?_i=87428806)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
