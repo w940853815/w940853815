@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在读 项塔兰](https://www.douban.com/people/136069238/status/4305798688/?_i=90114974)
-- [读过 那些我们没谈过的事](https://www.douban.com/people/136069238/status/4305798150/?_i=90114974)
-- [看过 宇宙探索编辑部‎ (2021)](https://www.douban.com/people/136069238/status/4303985415/?_i=90114974)
-- [看过 消失的她‎ (2022)](https://www.douban.com/people/136069238/status/4303303080/?_i=90114974)
-- [看过 目中无人‎ (2022)](https://www.douban.com/people/136069238/status/4302529146/?_i=90114974)
-- [在读 那些我们没谈过的事](https://www.douban.com/people/136069238/status/4299558707/?_i=90114974)
-- [读过 包法利夫人](https://www.douban.com/people/136069238/status/4299557101/?_i=90114974)
-- [看过 不可饶恕 용서는 없다‎ (2010)](https://www.douban.com/people/136069238/status/4295155066/?_i=90114974)
-- [在读 包法利夫人](https://www.douban.com/people/136069238/status/4284119119/?_i=90114974)
-- [读过 光刻巨人：ASML崛起之路](https://www.douban.com/people/136069238/status/4284118319/?_i=90114974)
+- [看过 魔女2 마녀 Part2. The Other One‎ (2022)](https://www.douban.com/people/136069238/status/4313026399/?_i=90121408)
+- [看过 魔女 마녀‎ (2018)](https://www.douban.com/people/136069238/status/4313025485/?_i=90121408)
+- [在读 项塔兰](https://www.douban.com/people/136069238/status/4305798688/?_i=90121408)
+- [读过 那些我们没谈过的事](https://www.douban.com/people/136069238/status/4305798150/?_i=90121408)
+- [看过 宇宙探索编辑部‎ (2021)](https://www.douban.com/people/136069238/status/4303985415/?_i=90121408)
+- [看过 消失的她‎ (2022)](https://www.douban.com/people/136069238/status/4303303080/?_i=90121408)
+- [看过 目中无人‎ (2022)](https://www.douban.com/people/136069238/status/4302529146/?_i=90121408)
+- [在读 那些我们没谈过的事](https://www.douban.com/people/136069238/status/4299558707/?_i=90121408)
+- [读过 包法利夫人](https://www.douban.com/people/136069238/status/4299557101/?_i=90121408)
+- [看过 不可饶恕 용서는 없다‎ (2010)](https://www.douban.com/people/136069238/status/4295155066/?_i=90121408)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
