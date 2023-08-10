@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在看 种地吧‎ (2023)](https://www.douban.com/people/136069238/status/4331431344/?_i=91662423)
-- [看过 在西伯利亚森林中 Dans les forêts de Sibérie‎ (2016)](https://www.douban.com/people/136069238/status/4330160220/?_i=91662423)
-- [看过 封神第一部：朝歌风云‎ (2023)](https://www.douban.com/people/136069238/status/4320863916/?_i=91662423)
-- [关注 薛兆丰代表作](https://www.douban.com/people/136069238/status/4314924970/?_i=91662423)
-- [看过 魔女2 마녀 Part2. The Other One‎ (2022)](https://www.douban.com/people/136069238/status/4313026399/?_i=91662423)
-- [看过 魔女 마녀‎ (2018)](https://www.douban.com/people/136069238/status/4313025485/?_i=91662423)
-- [在读 项塔兰](https://www.douban.com/people/136069238/status/4305798688/?_i=91662423)
-- [读过 那些我们没谈过的事](https://www.douban.com/people/136069238/status/4305798150/?_i=91662423)
-- [看过 宇宙探索编辑部‎ (2021)](https://www.douban.com/people/136069238/status/4303985415/?_i=91662423)
-- [看过 消失的她‎ (2022)](https://www.douban.com/people/136069238/status/4303303080/?_i=91662423)
+- [在看 种地吧‎ (2023)](https://www.douban.com/people/136069238/status/4331431344/?_i=91670437)
+- [看过 在西伯利亚森林中 Dans les forêts de Sibérie‎ (2016)](https://www.douban.com/people/136069238/status/4330160220/?_i=91670437)
+- [看过 封神第一部：朝歌风云‎ (2023)](https://www.douban.com/people/136069238/status/4320863916/?_i=91670437)
+- [关注 薛兆丰代表作](https://www.douban.com/people/136069238/status/4314924970/?_i=91670437)
+- [看过 魔女2 마녀 Part2. The Other One‎ (2022)](https://www.douban.com/people/136069238/status/4313026399/?_i=91670437)
+- [看过 魔女 마녀‎ (2018)](https://www.douban.com/people/136069238/status/4313025485/?_i=91670437)
+- [在读 项塔兰](https://www.douban.com/people/136069238/status/4305798688/?_i=91670437)
+- [读过 那些我们没谈过的事](https://www.douban.com/people/136069238/status/4305798150/?_i=91670437)
+- [看过 宇宙探索编辑部‎ (2021)](https://www.douban.com/people/136069238/status/4303985415/?_i=91670437)
+- [看过 消失的她‎ (2022)](https://www.douban.com/people/136069238/status/4303303080/?_i=91670437)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
