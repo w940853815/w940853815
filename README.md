@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 老井‎ (1986)](https://www.douban.com/people/136069238/status/4362366672/?_i=93961734)
-- [在看 毛骗 第二季‎ (2011)](https://www.douban.com/people/136069238/status/4355752869/?_i=93961734)
-- [看过 毛骗 第一季‎ (2010)](https://www.douban.com/people/136069238/status/4355752667/?_i=93961734)
-- [看过 孤注一掷‎ (2023)](https://www.douban.com/people/136069238/status/4354774568/?_i=93961734)
-- [在读 新时空：硅碳融合的产业革命](https://www.douban.com/people/136069238/status/4348545149/?_i=93961734)
-- [看过 投奔怒海‎ (1982)](https://www.douban.com/people/136069238/status/4336696255/?_i=93961734)
-- [在看 种地吧‎ (2023)](https://www.douban.com/people/136069238/status/4331431344/?_i=93961734)
-- [看过 在西伯利亚森林中 Dans les forêts de Sibérie‎ (2016)](https://www.douban.com/people/136069238/status/4330160220/?_i=93961734)
-- [看过 封神第一部：朝歌风云‎ (2023)](https://www.douban.com/people/136069238/status/4320863916/?_i=93961734)
-- [关注 薛兆丰代表作](https://www.douban.com/people/136069238/status/4314924970/?_i=93961734)
+- [看过 老井‎ (1986)](https://www.douban.com/people/136069238/status/4362366672/?_i=93966655)
+- [在看 毛骗 第二季‎ (2011)](https://www.douban.com/people/136069238/status/4355752869/?_i=93966655)
+- [看过 毛骗 第一季‎ (2010)](https://www.douban.com/people/136069238/status/4355752667/?_i=93966655)
+- [看过 孤注一掷‎ (2023)](https://www.douban.com/people/136069238/status/4354774568/?_i=93966655)
+- [在读 新时空：硅碳融合的产业革命](https://www.douban.com/people/136069238/status/4348545149/?_i=93966655)
+- [看过 投奔怒海‎ (1982)](https://www.douban.com/people/136069238/status/4336696255/?_i=93966655)
+- [在看 种地吧‎ (2023)](https://www.douban.com/people/136069238/status/4331431344/?_i=93966655)
+- [看过 在西伯利亚森林中 Dans les forêts de Sibérie‎ (2016)](https://www.douban.com/people/136069238/status/4330160220/?_i=93966655)
+- [看过 封神第一部：朝歌风云‎ (2023)](https://www.douban.com/people/136069238/status/4320863916/?_i=93966655)
+- [关注 薛兆丰代表作](https://www.douban.com/people/136069238/status/4314924970/?_i=93966655)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
