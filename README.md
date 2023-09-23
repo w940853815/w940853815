@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在读 告别百年激进](https://www.douban.com/people/136069238/status/4374953075/?_i=95485652)
-- [读过 山茶文具店](https://www.douban.com/people/136069238/status/4374952154/?_i=95485652)
-- [看过 八角笼中‎ (2023)](https://www.douban.com/people/136069238/status/4367541707/?_i=95485652)
-- [在看 项塔兰 Shantaram‎ (2022)](https://www.douban.com/people/136069238/status/4365497032/?_i=95485652)
-- [在读 山茶文具店](https://www.douban.com/people/136069238/status/4364620725/?_i=95485652)
-- [读过 项塔兰](https://www.douban.com/people/136069238/status/4364620288/?_i=95485652)
-- [看过 老井‎ (1986)](https://www.douban.com/people/136069238/status/4362366672/?_i=95485652)
-- [在看 毛骗 第二季‎ (2011)](https://www.douban.com/people/136069238/status/4355752869/?_i=95485652)
-- [看过 毛骗 第一季‎ (2010)](https://www.douban.com/people/136069238/status/4355752667/?_i=95485652)
-- [看过 孤注一掷‎ (2023)](https://www.douban.com/people/136069238/status/4354774568/?_i=95485652)
+- [在读 告别百年激进](https://www.douban.com/people/136069238/status/4374953075/?_i=95492851)
+- [读过 山茶文具店](https://www.douban.com/people/136069238/status/4374952154/?_i=95492851)
+- [看过 八角笼中‎ (2023)](https://www.douban.com/people/136069238/status/4367541707/?_i=95492851)
+- [在看 项塔兰 Shantaram‎ (2022)](https://www.douban.com/people/136069238/status/4365497032/?_i=95492851)
+- [在读 山茶文具店](https://www.douban.com/people/136069238/status/4364620725/?_i=95492851)
+- [读过 项塔兰](https://www.douban.com/people/136069238/status/4364620288/?_i=95492851)
+- [看过 老井‎ (1986)](https://www.douban.com/people/136069238/status/4362366672/?_i=95492851)
+- [在看 毛骗 第二季‎ (2011)](https://www.douban.com/people/136069238/status/4355752869/?_i=95492851)
+- [看过 毛骗 第一季‎ (2010)](https://www.douban.com/people/136069238/status/4355752667/?_i=95492851)
+- [看过 孤注一掷‎ (2023)](https://www.douban.com/people/136069238/status/4354774568/?_i=95492851)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
