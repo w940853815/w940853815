@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 长安三万里‎ (2023)](https://www.douban.com/people/136069238/status/4391215935/?_i=96479271)
-- [看过 项塔兰 Shantaram‎ (2022)](https://www.douban.com/people/136069238/status/4387849946/?_i=96479271)
-- [看过 我爱你！‎ (2023)](https://www.douban.com/people/136069238/status/4385556252/?_i=96479271)
-- [在读 告别百年激进](https://www.douban.com/people/136069238/status/4374953075/?_i=96479271)
-- [读过 山茶文具店](https://www.douban.com/people/136069238/status/4374952154/?_i=96479271)
-- [看过 八角笼中‎ (2023)](https://www.douban.com/people/136069238/status/4367541707/?_i=96479271)
-- [在看 项塔兰 Shantaram‎ (2022)](https://www.douban.com/people/136069238/status/4365497032/?_i=96479271)
-- [在读 山茶文具店](https://www.douban.com/people/136069238/status/4364620725/?_i=96479271)
-- [读过 项塔兰](https://www.douban.com/people/136069238/status/4364620288/?_i=96479271)
-- [看过 老井‎ (1986)](https://www.douban.com/people/136069238/status/4362366672/?_i=96479271)
+- [看过 长安三万里‎ (2023)](https://www.douban.com/people/136069238/status/4391215935/?_i=96486615)
+- [看过 项塔兰 Shantaram‎ (2022)](https://www.douban.com/people/136069238/status/4387849946/?_i=96486615)
+- [看过 我爱你！‎ (2023)](https://www.douban.com/people/136069238/status/4385556252/?_i=96486615)
+- [在读 告别百年激进](https://www.douban.com/people/136069238/status/4374953075/?_i=96486615)
+- [读过 山茶文具店](https://www.douban.com/people/136069238/status/4374952154/?_i=96486615)
+- [看过 八角笼中‎ (2023)](https://www.douban.com/people/136069238/status/4367541707/?_i=96486615)
+- [在看 项塔兰 Shantaram‎ (2022)](https://www.douban.com/people/136069238/status/4365497032/?_i=96486615)
+- [在读 山茶文具店](https://www.douban.com/people/136069238/status/4364620725/?_i=96486615)
+- [读过 项塔兰](https://www.douban.com/people/136069238/status/4364620288/?_i=96486615)
+- [看过 老井‎ (1986)](https://www.douban.com/people/136069238/status/4362366672/?_i=96486615)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
