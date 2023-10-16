@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 听见天堂 Rosso come il cielo‎ (2006)](https://www.douban.com/people/136069238/status/4401902014/?_i=97480227)
-- [看过 长空之王‎ (2023)](https://www.douban.com/people/136069238/status/4397459053/?_i=97480227)
-- [看过 命案‎ (2023)](https://www.douban.com/people/136069238/status/4395718336/?_i=97480227)
-- [看过 命案‎ (2023)](https://www.douban.com/people/136069238/status/4395718257/?_i=97480227)
-- [看过 扫毒3：人在天涯 掃毒3：人在天涯‎ (2023)](https://www.douban.com/people/136069238/status/4394601730/?_i=97480227)
-- [看过 长安三万里‎ (2023)](https://www.douban.com/people/136069238/status/4391215935/?_i=97480227)
-- [看过 项塔兰 Shantaram‎ (2022)](https://www.douban.com/people/136069238/status/4387849946/?_i=97480227)
-- [看过 我爱你！‎ (2023)](https://www.douban.com/people/136069238/status/4385556252/?_i=97480227)
-- [在读 告别百年激进](https://www.douban.com/people/136069238/status/4374953075/?_i=97480227)
-- [读过 山茶文具店](https://www.douban.com/people/136069238/status/4374952154/?_i=97480227)
+- [看过 听见天堂 Rosso come il cielo‎ (2006)](https://www.douban.com/people/136069238/status/4401902014/?_i=97487220)
+- [看过 长空之王‎ (2023)](https://www.douban.com/people/136069238/status/4397459053/?_i=97487220)
+- [看过 命案‎ (2023)](https://www.douban.com/people/136069238/status/4395718336/?_i=97487220)
+- [看过 命案‎ (2023)](https://www.douban.com/people/136069238/status/4395718257/?_i=97487220)
+- [看过 扫毒3：人在天涯 掃毒3：人在天涯‎ (2023)](https://www.douban.com/people/136069238/status/4394601730/?_i=97487220)
+- [看过 长安三万里‎ (2023)](https://www.douban.com/people/136069238/status/4391215935/?_i=97487220)
+- [看过 项塔兰 Shantaram‎ (2022)](https://www.douban.com/people/136069238/status/4387849946/?_i=97487220)
+- [看过 我爱你！‎ (2023)](https://www.douban.com/people/136069238/status/4385556252/?_i=97487220)
+- [在读 告别百年激进](https://www.douban.com/people/136069238/status/4374953075/?_i=97487220)
+- [读过 山茶文具店](https://www.douban.com/people/136069238/status/4374952154/?_i=97487220)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
