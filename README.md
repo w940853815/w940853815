@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [读过 告别百年激进](https://www.douban.com/people/136069238/status/4406414036/?_i=97688891)
-- [在读 纳粹医生](https://www.douban.com/people/136069238/status/4406413750/?_i=97688891)
-- [看过 听见天堂 Rosso come il cielo‎ (2006)](https://www.douban.com/people/136069238/status/4401902014/?_i=97688891)
-- [看过 长空之王‎ (2023)](https://www.douban.com/people/136069238/status/4397459053/?_i=97688891)
-- [看过 命案‎ (2023)](https://www.douban.com/people/136069238/status/4395718336/?_i=97688891)
-- [看过 命案‎ (2023)](https://www.douban.com/people/136069238/status/4395718257/?_i=97688891)
-- [看过 扫毒3：人在天涯 掃毒3：人在天涯‎ (2023)](https://www.douban.com/people/136069238/status/4394601730/?_i=97688891)
-- [看过 长安三万里‎ (2023)](https://www.douban.com/people/136069238/status/4391215935/?_i=97688891)
-- [看过 项塔兰 Shantaram‎ (2022)](https://www.douban.com/people/136069238/status/4387849946/?_i=97688891)
-- [看过 我爱你！‎ (2023)](https://www.douban.com/people/136069238/status/4385556252/?_i=97688891)
+- [读过 告别百年激进](https://www.douban.com/people/136069238/status/4406414036/?_i=97696232)
+- [在读 纳粹医生](https://www.douban.com/people/136069238/status/4406413750/?_i=97696232)
+- [看过 听见天堂 Rosso come il cielo‎ (2006)](https://www.douban.com/people/136069238/status/4401902014/?_i=97696232)
+- [看过 长空之王‎ (2023)](https://www.douban.com/people/136069238/status/4397459053/?_i=97696232)
+- [看过 命案‎ (2023)](https://www.douban.com/people/136069238/status/4395718336/?_i=97696232)
+- [看过 命案‎ (2023)](https://www.douban.com/people/136069238/status/4395718257/?_i=97696232)
+- [看过 扫毒3：人在天涯 掃毒3：人在天涯‎ (2023)](https://www.douban.com/people/136069238/status/4394601730/?_i=97696232)
+- [看过 长安三万里‎ (2023)](https://www.douban.com/people/136069238/status/4391215935/?_i=97696232)
+- [看过 项塔兰 Shantaram‎ (2022)](https://www.douban.com/people/136069238/status/4387849946/?_i=97696232)
+- [看过 我爱你！‎ (2023)](https://www.douban.com/people/136069238/status/4385556252/?_i=97696232)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
