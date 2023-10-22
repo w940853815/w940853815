@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 神迹 Something the Lord Made‎ (2004)](https://www.douban.com/people/136069238/status/4409691983/?_i=97941316)
-- [读过 告别百年激进](https://www.douban.com/people/136069238/status/4406414036/?_i=97941316)
-- [在读 纳粹医生](https://www.douban.com/people/136069238/status/4406413750/?_i=97941316)
-- [看过 听见天堂 Rosso come il cielo‎ (2006)](https://www.douban.com/people/136069238/status/4401902014/?_i=97941316)
-- [看过 长空之王‎ (2023)](https://www.douban.com/people/136069238/status/4397459053/?_i=97941316)
-- [看过 命案‎ (2023)](https://www.douban.com/people/136069238/status/4395718336/?_i=97941316)
-- [看过 命案‎ (2023)](https://www.douban.com/people/136069238/status/4395718257/?_i=97941316)
-- [看过 扫毒3：人在天涯 掃毒3：人在天涯‎ (2023)](https://www.douban.com/people/136069238/status/4394601730/?_i=97941316)
-- [看过 长安三万里‎ (2023)](https://www.douban.com/people/136069238/status/4391215935/?_i=97941316)
-- [看过 项塔兰 Shantaram‎ (2022)](https://www.douban.com/people/136069238/status/4387849946/?_i=97941316)
+- [看过 神迹 Something the Lord Made‎ (2004)](https://www.douban.com/people/136069238/status/4409691983/?_i=97948053)
+- [读过 告别百年激进](https://www.douban.com/people/136069238/status/4406414036/?_i=97948053)
+- [在读 纳粹医生](https://www.douban.com/people/136069238/status/4406413750/?_i=97948053)
+- [看过 听见天堂 Rosso come il cielo‎ (2006)](https://www.douban.com/people/136069238/status/4401902014/?_i=97948053)
+- [看过 长空之王‎ (2023)](https://www.douban.com/people/136069238/status/4397459053/?_i=97948053)
+- [看过 命案‎ (2023)](https://www.douban.com/people/136069238/status/4395718336/?_i=97948053)
+- [看过 命案‎ (2023)](https://www.douban.com/people/136069238/status/4395718257/?_i=97948053)
+- [看过 扫毒3：人在天涯 掃毒3：人在天涯‎ (2023)](https://www.douban.com/people/136069238/status/4394601730/?_i=97948053)
+- [看过 长安三万里‎ (2023)](https://www.douban.com/people/136069238/status/4391215935/?_i=97948053)
+- [看过 项塔兰 Shantaram‎ (2022)](https://www.douban.com/people/136069238/status/4387849946/?_i=97948053)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
