@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 无处逢生 Nowhere‎ (2023)](https://www.douban.com/people/136069238/status/4416454713/?_i=98682591)
-- [在读 软件业的成功奥秘](https://www.douban.com/people/136069238/status/4414815312/?_i=98682591)
-- [看过 神迹 Something the Lord Made‎ (2004)](https://www.douban.com/people/136069238/status/4409691983/?_i=98682591)
-- [读过 告别百年激进](https://www.douban.com/people/136069238/status/4406414036/?_i=98682591)
-- [在读 纳粹医生](https://www.douban.com/people/136069238/status/4406413750/?_i=98682592)
-- [看过 听见天堂 Rosso come il cielo‎ (2006)](https://www.douban.com/people/136069238/status/4401902014/?_i=98682592)
-- [看过 长空之王‎ (2023)](https://www.douban.com/people/136069238/status/4397459053/?_i=98682592)
-- [看过 命案‎ (2023)](https://www.douban.com/people/136069238/status/4395718336/?_i=98682592)
-- [看过 命案‎ (2023)](https://www.douban.com/people/136069238/status/4395718257/?_i=98682592)
-- [看过 扫毒3：人在天涯 掃毒3：人在天涯‎ (2023)](https://www.douban.com/people/136069238/status/4394601730/?_i=98682592)
+- [看过 无处逢生 Nowhere‎ (2023)](https://www.douban.com/people/136069238/status/4416454713/?_i=98689779)
+- [在读 软件业的成功奥秘](https://www.douban.com/people/136069238/status/4414815312/?_i=98689779)
+- [看过 神迹 Something the Lord Made‎ (2004)](https://www.douban.com/people/136069238/status/4409691983/?_i=98689779)
+- [读过 告别百年激进](https://www.douban.com/people/136069238/status/4406414036/?_i=98689779)
+- [在读 纳粹医生](https://www.douban.com/people/136069238/status/4406413750/?_i=98689779)
+- [看过 听见天堂 Rosso come il cielo‎ (2006)](https://www.douban.com/people/136069238/status/4401902014/?_i=98689779)
+- [看过 长空之王‎ (2023)](https://www.douban.com/people/136069238/status/4397459053/?_i=98689779)
+- [看过 命案‎ (2023)](https://www.douban.com/people/136069238/status/4395718336/?_i=98689779)
+- [看过 命案‎ (2023)](https://www.douban.com/people/136069238/status/4395718257/?_i=98689779)
+- [看过 扫毒3：人在天涯 掃毒3：人在天涯‎ (2023)](https://www.douban.com/people/136069238/status/4394601730/?_i=98689779)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
