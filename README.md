@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 日本之耻 Japan's Secret Shame‎ (2018)](https://www.douban.com/people/136069238/status/4431579101/?_i=00086324)
-- [在看 三国‎ (2010)](https://www.douban.com/people/136069238/status/4430559482/?_i=00086324)
-- [在读 金字塔原理](https://www.douban.com/people/136069238/status/4424812753/?_i=00086324)
-- [读过 软件业的成功奥秘](https://www.douban.com/people/136069238/status/4424809958/?_i=00086324)
-- [看过 蝙蝠 박쥐‎ (2009)](https://www.douban.com/people/136069238/status/4422787315/?_i=00086324)
-- [看过 无处逢生 Nowhere‎ (2023)](https://www.douban.com/people/136069238/status/4416454713/?_i=00086324)
-- [在读 软件业的成功奥秘](https://www.douban.com/people/136069238/status/4414815312/?_i=00086324)
-- [看过 神迹 Something the Lord Made‎ (2004)](https://www.douban.com/people/136069238/status/4409691983/?_i=00086324)
-- [读过 告别百年激进](https://www.douban.com/people/136069238/status/4406414036/?_i=00086324)
-- [在读 纳粹医生](https://www.douban.com/people/136069238/status/4406413750/?_i=00086324)
+- [看过 日本之耻 Japan's Secret Shame‎ (2018)](https://www.douban.com/people/136069238/status/4431579101/?_i=00096413)
+- [在看 三国‎ (2010)](https://www.douban.com/people/136069238/status/4430559482/?_i=00096413)
+- [在读 金字塔原理](https://www.douban.com/people/136069238/status/4424812753/?_i=00096413)
+- [读过 软件业的成功奥秘](https://www.douban.com/people/136069238/status/4424809958/?_i=00096413)
+- [看过 蝙蝠 박쥐‎ (2009)](https://www.douban.com/people/136069238/status/4422787315/?_i=00096413)
+- [看过 无处逢生 Nowhere‎ (2023)](https://www.douban.com/people/136069238/status/4416454713/?_i=00096413)
+- [在读 软件业的成功奥秘](https://www.douban.com/people/136069238/status/4414815312/?_i=00096413)
+- [看过 神迹 Something the Lord Made‎ (2004)](https://www.douban.com/people/136069238/status/4409691983/?_i=00096413)
+- [读过 告别百年激进](https://www.douban.com/people/136069238/status/4406414036/?_i=00096413)
+- [在读 纳粹医生](https://www.douban.com/people/136069238/status/4406413750/?_i=00096413)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
