@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 前任4：英年早婚‎ (2023)](https://www.douban.com/people/136069238/status/4458320768/?_i=02311476)
-- [看过 奥本海默 Oppenheimer‎ (2023)](https://www.douban.com/people/136069238/status/4454740976/?_i=02311476)
-- [看过 涉过愤怒的海‎ (2023)](https://www.douban.com/people/136069238/status/4449502811/?_i=02311476)
-- [在读 小巷人家](https://www.douban.com/people/136069238/status/4445749134/?_i=02311476)
-- [读过 纳粹医生](https://www.douban.com/people/136069238/status/4445748598/?_i=02311476)
-- [看过 母亲 마더‎ (2009)](https://www.douban.com/people/136069238/status/4442102172/?_i=02311476)
-- [看过 日本之耻 Japan's Secret Shame‎ (2018)](https://www.douban.com/people/136069238/status/4431579101/?_i=02311476)
-- [在看 三国‎ (2010)](https://www.douban.com/people/136069238/status/4430559482/?_i=02311476)
-- [在读 金字塔原理](https://www.douban.com/people/136069238/status/4424812753/?_i=02311476)
-- [读过 软件业的成功奥秘](https://www.douban.com/people/136069238/status/4424809958/?_i=02311476)
+- [看过 前任4：英年早婚‎ (2023)](https://www.douban.com/people/136069238/status/4458320768/?_i=02318608)
+- [看过 奥本海默 Oppenheimer‎ (2023)](https://www.douban.com/people/136069238/status/4454740976/?_i=02318608)
+- [看过 涉过愤怒的海‎ (2023)](https://www.douban.com/people/136069238/status/4449502811/?_i=02318608)
+- [在读 小巷人家](https://www.douban.com/people/136069238/status/4445749134/?_i=02318608)
+- [读过 纳粹医生](https://www.douban.com/people/136069238/status/4445748598/?_i=02318608)
+- [看过 母亲 마더‎ (2009)](https://www.douban.com/people/136069238/status/4442102172/?_i=02318608)
+- [看过 日本之耻 Japan's Secret Shame‎ (2018)](https://www.douban.com/people/136069238/status/4431579101/?_i=02318608)
+- [在看 三国‎ (2010)](https://www.douban.com/people/136069238/status/4430559482/?_i=02318608)
+- [在读 金字塔原理](https://www.douban.com/people/136069238/status/4424812753/?_i=02318608)
+- [读过 软件业的成功奥秘](https://www.douban.com/people/136069238/status/4424809958/?_i=02318608)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
