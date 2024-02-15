@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 二手杰作‎ (2023)](https://www.douban.com/people/136069238/status/4522502716/?_i=08027892)
-- [在看 好久没做 LTNS‎ (2024)](https://www.douban.com/people/136069238/status/4521969883/?_i=08027892)
-- [看过 三国‎ (2010)](https://www.douban.com/people/136069238/status/4521634661/?_i=08027892)
-- [看过 三大队‎ (2023)](https://www.douban.com/people/136069238/status/4510323325/?_i=08027892)
-- [在读 金字塔原理](https://www.douban.com/people/136069238/status/4507497587/?_i=08027892)
-- [读过 新时空：硅碳融合的产业革命](https://www.douban.com/people/136069238/status/4506659177/?_i=08027892)
-- [在读 埃隆·马斯克传](https://www.douban.com/people/136069238/status/4500417190/?_i=08027892)
-- [读过 我曾走在崩溃的边缘](https://www.douban.com/people/136069238/status/4500416754/?_i=08027892)
-- [看过 不虚此行‎ (2023)](https://www.douban.com/people/136069238/status/4499973052/?_i=08027892)
-- [看过 年会不能停！‎ (2023)](https://www.douban.com/people/136069238/status/4498582002/?_i=08027892)
+- [看过 二手杰作‎ (2023)](https://www.douban.com/people/136069238/status/4522502716/?_i=08035079)
+- [在看 好久没做 LTNS‎ (2024)](https://www.douban.com/people/136069238/status/4521969883/?_i=08035079)
+- [看过 三国‎ (2010)](https://www.douban.com/people/136069238/status/4521634661/?_i=08035079)
+- [看过 三大队‎ (2023)](https://www.douban.com/people/136069238/status/4510323325/?_i=08035079)
+- [在读 金字塔原理](https://www.douban.com/people/136069238/status/4507497587/?_i=08035079)
+- [读过 新时空：硅碳融合的产业革命](https://www.douban.com/people/136069238/status/4506659177/?_i=08035079)
+- [在读 埃隆·马斯克传](https://www.douban.com/people/136069238/status/4500417190/?_i=08035079)
+- [读过 我曾走在崩溃的边缘](https://www.douban.com/people/136069238/status/4500416754/?_i=08035079)
+- [看过 不虚此行‎ (2023)](https://www.douban.com/people/136069238/status/4499973052/?_i=08035079)
+- [看过 年会不能停！‎ (2023)](https://www.douban.com/people/136069238/status/4498582002/?_i=08035079)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
