@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 易中天品三国‎ (2006)](https://www.douban.com/people/136069238/status/4529910812/?_i=08625757)
-- [在看 超异能族 무빙‎ (2023)](https://www.douban.com/people/136069238/status/4527291077/?_i=08625757)
-- [看过 种地吧‎ (2023)](https://www.douban.com/people/136069238/status/4527289637/?_i=08625757)
-- [看过 好久没做 LTNS‎ (2024)](https://www.douban.com/people/136069238/status/4527289515/?_i=08625757)
-- [看过 二手杰作‎ (2023)](https://www.douban.com/people/136069238/status/4522502716/?_i=08625757)
-- [在看 好久没做 LTNS‎ (2024)](https://www.douban.com/people/136069238/status/4521969883/?_i=08625757)
-- [看过 三国‎ (2010)](https://www.douban.com/people/136069238/status/4521634661/?_i=08625757)
-- [看过 三大队‎ (2023)](https://www.douban.com/people/136069238/status/4510323325/?_i=08625757)
-- [在读 金字塔原理](https://www.douban.com/people/136069238/status/4507497587/?_i=08625757)
-- [读过 新时空：硅碳融合的产业革命](https://www.douban.com/people/136069238/status/4506659177/?_i=08625757)
+- [看过 易中天品三国‎ (2006)](https://www.douban.com/people/136069238/status/4529910812/?_i=08632750)
+- [在看 超异能族 무빙‎ (2023)](https://www.douban.com/people/136069238/status/4527291077/?_i=08632750)
+- [看过 种地吧‎ (2023)](https://www.douban.com/people/136069238/status/4527289637/?_i=08632750)
+- [看过 好久没做 LTNS‎ (2024)](https://www.douban.com/people/136069238/status/4527289515/?_i=08632750)
+- [看过 二手杰作‎ (2023)](https://www.douban.com/people/136069238/status/4522502716/?_i=08632750)
+- [在看 好久没做 LTNS‎ (2024)](https://www.douban.com/people/136069238/status/4521969883/?_i=08632750)
+- [看过 三国‎ (2010)](https://www.douban.com/people/136069238/status/4521634661/?_i=08632750)
+- [看过 三大队‎ (2023)](https://www.douban.com/people/136069238/status/4510323325/?_i=08632750)
+- [在读 金字塔原理](https://www.douban.com/people/136069238/status/4507497587/?_i=08632750)
+- [读过 新时空：硅碳融合的产业革命](https://www.douban.com/people/136069238/status/4506659177/?_i=08632750)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
