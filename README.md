@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 超异能族 무빙‎ (2023)](https://www.douban.com/people/136069238/status/4556824186/?_i=10951423)
-- [在读 不拘一格](https://www.douban.com/people/136069238/status/4541712161/?_i=10951423)
-- [在读 刀尖（最新修订珍藏版）](https://www.douban.com/people/136069238/status/4541711339/?_i=10951423)
-- [读过 埃隆·马斯克传](https://www.douban.com/people/136069238/status/4541710351/?_i=10951423)
-- [在读 Ansible权威指南](https://www.douban.com/people/136069238/status/4539151450/?_i=10951423)
-- [看过 易中天品三国‎ (2006)](https://www.douban.com/people/136069238/status/4529910812/?_i=10951423)
-- [在看 超异能族 무빙‎ (2023)](https://www.douban.com/people/136069238/status/4527291077/?_i=10951423)
-- [看过 种地吧‎ (2023)](https://www.douban.com/people/136069238/status/4527289637/?_i=10951423)
-- [看过 好久没做 LTNS‎ (2024)](https://www.douban.com/people/136069238/status/4527289515/?_i=10951423)
-- [看过 二手杰作‎ (2023)](https://www.douban.com/people/136069238/status/4522502716/?_i=10951423)
+- [看过 超异能族 무빙‎ (2023)](https://www.douban.com/people/136069238/status/4556824186/?_i=10958529)
+- [在读 不拘一格](https://www.douban.com/people/136069238/status/4541712161/?_i=10958529)
+- [在读 刀尖（最新修订珍藏版）](https://www.douban.com/people/136069238/status/4541711339/?_i=10958529)
+- [读过 埃隆·马斯克传](https://www.douban.com/people/136069238/status/4541710351/?_i=10958529)
+- [在读 Ansible权威指南](https://www.douban.com/people/136069238/status/4539151450/?_i=10958529)
+- [看过 易中天品三国‎ (2006)](https://www.douban.com/people/136069238/status/4529910812/?_i=10958529)
+- [在看 超异能族 무빙‎ (2023)](https://www.douban.com/people/136069238/status/4527291077/?_i=10958529)
+- [看过 种地吧‎ (2023)](https://www.douban.com/people/136069238/status/4527289637/?_i=10958529)
+- [看过 好久没做 LTNS‎ (2024)](https://www.douban.com/people/136069238/status/4527289515/?_i=10958529)
+- [看过 二手杰作‎ (2023)](https://www.douban.com/people/136069238/status/4522502716/?_i=10958529)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
