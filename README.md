@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在读 谈美](https://www.douban.com/people/136069238/status/4560861771/?_i=11383405)
-- [读过 不拘一格](https://www.douban.com/people/136069238/status/4560861445/?_i=11383405)
-- [在看 三体‎ (2023)](https://www.douban.com/people/136069238/status/4558185093/?_i=11383405)
-- [看过 超异能族 무빙‎ (2023)](https://www.douban.com/people/136069238/status/4556824186/?_i=11383405)
-- [在读 不拘一格](https://www.douban.com/people/136069238/status/4541712161/?_i=11383405)
-- [在读 刀尖（最新修订珍藏版）](https://www.douban.com/people/136069238/status/4541711339/?_i=11383405)
-- [读过 埃隆·马斯克传](https://www.douban.com/people/136069238/status/4541710351/?_i=11383405)
-- [在读 Ansible权威指南](https://www.douban.com/people/136069238/status/4539151450/?_i=11383405)
-- [看过 易中天品三国‎ (2006)](https://www.douban.com/people/136069238/status/4529910812/?_i=11383405)
-- [在看 超异能族 무빙‎ (2023)](https://www.douban.com/people/136069238/status/4527291077/?_i=11383405)
+- [在读 谈美](https://www.douban.com/people/136069238/status/4560861771/?_i=11390607)
+- [读过 不拘一格](https://www.douban.com/people/136069238/status/4560861445/?_i=11390607)
+- [在看 三体‎ (2023)](https://www.douban.com/people/136069238/status/4558185093/?_i=11390607)
+- [看过 超异能族 무빙‎ (2023)](https://www.douban.com/people/136069238/status/4556824186/?_i=11390607)
+- [在读 不拘一格](https://www.douban.com/people/136069238/status/4541712161/?_i=11390607)
+- [在读 刀尖（最新修订珍藏版）](https://www.douban.com/people/136069238/status/4541711339/?_i=11390607)
+- [读过 埃隆·马斯克传](https://www.douban.com/people/136069238/status/4541710351/?_i=11390607)
+- [在读 Ansible权威指南](https://www.douban.com/people/136069238/status/4539151450/?_i=11390607)
+- [看过 易中天品三国‎ (2006)](https://www.douban.com/people/136069238/status/4529910812/?_i=11390607)
+- [在看 超异能族 무빙‎ (2023)](https://www.douban.com/people/136069238/status/4527291077/?_i=11390607)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
