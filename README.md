@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在读 小米创业思考](https://www.douban.com/people/136069238/status/4572047905/?_i=12492491)
-- [读过 谈美](https://www.douban.com/people/136069238/status/4572047629/?_i=12492491)
-- [在读 谈美](https://www.douban.com/people/136069238/status/4560861771/?_i=12492491)
-- [读过 不拘一格](https://www.douban.com/people/136069238/status/4560861445/?_i=12492491)
-- [在看 三体‎ (2023)](https://www.douban.com/people/136069238/status/4558185093/?_i=12492491)
-- [看过 超异能族 무빙‎ (2023)](https://www.douban.com/people/136069238/status/4556824186/?_i=12492491)
-- [在读 不拘一格](https://www.douban.com/people/136069238/status/4541712161/?_i=12492491)
-- [在读 刀尖（最新修订珍藏版）](https://www.douban.com/people/136069238/status/4541711339/?_i=12492491)
-- [读过 埃隆·马斯克传](https://www.douban.com/people/136069238/status/4541710351/?_i=12492491)
-- [在读 Ansible权威指南](https://www.douban.com/people/136069238/status/4539151450/?_i=12492491)
+- [在读 小米创业思考](https://www.douban.com/people/136069238/status/4572047905/?_i=12499095)
+- [读过 谈美](https://www.douban.com/people/136069238/status/4572047629/?_i=12499095)
+- [在读 谈美](https://www.douban.com/people/136069238/status/4560861771/?_i=12499095)
+- [读过 不拘一格](https://www.douban.com/people/136069238/status/4560861445/?_i=12499095)
+- [在看 三体‎ (2023)](https://www.douban.com/people/136069238/status/4558185093/?_i=12499095)
+- [看过 超异能族 무빙‎ (2023)](https://www.douban.com/people/136069238/status/4556824186/?_i=12499095)
+- [在读 不拘一格](https://www.douban.com/people/136069238/status/4541712161/?_i=12499095)
+- [在读 刀尖（最新修订珍藏版）](https://www.douban.com/people/136069238/status/4541711339/?_i=12499095)
+- [读过 埃隆·马斯克传](https://www.douban.com/people/136069238/status/4541710351/?_i=12499095)
+- [在读 Ansible权威指南](https://www.douban.com/people/136069238/status/4539151450/?_i=12499095)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
