@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在看 新生‎ (2024)](https://www.douban.com/people/136069238/status/4607441062/?_i=15999146)
-- [在读 一往无前](https://www.douban.com/people/136069238/status/4590507310/?_i=15999146)
-- [读过 小米创业思考](https://www.douban.com/people/136069238/status/4590506983/?_i=15999146)
-- [在看 毛骗 终结篇‎ (2015)](https://www.douban.com/people/136069238/status/4581971924/?_i=15999146)
-- [看过 毛骗 第二季‎ (2011)](https://www.douban.com/people/136069238/status/4581971810/?_i=15999146)
-- [看过 周处除三害 周處除三害‎ (2023)](https://www.douban.com/people/136069238/status/4575646701/?_i=15999146)
-- [看过 三体‎ (2023)](https://www.douban.com/people/136069238/status/4574263039/?_i=15999146)
-- [在读 小米创业思考](https://www.douban.com/people/136069238/status/4572047905/?_i=15999146)
-- [读过 谈美](https://www.douban.com/people/136069238/status/4572047629/?_i=15999146)
-- [在读 谈美](https://www.douban.com/people/136069238/status/4560861771/?_i=15999146)
+- [在看 新生‎ (2024)](https://www.douban.com/people/136069238/status/4607441062/?_i=16005731)
+- [在读 一往无前](https://www.douban.com/people/136069238/status/4590507310/?_i=16005731)
+- [读过 小米创业思考](https://www.douban.com/people/136069238/status/4590506983/?_i=16005731)
+- [在看 毛骗 终结篇‎ (2015)](https://www.douban.com/people/136069238/status/4581971924/?_i=16005731)
+- [看过 毛骗 第二季‎ (2011)](https://www.douban.com/people/136069238/status/4581971810/?_i=16005731)
+- [看过 周处除三害 周處除三害‎ (2023)](https://www.douban.com/people/136069238/status/4575646701/?_i=16005731)
+- [看过 三体‎ (2023)](https://www.douban.com/people/136069238/status/4574263039/?_i=16005731)
+- [在读 小米创业思考](https://www.douban.com/people/136069238/status/4572047905/?_i=16005731)
+- [读过 谈美](https://www.douban.com/people/136069238/status/4572047629/?_i=16005731)
+- [在读 谈美](https://www.douban.com/people/136069238/status/4560861771/?_i=16005731)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
