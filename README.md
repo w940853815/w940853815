@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 飞驰人生2‎ (2024)](https://www.douban.com/people/136069238/status/4616048805/?_i=16394712)
-- [看过 新生‎ (2024)](https://www.douban.com/people/136069238/status/4612373431/?_i=16394712)
-- [在看 新生‎ (2024)](https://www.douban.com/people/136069238/status/4607441062/?_i=16394712)
-- [在读 一往无前](https://www.douban.com/people/136069238/status/4590507310/?_i=16394712)
-- [读过 小米创业思考](https://www.douban.com/people/136069238/status/4590506983/?_i=16394712)
-- [在看 毛骗 终结篇‎ (2015)](https://www.douban.com/people/136069238/status/4581971924/?_i=16394712)
-- [看过 毛骗 第二季‎ (2011)](https://www.douban.com/people/136069238/status/4581971810/?_i=16394712)
-- [看过 周处除三害 周處除三害‎ (2023)](https://www.douban.com/people/136069238/status/4575646701/?_i=16394712)
-- [看过 三体‎ (2023)](https://www.douban.com/people/136069238/status/4574263039/?_i=16394712)
-- [在读 小米创业思考](https://www.douban.com/people/136069238/status/4572047905/?_i=16394713)
+- [看过 飞驰人生2‎ (2024)](https://www.douban.com/people/136069238/status/4616048805/?_i=16401885)
+- [看过 新生‎ (2024)](https://www.douban.com/people/136069238/status/4612373431/?_i=16401885)
+- [在看 新生‎ (2024)](https://www.douban.com/people/136069238/status/4607441062/?_i=16401885)
+- [在读 一往无前](https://www.douban.com/people/136069238/status/4590507310/?_i=16401885)
+- [读过 小米创业思考](https://www.douban.com/people/136069238/status/4590506983/?_i=16401885)
+- [在看 毛骗 终结篇‎ (2015)](https://www.douban.com/people/136069238/status/4581971924/?_i=16401885)
+- [看过 毛骗 第二季‎ (2011)](https://www.douban.com/people/136069238/status/4581971810/?_i=16401885)
+- [看过 周处除三害 周處除三害‎ (2023)](https://www.douban.com/people/136069238/status/4575646701/?_i=16401885)
+- [看过 三体‎ (2023)](https://www.douban.com/people/136069238/status/4574263039/?_i=16401885)
+- [在读 小米创业思考](https://www.douban.com/people/136069238/status/4572047905/?_i=16401885)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
