@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 第8个秀 The 8 Show‎ (2024)](https://www.douban.com/people/136069238/status/4622960077/?_i=17481959)
-- [在读 黑书](https://www.douban.com/people/136069238/status/4621189759/?_i=17481959)
-- [在看 第8个秀 The 8 Show‎ (2024)](https://www.douban.com/people/136069238/status/4619801154/?_i=17481959)
-- [看过 第二十条‎ (2024)](https://www.douban.com/people/136069238/status/4618624208/?_i=17481959)
-- [看过 飞驰人生2‎ (2024)](https://www.douban.com/people/136069238/status/4616048805/?_i=17481959)
-- [看过 新生‎ (2024)](https://www.douban.com/people/136069238/status/4612373431/?_i=17481959)
-- [在看 新生‎ (2024)](https://www.douban.com/people/136069238/status/4607441062/?_i=17481959)
-- [在读 一往无前](https://www.douban.com/people/136069238/status/4590507310/?_i=17481959)
-- [读过 小米创业思考](https://www.douban.com/people/136069238/status/4590506983/?_i=17481959)
-- [在看 毛骗 终结篇‎ (2015)](https://www.douban.com/people/136069238/status/4581971924/?_i=17481959)
+- [看过 第8个秀 The 8 Show‎ (2024)](https://www.douban.com/people/136069238/status/4622960077/?_i=17489064)
+- [在读 黑书](https://www.douban.com/people/136069238/status/4621189759/?_i=17489064)
+- [在看 第8个秀 The 8 Show‎ (2024)](https://www.douban.com/people/136069238/status/4619801154/?_i=17489064)
+- [看过 第二十条‎ (2024)](https://www.douban.com/people/136069238/status/4618624208/?_i=17489064)
+- [看过 飞驰人生2‎ (2024)](https://www.douban.com/people/136069238/status/4616048805/?_i=17489064)
+- [看过 新生‎ (2024)](https://www.douban.com/people/136069238/status/4612373431/?_i=17489064)
+- [在看 新生‎ (2024)](https://www.douban.com/people/136069238/status/4607441062/?_i=17489064)
+- [在读 一往无前](https://www.douban.com/people/136069238/status/4590507310/?_i=17489064)
+- [读过 小米创业思考](https://www.douban.com/people/136069238/status/4590506983/?_i=17489064)
+- [在看 毛骗 终结篇‎ (2015)](https://www.douban.com/people/136069238/status/4581971924/?_i=17489064)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
