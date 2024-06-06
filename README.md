@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 我们一起摇太阳‎ (2024)](https://www.douban.com/people/136069238/status/4627425663/?_i=17661872)
-- [看过 第8个秀 The 8 Show‎ (2024)](https://www.douban.com/people/136069238/status/4622960077/?_i=17661872)
-- [在读 黑书](https://www.douban.com/people/136069238/status/4621189759/?_i=17661872)
-- [在看 第8个秀 The 8 Show‎ (2024)](https://www.douban.com/people/136069238/status/4619801154/?_i=17661872)
-- [看过 第二十条‎ (2024)](https://www.douban.com/people/136069238/status/4618624208/?_i=17661872)
-- [看过 飞驰人生2‎ (2024)](https://www.douban.com/people/136069238/status/4616048805/?_i=17661872)
-- [看过 新生‎ (2024)](https://www.douban.com/people/136069238/status/4612373431/?_i=17661872)
-- [在看 新生‎ (2024)](https://www.douban.com/people/136069238/status/4607441062/?_i=17661872)
-- [在读 一往无前](https://www.douban.com/people/136069238/status/4590507310/?_i=17661872)
-- [读过 小米创业思考](https://www.douban.com/people/136069238/status/4590506983/?_i=17661872)
+- [看过 我们一起摇太阳‎ (2024)](https://www.douban.com/people/136069238/status/4627425663/?_i=17668878)
+- [看过 第8个秀 The 8 Show‎ (2024)](https://www.douban.com/people/136069238/status/4622960077/?_i=17668878)
+- [在读 黑书](https://www.douban.com/people/136069238/status/4621189759/?_i=17668878)
+- [在看 第8个秀 The 8 Show‎ (2024)](https://www.douban.com/people/136069238/status/4619801154/?_i=17668878)
+- [看过 第二十条‎ (2024)](https://www.douban.com/people/136069238/status/4618624208/?_i=17668878)
+- [看过 飞驰人生2‎ (2024)](https://www.douban.com/people/136069238/status/4616048805/?_i=17668878)
+- [看过 新生‎ (2024)](https://www.douban.com/people/136069238/status/4612373431/?_i=17668878)
+- [在看 新生‎ (2024)](https://www.douban.com/people/136069238/status/4607441062/?_i=17668878)
+- [在读 一往无前](https://www.douban.com/people/136069238/status/4590507310/?_i=17668878)
+- [读过 小米创业思考](https://www.douban.com/people/136069238/status/4590506983/?_i=17668879)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
