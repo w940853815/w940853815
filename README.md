@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在看 幕府将军 第一季 Shōgun Season 1‎ (2024)](https://www.douban.com/people/136069238/status/4628143207/?_i=17741220)
-- [看过 我们一起摇太阳‎ (2024)](https://www.douban.com/people/136069238/status/4627425663/?_i=17741220)
-- [看过 第8个秀 The 8 Show‎ (2024)](https://www.douban.com/people/136069238/status/4622960077/?_i=17741220)
-- [在读 黑书](https://www.douban.com/people/136069238/status/4621189759/?_i=17741220)
-- [在看 第8个秀 The 8 Show‎ (2024)](https://www.douban.com/people/136069238/status/4619801154/?_i=17741220)
-- [看过 第二十条‎ (2024)](https://www.douban.com/people/136069238/status/4618624208/?_i=17741220)
-- [看过 飞驰人生2‎ (2024)](https://www.douban.com/people/136069238/status/4616048805/?_i=17741220)
-- [看过 新生‎ (2024)](https://www.douban.com/people/136069238/status/4612373431/?_i=17741220)
-- [在看 新生‎ (2024)](https://www.douban.com/people/136069238/status/4607441062/?_i=17741220)
-- [在读 一往无前](https://www.douban.com/people/136069238/status/4590507310/?_i=17741220)
+- [在看 幕府将军 第一季 Shōgun Season 1‎ (2024)](https://www.douban.com/people/136069238/status/4628143207/?_i=17748276)
+- [看过 我们一起摇太阳‎ (2024)](https://www.douban.com/people/136069238/status/4627425663/?_i=17748276)
+- [看过 第8个秀 The 8 Show‎ (2024)](https://www.douban.com/people/136069238/status/4622960077/?_i=17748276)
+- [在读 黑书](https://www.douban.com/people/136069238/status/4621189759/?_i=17748276)
+- [在看 第8个秀 The 8 Show‎ (2024)](https://www.douban.com/people/136069238/status/4619801154/?_i=17748276)
+- [看过 第二十条‎ (2024)](https://www.douban.com/people/136069238/status/4618624208/?_i=17748276)
+- [看过 飞驰人生2‎ (2024)](https://www.douban.com/people/136069238/status/4616048805/?_i=17748276)
+- [看过 新生‎ (2024)](https://www.douban.com/people/136069238/status/4612373431/?_i=17748276)
+- [在看 新生‎ (2024)](https://www.douban.com/people/136069238/status/4607441062/?_i=17748276)
+- [在读 一往无前](https://www.douban.com/people/136069238/status/4590507310/?_i=17748276)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
