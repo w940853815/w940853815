@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在读 法治的细节](https://www.douban.com/people/136069238/status/4633090780/?_i=18986611)
-- [读过 Ansible权威指南](https://www.douban.com/people/136069238/status/4633090154/?_i=18986611)
-- [在看 幕府将军 第一季 Shōgun Season 1‎ (2024)](https://www.douban.com/people/136069238/status/4628143207/?_i=18986611)
-- [看过 我们一起摇太阳‎ (2024)](https://www.douban.com/people/136069238/status/4627425663/?_i=18986611)
-- [看过 第8个秀 The 8 Show‎ (2024)](https://www.douban.com/people/136069238/status/4622960077/?_i=18986611)
-- [在读 黑书](https://www.douban.com/people/136069238/status/4621189759/?_i=18986611)
-- [在看 第8个秀 The 8 Show‎ (2024)](https://www.douban.com/people/136069238/status/4619801154/?_i=18986611)
-- [看过 第二十条‎ (2024)](https://www.douban.com/people/136069238/status/4618624208/?_i=18986611)
-- [看过 飞驰人生2‎ (2024)](https://www.douban.com/people/136069238/status/4616048805/?_i=18986611)
-- [看过 新生‎ (2024)](https://www.douban.com/people/136069238/status/4612373431/?_i=18986611)
+- [在读 法治的细节](https://www.douban.com/people/136069238/status/4633090780/?_i=18993948)
+- [读过 Ansible权威指南](https://www.douban.com/people/136069238/status/4633090154/?_i=18993948)
+- [在看 幕府将军 第一季 Shōgun Season 1‎ (2024)](https://www.douban.com/people/136069238/status/4628143207/?_i=18993948)
+- [看过 我们一起摇太阳‎ (2024)](https://www.douban.com/people/136069238/status/4627425663/?_i=18993948)
+- [看过 第8个秀 The 8 Show‎ (2024)](https://www.douban.com/people/136069238/status/4622960077/?_i=18993948)
+- [在读 黑书](https://www.douban.com/people/136069238/status/4621189759/?_i=18993948)
+- [在看 第8个秀 The 8 Show‎ (2024)](https://www.douban.com/people/136069238/status/4619801154/?_i=18993948)
+- [看过 第二十条‎ (2024)](https://www.douban.com/people/136069238/status/4618624208/?_i=18993948)
+- [看过 飞驰人生2‎ (2024)](https://www.douban.com/people/136069238/status/4616048805/?_i=18993948)
+- [看过 新生‎ (2024)](https://www.douban.com/people/136069238/status/4612373431/?_i=18993948)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
