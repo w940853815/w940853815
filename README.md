@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 赎罪 Atonement‎ (2007)](https://www.douban.com/people/136069238/status/4640061894/?_i=19310496)
-- [想看 奇异博士 Doctor Strange‎ (2016)](https://www.douban.com/people/136069238/status/4640051761/?_i=19310496)
-- [在读 法治的细节](https://www.douban.com/people/136069238/status/4633090780/?_i=19310496)
-- [读过 Ansible权威指南](https://www.douban.com/people/136069238/status/4633090154/?_i=19310496)
-- [在看 幕府将军 第一季 Shōgun Season 1‎ (2024)](https://www.douban.com/people/136069238/status/4628143207/?_i=19310496)
-- [看过 我们一起摇太阳‎ (2024)](https://www.douban.com/people/136069238/status/4627425663/?_i=19310496)
-- [看过 第8个秀 The 8 Show‎ (2024)](https://www.douban.com/people/136069238/status/4622960077/?_i=19310496)
-- [在读 黑书](https://www.douban.com/people/136069238/status/4621189759/?_i=19310496)
-- [在看 第8个秀 The 8 Show‎ (2024)](https://www.douban.com/people/136069238/status/4619801154/?_i=19310496)
-- [看过 第二十条‎ (2024)](https://www.douban.com/people/136069238/status/4618624208/?_i=19310496)
+- [看过 赎罪 Atonement‎ (2007)](https://www.douban.com/people/136069238/status/4640061894/?_i=19318434)
+- [想看 奇异博士 Doctor Strange‎ (2016)](https://www.douban.com/people/136069238/status/4640051761/?_i=19318434)
+- [在读 法治的细节](https://www.douban.com/people/136069238/status/4633090780/?_i=19318434)
+- [读过 Ansible权威指南](https://www.douban.com/people/136069238/status/4633090154/?_i=19318434)
+- [在看 幕府将军 第一季 Shōgun Season 1‎ (2024)](https://www.douban.com/people/136069238/status/4628143207/?_i=19318434)
+- [看过 我们一起摇太阳‎ (2024)](https://www.douban.com/people/136069238/status/4627425663/?_i=19318434)
+- [看过 第8个秀 The 8 Show‎ (2024)](https://www.douban.com/people/136069238/status/4622960077/?_i=19318434)
+- [在读 黑书](https://www.douban.com/people/136069238/status/4621189759/?_i=19318434)
+- [在看 第8个秀 The 8 Show‎ (2024)](https://www.douban.com/people/136069238/status/4619801154/?_i=19318434)
+- [看过 第二十条‎ (2024)](https://www.douban.com/people/136069238/status/4618624208/?_i=19318435)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
