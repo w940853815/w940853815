@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 扫黑·决不放弃‎ (2024)](https://www.douban.com/people/136069238/status/4648051460/?_i=20055086)
-- [看过 幕府将军 第一季 Shōgun Season 1‎ (2024)](https://www.douban.com/people/136069238/status/4642727883/?_i=20055086)
-- [看过 赎罪 Atonement‎ (2007)](https://www.douban.com/people/136069238/status/4640061894/?_i=20055086)
-- [想看 奇异博士 Doctor Strange‎ (2016)](https://www.douban.com/people/136069238/status/4640051761/?_i=20055086)
-- [在读 法治的细节](https://www.douban.com/people/136069238/status/4633090780/?_i=20055086)
-- [读过 Ansible权威指南](https://www.douban.com/people/136069238/status/4633090154/?_i=20055086)
-- [在看 幕府将军 第一季 Shōgun Season 1‎ (2024)](https://www.douban.com/people/136069238/status/4628143207/?_i=20055086)
-- [看过 我们一起摇太阳‎ (2024)](https://www.douban.com/people/136069238/status/4627425663/?_i=20055086)
-- [看过 第8个秀 The 8 Show‎ (2024)](https://www.douban.com/people/136069238/status/4622960077/?_i=20055086)
-- [在读 黑书](https://www.douban.com/people/136069238/status/4621189759/?_i=20055086)
+- [看过 扫黑·决不放弃‎ (2024)](https://www.douban.com/people/136069238/status/4648051460/?_i=20060286)
+- [看过 幕府将军 第一季 Shōgun Season 1‎ (2024)](https://www.douban.com/people/136069238/status/4642727883/?_i=20060288)
+- [看过 赎罪 Atonement‎ (2007)](https://www.douban.com/people/136069238/status/4640061894/?_i=20060288)
+- [想看 奇异博士 Doctor Strange‎ (2016)](https://www.douban.com/people/136069238/status/4640051761/?_i=20060288)
+- [在读 法治的细节](https://www.douban.com/people/136069238/status/4633090780/?_i=20060288)
+- [读过 Ansible权威指南](https://www.douban.com/people/136069238/status/4633090154/?_i=20060288)
+- [在看 幕府将军 第一季 Shōgun Season 1‎ (2024)](https://www.douban.com/people/136069238/status/4628143207/?_i=20060288)
+- [看过 我们一起摇太阳‎ (2024)](https://www.douban.com/people/136069238/status/4627425663/?_i=20060288)
+- [看过 第8个秀 The 8 Show‎ (2024)](https://www.douban.com/people/136069238/status/4622960077/?_i=20060288)
+- [在读 黑书](https://www.douban.com/people/136069238/status/4621189759/?_i=20060288)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
