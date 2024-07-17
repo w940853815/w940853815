@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在读 我在北京送快递](https://www.douban.com/people/136069238/status/4658098365/?_i=21178383)
-- [读过 法治的细节](https://www.douban.com/people/136069238/status/4657347558/?_i=21178383)
-- [看过 大创业家 The Founder‎ (2016)](https://www.douban.com/people/136069238/status/4649667693/?_i=21178383)
-- [看过 扫黑·决不放弃‎ (2024)](https://www.douban.com/people/136069238/status/4648051460/?_i=21178383)
-- [看过 幕府将军 第一季 Shōgun Season 1‎ (2024)](https://www.douban.com/people/136069238/status/4642727883/?_i=21178383)
-- [看过 赎罪 Atonement‎ (2007)](https://www.douban.com/people/136069238/status/4640061894/?_i=21178383)
-- [想看 奇异博士 Doctor Strange‎ (2016)](https://www.douban.com/people/136069238/status/4640051761/?_i=21178384)
-- [在读 法治的细节](https://www.douban.com/people/136069238/status/4633090780/?_i=21178384)
-- [读过 Ansible权威指南](https://www.douban.com/people/136069238/status/4633090154/?_i=21178384)
-- [在看 幕府将军 第一季 Shōgun Season 1‎ (2024)](https://www.douban.com/people/136069238/status/4628143207/?_i=21178384)
+- [在读 我在北京送快递](https://www.douban.com/people/136069238/status/4658098365/?_i=21183555)
+- [读过 法治的细节](https://www.douban.com/people/136069238/status/4657347558/?_i=21183555)
+- [看过 大创业家 The Founder‎ (2016)](https://www.douban.com/people/136069238/status/4649667693/?_i=21183555)
+- [看过 扫黑·决不放弃‎ (2024)](https://www.douban.com/people/136069238/status/4648051460/?_i=21183555)
+- [看过 幕府将军 第一季 Shōgun Season 1‎ (2024)](https://www.douban.com/people/136069238/status/4642727883/?_i=21183555)
+- [看过 赎罪 Atonement‎ (2007)](https://www.douban.com/people/136069238/status/4640061894/?_i=21183555)
+- [想看 奇异博士 Doctor Strange‎ (2016)](https://www.douban.com/people/136069238/status/4640051761/?_i=21183555)
+- [在读 法治的细节](https://www.douban.com/people/136069238/status/4633090780/?_i=21183555)
+- [读过 Ansible权威指南](https://www.douban.com/people/136069238/status/4633090154/?_i=21183555)
+- [在看 幕府将军 第一季 Shōgun Season 1‎ (2024)](https://www.douban.com/people/136069238/status/4628143207/?_i=21183555)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
