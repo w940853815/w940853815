@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在看 真探 第一季 True Detective Season 1‎ (2014)](https://www.douban.com/people/136069238/status/4673382852/?_i=22774352)
-- [在读 三体全集](https://www.douban.com/people/136069238/status/4672842521/?_i=22774352)
-- [读过 我在北京送快递](https://www.douban.com/people/136069238/status/4672842036/?_i=22774352)
-- [在读 蒂姆·库克传](https://www.douban.com/people/136069238/status/4663517053/?_i=22774352)
-- [读过 黑书](https://www.douban.com/people/136069238/status/4663516022/?_i=22774352)
-- [在读 我在北京送快递](https://www.douban.com/people/136069238/status/4658098365/?_i=22774352)
-- [读过 法治的细节](https://www.douban.com/people/136069238/status/4657347558/?_i=22774352)
-- [看过 大创业家 The Founder‎ (2016)](https://www.douban.com/people/136069238/status/4649667693/?_i=22774352)
-- [看过 扫黑·决不放弃‎ (2024)](https://www.douban.com/people/136069238/status/4648051460/?_i=22774352)
-- [看过 幕府将军 第一季 Shōgun Season 1‎ (2024)](https://www.douban.com/people/136069238/status/4642727883/?_i=22774352)
+- [在看 真探 第一季 True Detective Season 1‎ (2014)](https://www.douban.com/people/136069238/status/4673382852/?_i=22780794)
+- [在读 三体全集](https://www.douban.com/people/136069238/status/4672842521/?_i=22780794)
+- [读过 我在北京送快递](https://www.douban.com/people/136069238/status/4672842036/?_i=22780794)
+- [在读 蒂姆·库克传](https://www.douban.com/people/136069238/status/4663517053/?_i=22780794)
+- [读过 黑书](https://www.douban.com/people/136069238/status/4663516022/?_i=22780794)
+- [在读 我在北京送快递](https://www.douban.com/people/136069238/status/4658098365/?_i=22780794)
+- [读过 法治的细节](https://www.douban.com/people/136069238/status/4657347558/?_i=22780794)
+- [看过 大创业家 The Founder‎ (2016)](https://www.douban.com/people/136069238/status/4649667693/?_i=22780794)
+- [看过 扫黑·决不放弃‎ (2024)](https://www.douban.com/people/136069238/status/4648051460/?_i=22780794)
+- [看过 幕府将军 第一季 Shōgun Season 1‎ (2024)](https://www.douban.com/people/136069238/status/4642727883/?_i=22780794)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
