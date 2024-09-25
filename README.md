@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在读 血殇](https://www.douban.com/people/136069238/status/4733755869/?_i=27237979)
-- [读过 渤海小吏的封建脉络百战系列：楚汉双雄](https://www.douban.com/people/136069238/status/4733755519/?_i=27237979)
-- [看过 真探 第一季 True Detective Season 1‎ (2014)](https://www.douban.com/people/136069238/status/4733073705/?_i=27237979)
-- [看过 大赢家‎ (2020)](https://www.douban.com/people/136069238/status/4725658845/?_i=27237979)
-- [看过 来福大酒店‎ (2024)](https://www.douban.com/people/136069238/status/4719785416/?_i=27237979)
-- [在读 渤海小吏的封建脉络百战系列：楚汉双雄](https://www.douban.com/people/136069238/status/4700950146/?_i=27237979)
-- [读过 蒂姆·库克传](https://www.douban.com/people/136069238/status/4700949869/?_i=27237979)
-- [看过 走走停停‎ (2024)](https://www.douban.com/people/136069238/status/4684430230/?_i=27237979)
-- [看过 非诚勿扰3‎ (2023)](https://www.douban.com/people/136069238/status/4676324100/?_i=27237979)
-- [在看 真探 第一季 True Detective Season 1‎ (2014)](https://www.douban.com/people/136069238/status/4673382852/?_i=27237979)
+- [在读 血殇](https://www.douban.com/people/136069238/status/4733755869/?_i=27245388)
+- [读过 渤海小吏的封建脉络百战系列：楚汉双雄](https://www.douban.com/people/136069238/status/4733755519/?_i=27245388)
+- [看过 真探 第一季 True Detective Season 1‎ (2014)](https://www.douban.com/people/136069238/status/4733073705/?_i=27245388)
+- [看过 大赢家‎ (2020)](https://www.douban.com/people/136069238/status/4725658845/?_i=27245388)
+- [看过 来福大酒店‎ (2024)](https://www.douban.com/people/136069238/status/4719785416/?_i=27245388)
+- [在读 渤海小吏的封建脉络百战系列：楚汉双雄](https://www.douban.com/people/136069238/status/4700950146/?_i=27245388)
+- [读过 蒂姆·库克传](https://www.douban.com/people/136069238/status/4700949869/?_i=27245388)
+- [看过 走走停停‎ (2024)](https://www.douban.com/people/136069238/status/4684430230/?_i=27245388)
+- [看过 非诚勿扰3‎ (2023)](https://www.douban.com/people/136069238/status/4676324100/?_i=27245388)
+- [在看 真探 第一季 True Detective Season 1‎ (2014)](https://www.douban.com/people/136069238/status/4673382852/?_i=27245388)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
