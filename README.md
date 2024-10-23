@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 抓娃娃‎ (2024)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4750628423%2F&_i=29657175)
-- [看过 逆行人生‎ (2024)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4748570941%2F&_i=29657175)
-- [在看 楚汉传奇‎ (2012)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4734155394%2F&_i=29657175)
-- [在读 血殇](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4733755869%2F&_i=29657175)
-- [读过 渤海小吏的封建脉络百战系列：楚汉双雄](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4733755519%2F&_i=29657175)
-- [看过 真探 第一季 True Detective Season 1‎ (2014)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4733073705%2F&_i=29657175)
-- [看过 大赢家‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4725658845%2F&_i=29657175)
-- [看过 来福大酒店‎ (2024)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4719785416%2F&_i=29657175)
-- [在读 渤海小吏的封建脉络百战系列：楚汉双雄](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4700950146%2F&_i=29657175)
-- [读过 蒂姆·库克传](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4700949869%2F&_i=29657175)
+- [看过 抓娃娃‎ (2024)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4750628423%2F&_i=29664599)
+- [看过 逆行人生‎ (2024)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4748570941%2F&_i=29664599)
+- [在看 楚汉传奇‎ (2012)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4734155394%2F&_i=29664599)
+- [在读 血殇](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4733755869%2F&_i=29664599)
+- [读过 渤海小吏的封建脉络百战系列：楚汉双雄](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4733755519%2F&_i=29664599)
+- [看过 真探 第一季 True Detective Season 1‎ (2014)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4733073705%2F&_i=29664599)
+- [看过 大赢家‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4725658845%2F&_i=29664599)
+- [看过 来福大酒店‎ (2024)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4719785416%2F&_i=29664599)
+- [在读 渤海小吏的封建脉络百战系列：楚汉双雄](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4700950146%2F&_i=29664599)
+- [读过 蒂姆·库克传](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4700949869%2F&_i=29664599)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
