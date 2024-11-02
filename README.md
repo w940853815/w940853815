@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在读 煤老板自述三十年](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4762524233%2F&_i=30535559)
-- [读过 血殇](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4762523174%2F&_i=30535559)
-- [看过 伯纳德行动 Die Fälscher‎ (2007)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4761016819%2F&_i=30535559)
-- [看过 抓娃娃‎ (2024)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4750628423%2F&_i=30535559)
-- [看过 逆行人生‎ (2024)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4748570941%2F&_i=30535559)
-- [在看 楚汉传奇‎ (2012)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4734155394%2F&_i=30535559)
-- [在读 血殇](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4733755869%2F&_i=30535559)
-- [读过 渤海小吏的封建脉络百战系列：楚汉双雄](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4733755519%2F&_i=30535559)
-- [看过 真探 第一季 True Detective Season 1‎ (2014)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4733073705%2F&_i=30535559)
-- [看过 大赢家‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4725658845%2F&_i=30535559)
+- [在读 煤老板自述三十年](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4762524233%2F&_i=30542527)
+- [读过 血殇](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4762523174%2F&_i=30542527)
+- [看过 伯纳德行动 Die Fälscher‎ (2007)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4761016819%2F&_i=30542527)
+- [看过 抓娃娃‎ (2024)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4750628423%2F&_i=30542527)
+- [看过 逆行人生‎ (2024)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4748570941%2F&_i=30542527)
+- [在看 楚汉传奇‎ (2012)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4734155394%2F&_i=30542527)
+- [在读 血殇](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4733755869%2F&_i=30542527)
+- [读过 渤海小吏的封建脉络百战系列：楚汉双雄](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4733755519%2F&_i=30542528)
+- [看过 真探 第一季 True Detective Season 1‎ (2014)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4733073705%2F&_i=30542528)
+- [看过 大赢家‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4725658845%2F&_i=30542528)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
