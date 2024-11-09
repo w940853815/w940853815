@@ -18,16 +18,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在看 历史转折中的邓小平‎ (2014)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4771794874%2F&_i=31155301)
-- [在读 云边有个小卖部](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4771764828%2F&_i=31155301)
-- [读过 三体全集](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4771363576%2F&_i=31155301)
-- [看过 孟买酒店 Hotel Mumbai‎ (2018)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4768506132%2F&_i=31155301)
-- [在读 煤老板自述三十年](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4762524233%2F&_i=31155301)
-- [读过 血殇](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4762523174%2F&_i=31155301)
-- [看过 伯纳德行动 Die Fälscher‎ (2007)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4761016819%2F&_i=31155301)
-- [看过 抓娃娃‎ (2024)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4750628423%2F&_i=31155301)
-- [看过 逆行人生‎ (2024)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4748570941%2F&_i=31155301)
-- [在看 楚汉传奇‎ (2012)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4734155394%2F&_i=31155301)
+- [在看 历史转折中的邓小平‎ (2014)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4771794874%2F&_i=31161629)
+- [在读 云边有个小卖部](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4771764828%2F&_i=31161629)
+- [读过 三体全集](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4771363576%2F&_i=31161630)
+- [看过 孟买酒店 Hotel Mumbai‎ (2018)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4768506132%2F&_i=31161630)
+- [在读 煤老板自述三十年](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4762524233%2F&_i=31161630)
+- [读过 血殇](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4762523174%2F&_i=31161630)
+- [看过 伯纳德行动 Die Fälscher‎ (2007)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4761016819%2F&_i=31161630)
+- [看过 抓娃娃‎ (2024)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4750628423%2F&_i=31161630)
+- [看过 逆行人生‎ (2024)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4748570941%2F&_i=31161630)
+- [在看 楚汉传奇‎ (2012)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4734155394%2F&_i=31161630)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
