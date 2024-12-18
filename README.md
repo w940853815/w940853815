@@ -2,16 +2,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在读 说不尽的外交](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4802539113%2F&_i=34510139)
-- [读过 饥饿的盛世](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4802538536%2F&_i=34510139)
-- [看过 未来水世界 Waterworld‎ (1995)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4800684982%2F&_i=34510139)
-- [看过 英雄联盟：双城之战 第二季 Arcane Season 2‎ (2024)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4797922195%2F&_i=34510139)
-- [在看 英雄联盟：双城之战 第二季 Arcane Season 2‎ (2024)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4789016162%2F&_i=34510139)
-- [在读 饥饿的盛世](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4788916398%2F&_i=34510139)
-- [读过 芯片战争](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4788915460%2F&_i=34510139)
-- [看过 云边有个小卖部‎ (2024)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4780625854%2F&_i=34510139)
-- [在读 芯片战争](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4777974597%2F&_i=34510139)
-- [读过 云边有个小卖部](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4777683256%2F&_i=34510139)
+- [在读 说不尽的外交](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4802539113%2F&_i=34517074)
+- [读过 饥饿的盛世](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4802538536%2F&_i=34517074)
+- [看过 未来水世界 Waterworld‎ (1995)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4800684982%2F&_i=34517074)
+- [看过 英雄联盟：双城之战 第二季 Arcane Season 2‎ (2024)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4797922195%2F&_i=34517074)
+- [在看 英雄联盟：双城之战 第二季 Arcane Season 2‎ (2024)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4789016162%2F&_i=34517074)
+- [在读 饥饿的盛世](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4788916398%2F&_i=34517074)
+- [读过 芯片战争](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4788915460%2F&_i=34517074)
+- [看过 云边有个小卖部‎ (2024)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4780625854%2F&_i=34517074)
+- [在读 芯片战争](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4777974597%2F&_i=34517074)
+- [读过 云边有个小卖部](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4777683256%2F&_i=34517074)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
