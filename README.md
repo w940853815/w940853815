@@ -2,16 +2,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 胜券在握‎ (2024)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5001555416%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=38081172)
-- [在看 漂白‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4993441402%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=38081172)
-- [看过 历史转折中的邓小平‎ (2014)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4840336065%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=38081172)
-- [在读 一百个人的十年](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4839933012%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=38081172)
-- [看过 澳门风云2 賭城風雲II‎ (2015)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4827389321%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=38081172)
-- [读过 叫魂](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4825286209%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=38081172)
-- [看过 误杀3‎ (2024)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4823620523%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=38081172)
-- [看过 大“反”派‎ (2024)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4820505222%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=38081172)
-- [在读 叫魂](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4814950378%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=38081172)
-- [读过 说不尽的外交](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4814949534%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=38081172)
+- [看过 胜券在握‎ (2024)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5001555416%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=38088499)
+- [在看 漂白‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4993441402%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=38088499)
+- [看过 历史转折中的邓小平‎ (2014)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4840336065%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=38088499)
+- [在读 一百个人的十年](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4839933012%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=38088499)
+- [看过 澳门风云2 賭城風雲II‎ (2015)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4827389321%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=38088499)
+- [读过 叫魂](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4825286209%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=38088499)
+- [看过 误杀3‎ (2024)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4823620523%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=38088499)
+- [看过 大“反”派‎ (2024)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4820505222%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=38088499)
+- [在读 叫魂](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4814950378%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=38088499)
+- [读过 说不尽的外交](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4814949534%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=38088499)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
