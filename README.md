@@ -2,16 +2,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 漂白‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5093587010%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=38599581)
-- [在读 紫金全球矿业梦](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5092185358%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=38599581)
-- [读过 一百个人的十年](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5092179475%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=38599581)
-- [看过 胜券在握‎ (2024)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5001555416%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=38599581)
-- [在看 漂白‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4993441402%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=38599581)
-- [看过 历史转折中的邓小平‎ (2014)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4840336065%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=38599581)
-- [在读 一百个人的十年](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4839933012%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=38599581)
-- [看过 澳门风云2 賭城風雲II‎ (2015)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4827389321%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=38599581)
-- [读过 叫魂](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4825286209%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=38599581)
-- [看过 误杀3‎ (2024)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4823620523%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=38599581)
+- [看过 漂白‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5093587010%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=38606908)
+- [在读 紫金全球矿业梦](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5092185358%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=38606908)
+- [读过 一百个人的十年](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5092179475%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=38606908)
+- [看过 胜券在握‎ (2024)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5001555416%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=38606908)
+- [在看 漂白‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4993441402%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=38606908)
+- [看过 历史转折中的邓小平‎ (2014)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4840336065%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=38606908)
+- [在读 一百个人的十年](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4839933012%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=38606908)
+- [看过 澳门风云2 賭城風雲II‎ (2015)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4827389321%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=38606908)
+- [读过 叫魂](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4825286209%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=38606908)
+- [看过 误杀3‎ (2024)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4823620523%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=38606908)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
