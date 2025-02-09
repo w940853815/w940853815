@@ -2,16 +2,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在看 无所畏惧 Fearless‎ (2017)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5162749253%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=39117836)
-- [看过 封神第二部：战火西岐‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5120259661%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=39117836)
-- [看过 漂白‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5093587010%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=39117836)
-- [在读 紫金全球矿业梦](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5092185358%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=39117836)
-- [读过 一百个人的十年](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5092179475%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=39117836)
-- [看过 胜券在握‎ (2024)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5001555416%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=39117836)
-- [在看 漂白‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4993441402%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=39117836)
-- [看过 历史转折中的邓小平‎ (2014)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4840336065%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=39117836)
-- [在读 一百个人的十年](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4839933012%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=39117836)
-- [看过 澳门风云2 賭城風雲II‎ (2015)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4827389321%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=39117836)
+- [在看 无所畏惧 Fearless‎ (2017)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5162749253%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=39125179)
+- [看过 封神第二部：战火西岐‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5120259661%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=39125179)
+- [看过 漂白‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5093587010%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=39125179)
+- [在读 紫金全球矿业梦](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5092185358%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=39125179)
+- [读过 一百个人的十年](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5092179475%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=39125179)
+- [看过 胜券在握‎ (2024)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5001555416%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=39125179)
+- [在看 漂白‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4993441402%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=39125179)
+- [看过 历史转折中的邓小平‎ (2014)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4840336065%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=39125179)
+- [在读 一百个人的十年](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4839933012%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=39125179)
+- [看过 澳门风云2 賭城風雲II‎ (2015)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F4827389321%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=39125179)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
