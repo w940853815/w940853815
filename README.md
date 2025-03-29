@@ -2,16 +2,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在读 你当像鸟飞往你的山](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5557956272%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=43279421)
-- [读过 图说区块链](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5557950873%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=43279421)
-- [在读 图说区块链](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5471173603%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=43279421)
-- [读过 这个世界会好吗？](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5471170844%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=43279421)
-- [在读 这个世界会好吗？](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5267653436%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=43279421)
-- [读过 煤老板自述三十年](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5267651935%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=43279421)
-- [读过 紫金全球矿业梦](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5267650388%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=43279421)
-- [在看 无所畏惧 Fearless‎ (2017)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5162749253%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=43279421)
-- [看过 封神第二部：战火西岐‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5120259661%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=43279421)
-- [看过 漂白‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5093587010%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=43279421)
+- [在读 你当像鸟飞往你的山](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5557956272%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=43286506)
+- [读过 图说区块链](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5557950873%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=43286506)
+- [在读 图说区块链](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5471173603%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=43286506)
+- [读过 这个世界会好吗？](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5471170844%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=43286506)
+- [在读 这个世界会好吗？](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5267653436%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=43286506)
+- [读过 煤老板自述三十年](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5267651935%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=43286506)
+- [读过 紫金全球矿业梦](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5267650388%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=43286506)
+- [在看 无所畏惧 Fearless‎ (2017)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5162749253%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=43286506)
+- [看过 封神第二部：战火西岐‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5120259661%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=43286506)
+- [看过 漂白‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5093587010%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=43286506)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
