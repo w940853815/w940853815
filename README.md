@@ -2,16 +2,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 楚汉传奇‎ (2012)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5871061011%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=45994386)
-- [在读 门阀](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5749976943%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=45994386)
-- [读过 你当像鸟飞往你的山](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5749971356%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=45994387)
-- [在读 你当像鸟飞往你的山](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5557956272%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=45994387)
-- [读过 图说区块链](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5557950873%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=45994387)
-- [在读 图说区块链](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5471173603%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=45994387)
-- [读过 这个世界会好吗？](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5471170844%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=45994387)
-- [在读 这个世界会好吗？](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5267653436%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=45994387)
-- [读过 煤老板自述三十年](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5267651935%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=45994387)
-- [读过 紫金全球矿业梦](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5267650388%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=45994387)
+- [看过 楚汉传奇‎ (2012)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5871061011%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=46001470)
+- [在读 门阀](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5749976943%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=46001470)
+- [读过 你当像鸟飞往你的山](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5749971356%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=46001470)
+- [在读 你当像鸟飞往你的山](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5557956272%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=46001470)
+- [读过 图说区块链](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5557950873%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=46001470)
+- [在读 图说区块链](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5471173603%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=46001470)
+- [读过 这个世界会好吗？](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5471170844%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=46001470)
+- [在读 这个世界会好吗？](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5267653436%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=46001470)
+- [读过 煤老板自述三十年](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5267651935%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=46001470)
+- [读过 紫金全球矿业梦](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F5267650388%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=46001470)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
