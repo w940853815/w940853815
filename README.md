@@ -2,16 +2,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [读过 中国的西北角](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6452560680%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=51938759)
-- [在读 《他影响了中国：陈云》](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6452553710%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=51938759)
-- [看过 向阳·花‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6434553936%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=51938759)
-- [看过 黑镜 第六季 Black Mirror Season 6‎ (2023)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6423892238%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=51938759)
-- [在读 伊朗四千年](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6419395441%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=51938759)
-- [在看 黑镜 第六季 Black Mirror Season 6‎ (2023)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6374146493%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=51938759)
-- [在看 黑镜 第六季 Black Mirror Season 6‎ (2023)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6374119836%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=51938759)
-- [看过 黑镜 第四季 Black Mirror Season 4‎ (2017)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6324112829%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=51938759)
-- [读过 中国历代政治得失](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6310000533%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=51938759)
-- [在读 中国的西北角](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6303764907%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=51938759)
+- [读过 中国的西北角](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6452560680%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=51944725)
+- [在读 《他影响了中国：陈云》](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6452553710%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=51944725)
+- [看过 向阳·花‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6434553936%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=51944725)
+- [看过 黑镜 第六季 Black Mirror Season 6‎ (2023)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6423892238%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=51944725)
+- [在读 伊朗四千年](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6419395441%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=51944725)
+- [在看 黑镜 第六季 Black Mirror Season 6‎ (2023)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6374146493%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=51944725)
+- [在看 黑镜 第六季 Black Mirror Season 6‎ (2023)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6374119836%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=51944725)
+- [看过 黑镜 第四季 Black Mirror Season 4‎ (2017)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6324112829%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=51944725)
+- [读过 中国历代政治得失](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6310000533%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=51944725)
+- [在读 中国的西北角](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6303764907%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=51944725)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
