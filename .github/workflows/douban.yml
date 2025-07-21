@@ -22,4 +22,6 @@ jobs:
       - name: Commit & Push changes
         uses: actions-js/push@4decc2887d2770f29177082be3c8b04d342f5b64
         with:
+          author_email: w940853815@gmail.com
+          author_name: w940853815
           github_token: ${{ secrets.GITHUB_TOKEN }}
