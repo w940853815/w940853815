@@ -2,16 +2,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 金币灰黄 برادران لیلا‎ (2022)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6614010055%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=53993346)
-- [在读 油炸绿番茄](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6607514767%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=53993346)
-- [读过 《他影响了中国：陈云》](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6607508479%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=53993346)
-- [看过 人生开门红‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6573693565%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=53993346)
-- [看过 唐探1900‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6558621151%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=53993346)
-- [看过 猎金·游戏‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6525951159%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=53993346)
-- [看过 鱿鱼游戏 第三季 오징어 게임 시즌 3‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6514804073%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=53993346)
-- [在看 鱿鱼游戏 第三季 오징어 게임 시즌 3‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6497736813%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=53993346)
-- [看过 黑镜：潘达斯奈基 Black Mirror: Bandersnatch‎ (2018)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6474636146%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=53993346)
-- [看过 黑镜：圣诞特别篇 Black Mirror: White Christmas‎ (2014)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6453752924%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=53993346)
+- [看过 金币灰黄 برادران لیلا‎ (2022)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6614010055%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=54000374)
+- [在读 油炸绿番茄](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6607514767%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=54000374)
+- [读过 《他影响了中国：陈云》](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6607508479%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=54000374)
+- [看过 人生开门红‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6573693565%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=54000374)
+- [看过 唐探1900‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6558621151%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=54000374)
+- [看过 猎金·游戏‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6525951159%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=54000374)
+- [看过 鱿鱼游戏 第三季 오징어 게임 시즌 3‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6514804073%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=54000374)
+- [在看 鱿鱼游戏 第三季 오징어 게임 시즌 3‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6497736813%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=54000374)
+- [看过 黑镜：潘达斯奈基 Black Mirror: Bandersnatch‎ (2018)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6474636146%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=54000374)
+- [看过 黑镜：圣诞特别篇 Black Mirror: White Christmas‎ (2014)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6453752924%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=54000374)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
