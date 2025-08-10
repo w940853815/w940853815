@@ -2,16 +2,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在看 斯巴达克斯：复仇 第二季 Spartacus: Vengeance Season 2‎ (2012)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6700676134%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=54842965)
-- [看过 斯巴达克斯：血与沙 第一季 Spartacus: Blood and Sand Season 1‎ (2010)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6700632673%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=54842965)
-- [在看 斯巴达克斯：血与沙 第一季 Spartacus: Blood and Sand Season 1‎ (2010)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6678065601%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=54842965)
-- [看过 红毯先生‎ (2023)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6671151814%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=54842965)
-- [看过 南京照相馆‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6641929173%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=54842965)
-- [看过 狗阵‎ (2024)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6637031710%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=54842965)
-- [看过 金币灰黄 برادران لیلا‎ (2022)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6614010055%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=54842965)
-- [在读 油炸绿番茄](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6607514767%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=54842965)
-- [读过 《他影响了中国：陈云》](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6607508479%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=54842965)
-- [看过 人生开门红‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6573693565%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=54842965)
+- [在看 斯巴达克斯：复仇 第二季 Spartacus: Vengeance Season 2‎ (2012)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6700676134%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=54850361)
+- [看过 斯巴达克斯：血与沙 第一季 Spartacus: Blood and Sand Season 1‎ (2010)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6700632673%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=54850361)
+- [在看 斯巴达克斯：血与沙 第一季 Spartacus: Blood and Sand Season 1‎ (2010)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6678065601%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=54850361)
+- [看过 红毯先生‎ (2023)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6671151814%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=54850361)
+- [看过 南京照相馆‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6641929173%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=54850361)
+- [看过 狗阵‎ (2024)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6637031710%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=54850361)
+- [看过 金币灰黄 برادران لیلا‎ (2022)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6614010055%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=54850361)
+- [在读 油炸绿番茄](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6607514767%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=54850361)
+- [读过 《他影响了中国：陈云》](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6607508479%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=54850361)
+- [看过 人生开门红‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6573693565%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=54850361)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
