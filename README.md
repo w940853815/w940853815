@@ -2,16 +2,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在读 我叫刘跃进](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6861396722%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=56664587)
-- [读过 我与父辈](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6861392581%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=56664587)
-- [看过 酱园弄·悬案‎ (2024)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6853415555%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=56664587)
-- [看过 斯巴达克斯：竞技场之神 Spartacus: Gods of the Arena‎ (2011)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6846797009%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=56664587)
-- [看过 斯巴达克斯：竞技场之神 Spartacus: Gods of the Arena‎ (2011)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6846768859%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=56664587)
-- [在看 斯巴达克斯：竞技场之神 Spartacus: Gods of the Arena‎ (2011)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6801001482%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=56664587)
-- [在看 斯巴达克斯：竞技场之神 Spartacus: Gods of the Arena‎ (2011)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6800974974%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=56664587)
-- [看过 斯巴达克斯：诅咒者之战 第三季 Spartacus: War of the Damned Season 3‎ (2013)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6796490469%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=56664587)
-- [看过 破·地狱 破·地獄‎ (2024)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6768161839%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=56664587)
-- [在读 我与父辈](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6739341387%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=56664587)
+- [在读 我叫刘跃进](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6861396722%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=56671499)
+- [读过 我与父辈](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6861392581%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=56671499)
+- [看过 酱园弄·悬案‎ (2024)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6853415555%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=56671499)
+- [看过 斯巴达克斯：竞技场之神 Spartacus: Gods of the Arena‎ (2011)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6846797009%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=56671499)
+- [看过 斯巴达克斯：竞技场之神 Spartacus: Gods of the Arena‎ (2011)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6846768859%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=56671499)
+- [在看 斯巴达克斯：竞技场之神 Spartacus: Gods of the Arena‎ (2011)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6801001482%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=56671499)
+- [在看 斯巴达克斯：竞技场之神 Spartacus: Gods of the Arena‎ (2011)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6800974974%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=56671499)
+- [看过 斯巴达克斯：诅咒者之战 第三季 Spartacus: War of the Damned Season 3‎ (2013)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6796490469%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=56671499)
+- [看过 破·地狱 破·地獄‎ (2024)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6768161839%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=56671499)
+- [在读 我与父辈](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6739341387%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=56671499)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
