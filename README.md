@@ -2,16 +2,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在读 贫民窟的百万富翁](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6975617616%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=59155492)
-- [读过 我叫刘跃进](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6975596034%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=59155492)
-- [在看 闯关东‎ (2008)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6940632597%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=59155492)
-- [看过 灵笼 第二季‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6934873885%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=59155492)
-- [在读 大国的崩溃](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6896407828%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=59155492)
-- [读过 油炸绿番茄](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6896362495%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=59155492)
-- [在看 灵笼 第二季‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6874910908%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=59155492)
-- [在读 我叫刘跃进](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6861396722%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=59155492)
-- [读过 我与父辈](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6861392581%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=59155493)
-- [看过 酱园弄·悬案‎ (2024)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6853415555%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=59155493)
+- [在读 贫民窟的百万富翁](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6975617616%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=59162694)
+- [读过 我叫刘跃进](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6975596034%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=59162694)
+- [在看 闯关东‎ (2008)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6940632597%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=59162694)
+- [看过 灵笼 第二季‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6934873885%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=59162694)
+- [在读 大国的崩溃](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6896407828%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=59162694)
+- [读过 油炸绿番茄](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6896362495%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=59162694)
+- [在看 灵笼 第二季‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6874910908%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=59162694)
+- [在读 我叫刘跃进](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6861396722%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=59162694)
+- [读过 我与父辈](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6861392581%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=59162694)
+- [看过 酱园弄·悬案‎ (2024)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F6853415555%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=59162694)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
