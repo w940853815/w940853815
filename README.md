@@ -2,16 +2,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在读 金钱心理学](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7568505567%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=65988865)
-- [读过 仿制药的真相](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7568498351%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=65988865)
-- [在读 仿制药的真相](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7434473587%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=65988865)
-- [看过 斯巴达克斯：复仇 第二季 Spartacus: Vengeance Season 2‎ (2012)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7432248586%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=65988865)
-- [读过 大国的崩溃](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7407408686%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=65988865)
-- [看过 罗小黑战记2‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7365377805%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=65988865)
-- [在读 看见孩子](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7310596063%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=65988865)
-- [读过 同和里](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7310592762%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=65988865)
-- [看过 油炸绿番茄 Fried Green Tomatoes‎ (1991)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7207707527%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=65988865)
-- [在读 同和里](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7149390352%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=65988865)
+- [在读 金钱心理学](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7568505567%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=65996298)
+- [读过 仿制药的真相](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7568498351%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=65996298)
+- [在读 仿制药的真相](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7434473587%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=65996298)
+- [看过 斯巴达克斯：复仇 第二季 Spartacus: Vengeance Season 2‎ (2012)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7432248586%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=65996298)
+- [读过 大国的崩溃](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7407408686%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=65996298)
+- [看过 罗小黑战记2‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7365377805%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=65996298)
+- [在读 看见孩子](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7310596063%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=65996298)
+- [读过 同和里](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7310592762%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=65996298)
+- [看过 油炸绿番茄 Fried Green Tomatoes‎ (1991)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7207707527%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=65996298)
+- [在读 同和里](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7149390352%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=65996298)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 
