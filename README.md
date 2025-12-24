@@ -14,6 +14,17 @@
 - [在读 同和里](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7149390352%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=66550889)
 <!-- DOUBAN-ACTIVITIES:END -->
 
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=17764568" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=17764568&image_size=auto&color_scheme=dark" width="880" height="auto">
+    <img alt="Dashboard stats of @w940853815" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=17764568&image_size=auto&color_scheme=light" width="880" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
 
 ![Snake animation](https://raw.githubusercontent.com/w940853815/w940853815/output/github-contribution-grid-snake.svg)
 
