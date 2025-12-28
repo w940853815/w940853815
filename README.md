@@ -2,16 +2,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在读 浪潮将至](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7637384459%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=66910372)
-- [读过 看见孩子](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7637379300%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=66910372)
-- [在读 金钱心理学](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7568505567%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=66910372)
-- [读过 仿制药的真相](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7568498351%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=66910372)
-- [在读 仿制药的真相](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7434473587%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=66910372)
-- [看过 斯巴达克斯：复仇 第二季 Spartacus: Vengeance Season 2‎ (2012)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7432248586%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=66910372)
-- [读过 大国的崩溃](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7407408686%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=66910372)
-- [看过 罗小黑战记2‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7365377805%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=66910372)
-- [在读 看见孩子](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7310596063%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=66910372)
-- [读过 同和里](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7310592762%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=66910372)
+- [在读 浪潮将至](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7637384459%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=66925546)
+- [读过 看见孩子](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7637379300%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=66925546)
+- [在读 金钱心理学](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7568505567%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=66925546)
+- [读过 仿制药的真相](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7568498351%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=66925546)
+- [在读 仿制药的真相](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7434473587%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=66925546)
+- [看过 斯巴达克斯：复仇 第二季 Spartacus: Vengeance Season 2‎ (2012)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7432248586%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=66925546)
+- [读过 大国的崩溃](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7407408686%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=66925546)
+- [看过 罗小黑战记2‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7365377805%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=66925546)
+- [在读 看见孩子](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7310596063%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=66925546)
+- [读过 同和里](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7310592762%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=66925546)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 <!-- Copy-paste in your Readme.md file -->
