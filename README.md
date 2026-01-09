@@ -2,16 +2,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 闯关东‎ (2008)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7737144625%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=67968646)
-- [看过 运钞大劫案‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7710142921%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=67968646)
-- [在读 浪潮将至](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7637384459%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=67968646)
-- [读过 看见孩子](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7637379300%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=67968646)
-- [在读 金钱心理学](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7568505567%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=67968646)
-- [读过 仿制药的真相](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7568498351%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=67968646)
-- [在读 仿制药的真相](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7434473587%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=67968646)
-- [看过 斯巴达克斯：复仇 第二季 Spartacus: Vengeance Season 2‎ (2012)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7432248586%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=67968646)
-- [读过 大国的崩溃](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7407408686%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=67968646)
-- [看过 罗小黑战记2‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7365377805%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=67968646)
+- [看过 闯关东‎ (2008)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7737144625%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=67976041)
+- [看过 运钞大劫案‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7710142921%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=67976041)
+- [在读 浪潮将至](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7637384459%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=67976041)
+- [读过 看见孩子](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7637379300%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=67976041)
+- [在读 金钱心理学](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7568505567%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=67976041)
+- [读过 仿制药的真相](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7568498351%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=67976041)
+- [在读 仿制药的真相](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7434473587%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=67976041)
+- [看过 斯巴达克斯：复仇 第二季 Spartacus: Vengeance Season 2‎ (2012)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7432248586%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=67976041)
+- [读过 大国的崩溃](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7407408686%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=67976041)
+- [看过 罗小黑战记2‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7365377805%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=67976041)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 <!-- Copy-paste in your Readme.md file -->
