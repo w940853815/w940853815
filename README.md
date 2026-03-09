@@ -2,16 +2,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在读 段永平投资问答录（投资逻辑篇）](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F8187483447%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=73021991)
-- [读过 段永平投资问答录（商业逻辑篇）](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F8187461313%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=73021991)
-- [在读 段永平投资问答录（商业逻辑篇）](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F8187443565%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=73021991)
-- [在读 蘑菇](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7967948375%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=73021991)
-- [看过 怪奇物语 第五季 Stranger Things Season 5‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7965102959%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=73021991)
-- [看过 情圣3‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7965083588%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=73021991)
-- [在看 怪奇物语 第五季 Stranger Things Season 5‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7938007406%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=73021991)
-- [看过 闯关东‎ (2008)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7737144625%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=73021991)
-- [看过 运钞大劫案‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7710142921%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=73021991)
-- [在读 浪潮将至](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7637384459%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=73021991)
+- [在读 段永平投资问答录（投资逻辑篇）](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F8187483447%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=73033506)
+- [读过 段永平投资问答录（商业逻辑篇）](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F8187461313%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=73033506)
+- [在读 段永平投资问答录（商业逻辑篇）](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F8187443565%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=73033506)
+- [在读 蘑菇](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7967948375%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=73033506)
+- [看过 怪奇物语 第五季 Stranger Things Season 5‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7965102959%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=73033506)
+- [看过 情圣3‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7965083588%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=73033506)
+- [在看 怪奇物语 第五季 Stranger Things Season 5‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7938007406%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=73033506)
+- [看过 闯关东‎ (2008)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7737144625%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=73033506)
+- [看过 运钞大劫案‎ (2025)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7710142921%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=73033506)
+- [在读 浪潮将至](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F7637384459%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=73033506)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 <!-- Copy-paste in your Readme.md file -->
