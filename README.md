@@ -2,16 +2,16 @@
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在读 州县官的银两](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F8828227333%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=80662971)
-- [在读 因为独特](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F8746318529%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=80662972)
-- [在看 王冠 第一季 The Crown Season 1‎ (2016)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F8394125997%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=80662972)
-- [看过 毛骗 终结篇‎ (2015)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F8390254063%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=80662972)
-- [想看 冤家宜解不宜结‎ (2021)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F8390217952%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=80662972)
-- [看过 难以置信 Unbelievable‎ (2019)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F8306299011%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=80662972)
-- [在看 难以置信 Unbelievable‎ (2019)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F8305788594%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=80662972)
-- [在读 我是一朵飘零的花](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F8278029269%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=80662972)
-- [读过 蘑菇](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F8278014156%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=80662972)
-- [在读 段永平投资问答录（投资逻辑篇）](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F8187483447%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=80662972)
+- [在读 州县官的银两](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F8828227333%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=80676918)
+- [在读 因为独特](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F8746318529%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=80676918)
+- [在看 王冠 第一季 The Crown Season 1‎ (2016)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F8394125997%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=80676918)
+- [看过 毛骗 终结篇‎ (2015)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F8390254063%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=80676918)
+- [想看 冤家宜解不宜结‎ (2021)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F8390217952%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=80676918)
+- [看过 难以置信 Unbelievable‎ (2019)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F8306299011%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=80676918)
+- [在看 难以置信 Unbelievable‎ (2019)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F8305788594%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=80676918)
+- [在读 我是一朵飘零的花](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F8278029269%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=80676918)
+- [读过 蘑菇](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F8278014156%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=80676918)
+- [在读 段永平投资问答录（投资逻辑篇）](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F8187483447%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=80676918)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 <!-- Copy-paste in your Readme.md file -->
