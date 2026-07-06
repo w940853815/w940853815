@@ -13,17 +13,31 @@
 - [想看 冤家宜解不宜结‎ (2021)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F8390217952%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=83285121)
 <!-- DOUBAN-ACTIVITIES:END -->
 
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=17764568" target="_blank" style="display: block" align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=17764568&image_size=auto&color_scheme=dark" width="880" height="auto">
-<img alt="Dashboard stats of @w940853815" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=17764568&image_size=auto&color_scheme=light" width="880" height="auto">
-</picture>
-</a>
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-<a href="https://ghfind.com/u/w940853815?ref=badge"><img src="https://ghfind.com/api/card/w940853815?theme=light&variant=path" alt="GitHub Roast" width="880" height="auto" /></a>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=17764568" target="_blank">
+        <picture>
+          <source
+            media="(prefers-color-scheme: dark)"
+            srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=17764568&image_size=auto&color_scheme=dark">
+          <img
+            alt="OSS Insight"
+            src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=17764568&image_size=auto&color_scheme=light"
+            width="100%">
+        </picture>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://ghfind.com/u/w940853815?ref=badge">
+        <img
+          src="https://ghfind.com/api/card/w940853815?theme=light&variant=path"
+          alt="GitHub Roast"
+          width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ![Snake animation](https://raw.githubusercontent.com/w940853815/w940853815/output/github-contribution-grid-snake.svg)
