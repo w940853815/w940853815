@@ -1,4 +1,3 @@
-
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
@@ -22,8 +21,9 @@
 <img alt="Dashboard stats of @w940853815" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=17764568&image_size=auto&color_scheme=light" width="880" height="auto">
 </picture>
 </a>
-
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
+<a href="https://ghfind.com/u/w940853815?ref=badge"><img src="https://ghfind.com/api/card/w940853815?theme=light&variant=path" alt="GitHub Roast" width="880" height="auto" /></a>
 
 
 ![Snake animation](https://raw.githubusercontent.com/w940853815/w940853815/output/github-contribution-grid-snake.svg)
