@@ -13,26 +13,13 @@
 - [在看 王冠 第三季 The Crown Season 3‎ (2019)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F9028367214%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=84674515)
 <!-- DOUBAN-ACTIVITIES:END -->
 
-<p align="center">
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=17764568" target="_blank">
-<picture>
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=17764568&image_size=auto&color_scheme=dark">
-<img
-alt="OSS Insight"
-src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=17764568&image_size=auto&color_scheme=light"
-width="49%">
-</picture>
-</a>
 
-<a href="https://ghfind.com/u/w940853815?ref=badge">
-<img
-src="https://ghfind.com/api/card/w940853815?theme=light&variant=path"
-alt="GitHub Roast"
-width="49%">
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=17764568" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=17764568&image_size=auto&color_scheme=dark" width="880" height="auto">
+    <img alt="Dashboard stats of @w940853815" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=17764568&image_size=auto&color_scheme=light" width="880" height="auto">
+  </picture>
 </a>
-</p>
 
 
 ![Snake animation](https://raw.githubusercontent.com/w940853815/w940853815/output/github-contribution-grid-snake.svg)
