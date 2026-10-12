@@ -19,24 +19,10 @@ jobs:
         with:
           uid: 136069238
           max_count: 3
-      - name: Separate activity status from title
+      - name: Render terminal profile
         run: |
-          python3 - <<'PY'
-          from pathlib import Path
-          import re
-
-          path = Path('README.md')
-          text = path.read_text(encoding='utf-8')
-          before, start, rest = text.partition('<!-- DOUBAN-ACTIVITIES:START -->')
-          activities, end, after = rest.partition('<!-- DOUBAN-ACTIVITIES:END -->')
-          if not start or not end:
-              raise ValueError('Missing Douban activity markers')
-          activities = re.sub(
-              r'^- \[(看过|在读|读过|在看|想看|想读) (.+)\]\((.+)\)$',
-              r'- \1 · [\2](\3)', activities, flags=re.MULTILINE,
-          )
-          path.write_text(before + start + activities + end + after, encoding='utf-8')
-          PY
+          python3 -m unittest discover -s scripts -p 'test_*.py'
+          python3 scripts/render_profile.py
       - name: Commit & Push changes
         uses: actions-js/push@4decc2887d2770f29177082be3c8b04d342f5b64
         with:
