@@ -1,3 +1,5 @@
+![WakaTime 累计编码时长](https://wakatime.com/badge/user/8f145c8d-599d-496b-82c7-91f941d33614.svg)
+
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
