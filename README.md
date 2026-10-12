@@ -1,6 +1,9 @@
 ![WakaTime 累计编码时长](https://wakatime.com/badge/user/8f145c8d-599d-496b-82c7-91f941d33614.svg)
 [![GitHub 关注者](https://img.shields.io/github/followers/w940853815?style=flat&logo=github&label=Followers&color=007ec6)](https://github.com/w940853815?tab=followers)
 [![GitHub 仓库获星数](https://img.shields.io/github/stars/w940853815?style=flat&logo=github&label=Stars&color=007ec6)](https://github.com/w940853815?tab=repositories&sort=stargazers)
+[![GitHub 公开仓库数量](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fw940853815&query=%24.public_repos&label=Public+repos&style=flat&logo=github&color=007ec6)](https://github.com/w940853815?tab=repositories)
+![GitHub 加入年份：2016](https://img.shields.io/badge/GitHub-since%202016-007ec6?style=flat&logo=github)
+[![豆瓣：读书与电影](https://img.shields.io/badge/Douban-Books%20%26%20Movies-007ec6?style=flat&logo=douban&logoColor=white)](https://www.douban.com/people/136069238/)
 
 ### 🗣 豆瓣:
 
