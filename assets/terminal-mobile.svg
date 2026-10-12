@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="478" viewBox="0 0 480 478" role="img" aria-labelledby="title desc">
+  <title id="title">wrd — developer workspace</title>
+  <desc id="desc">wrd, @w940853815, FIT2CLOUD, Beijing。参与 JumpServer 生态的开发与维护。工作之外，读书、看电影。项目：JumpServer、Lina、Luna。</desc>
+  <rect x="1" y="1" width="478" height="476" rx="12" fill="#151719" stroke="#363d44" stroke-width="2"/>
+  <path d="M13 1H467Q479 1 479 13V48H1V13Q1 1 13 1Z" fill="#1c2024"/>
+  <path d="M1 48H479M1 354H479" fill="none" stroke="#363d44"/>
+  <g font-family="SFMono-Regular,Consolas,Liberation Mono,monospace">
+    <text x="24" y="31" font-size="18" fill="#b7c0ca">wrd@github: ~</text>
+    <path d="M428 21L440 33M440 21L428 33" fill="none" stroke="#8995a1" stroke-width="1.5" aria-hidden="true"/>
+    <text x="26" y="93" font-size="22" fill="#edf0f3"><tspan fill="#a2eacb">$</tspan> whoami</text>
+    <text x="24" y="180" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="80" font-weight="700" letter-spacing="-2" fill="#f6f8fa">wrd</text>
+    <text x="26" y="222" font-size="25" fill="#b7c0ca">@w940853815</text>
+    <text x="26" y="264" font-size="22" fill="#edf0f3">FIT2CLOUD · Beijing</text>
+    <g font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="21" fill="#edf0f3">
+      <text x="26" y="308">参与 JumpServer 生态的开发与维护。</text>
+      <text x="26" y="340">工作之外，读书、看电影。</text>
+    </g>
+    <text x="26" y="396" font-size="22" fill="#edf0f3"><tspan fill="#a2eacb">$</tspan> ls projects/</text>
+    <text x="26" y="445" font-size="22" fill="#a2eacb">JumpServer / Lina / Luna</text>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="370" viewBox="0 0 880 370" role="img" aria-labelledby="title desc">
+  <title id="title">wrd — developer workspace</title>
+  <desc id="desc">wrd, @w940853815, FIT2CLOUD, Beijing。参与 JumpServer 生态的开发与维护。工作之外，读书、看电影。项目：JumpServer、Lina、Luna。</desc>
+  <rect x="1" y="1" width="878" height="368" rx="12" fill="#151719" stroke="#363d44" stroke-width="2"/>
+  <path d="M13 1H867Q879 1 879 13V46H1V13Q1 1 13 1Z" fill="#1c2024"/>
+  <path d="M1 46H879M550 46V369" fill="none" stroke="#363d44"/>
+  <g font-family="SFMono-Regular,Consolas,Liberation Mono,monospace">
+    <text x="28" y="30" font-size="16" fill="#b7c0ca">wrd@github: ~</text>
+    <g fill="none" stroke="#8995a1" stroke-width="1.5" aria-hidden="true">
+      <path d="M776 26H788M811 18H823V30H811ZM846 18L858 30M858 18L846 30"/>
+    </g>
+    <text x="30" y="90" font-size="20" fill="#edf0f3"><tspan fill="#a2eacb">$</tspan> whoami</text>
+    <text x="30" y="177" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="76" font-weight="700" letter-spacing="-2" fill="#f6f8fa">wrd</text>
+    <text x="32" y="219" font-size="23" fill="#b7c0ca">@w940853815</text>
+    <text x="32" y="259" font-size="20" fill="#edf0f3">FIT2CLOUD · Beijing</text>
+    <g font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="18" fill="#edf0f3">
+      <text x="32" y="307">参与 JumpServer 生态的开发与维护。</text>
+      <text x="32" y="338">工作之外，读书、看电影。</text>
+    </g>
+    <text x="582" y="90" font-size="20" fill="#edf0f3"><tspan fill="#a2eacb">$</tspan> ls projects/</text>
+    <path d="M590 133V277H610M590 157H610M590 217H610" fill="none" stroke="#8995a1" stroke-width="1.5"/>
+    <g fill="none" stroke="#a2eacb" stroke-width="1.6" stroke-linejoin="round" aria-hidden="true">
+      <path d="M629 147H638L642 151H653V169H629ZM629 207H638L642 211H653V229H629ZM629 267H638L642 271H653V289H629Z"/>
+    </g>
+    <g font-size="22" fill="#a2eacb">
+      <text x="669" y="165">JumpServer</text>
+      <text x="669" y="225">Lina</text>
+      <text x="669" y="285">Luna</text>
+    </g>
+  </g>
+</svg>
