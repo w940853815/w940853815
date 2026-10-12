@@ -1,4 +1,6 @@
 ![WakaTime 累计编码时长](https://wakatime.com/badge/user/8f145c8d-599d-496b-82c7-91f941d33614.svg)
+[![GitHub 关注者](https://img.shields.io/github/followers/w940853815?style=flat&logo=github&label=Followers&color=007ec6)](https://github.com/w940853815?tab=followers)
+[![GitHub 仓库获星数](https://img.shields.io/github/stars/w940853815?style=flat&logo=github&label=Stars&color=007ec6)](https://github.com/w940853815?tab=repositories&sort=stargazers)
 
 ### 🗣 豆瓣:
 
@@ -14,15 +16,6 @@
 - [在读 零基础学中医（第二版）](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F9658763394%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=91794392)
 - [读过 州县官的银两](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F9658759277%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=91794392)
 <!-- DOUBAN-ACTIVITIES:END -->
-
-
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=17764568" target="_blank" style="display: block" align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=17764568&image_size=auto&color_scheme=dark" width="880" height="auto">
-<img alt="Dashboard stats of @w940853815" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=17764568&image_size=auto&color_scheme=light" width="880" height="auto">
-</picture>
-</a>
-
 
 ![Snake animation](https://raw.githubusercontent.com/w940853815/w940853815/output/github-contribution-grid-snake.svg)
 
