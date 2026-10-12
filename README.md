@@ -5,6 +5,19 @@
 ![GitHub 加入年份：2016](https://img.shields.io/badge/GitHub-since%202016-007ec6?style=flat&logo=github)
 [![豆瓣：读书与电影](https://img.shields.io/badge/Douban-Books%20%26%20Movies-007ec6?style=flat&logo=douban&logoColor=white)](https://www.douban.com/people/136069238/)
 
+[![GitHub 公开 PR 数量](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dis%253Apr%2Bauthor%253Aw940853815%2Bis%253Apublic%26per_page%3D1&query=%24.total_count&label=Public+PRs&style=flat&logo=github&color=007ec6)](https://github.com/search?q=is%3Apr+author%3Aw940853815+is%3Apublic&type=pullrequests)
+[![GitHub 已合并公开 PR 数量](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dis%253Apr%2Bis%253Amerged%2Bauthor%253Aw940853815%2Bis%253Apublic%26per_page%3D1&query=%24.total_count&label=Merged+PRs&style=flat&logo=github&color=007ec6)](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Aw940853815+is%3Apublic&type=pullrequests)
+[![GitHub 公开仓库默认分支的 Commit 数量](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%253Aw940853815%2Bis%253Apublic%26per_page%3D1&query=%24.total_count&label=Public+commits&style=flat&logo=github&color=007ec6)](https://github.com/search?q=author%3Aw940853815+is%3Apublic&type=commits)
+
+### 🚀 Projects I Contribute To
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| [JumpServer](https://github.com/jumpserver/jumpserver) | Open-source privileged access management platform | Python, Django |
+| [Lina](https://github.com/jumpserver/lina) | JumpServer's web UI | Vue, JavaScript |
+| [Luna](https://github.com/jumpserver/luna) | JumpServer's workspace and web terminal | Vue, TypeScript |
+| [KoKo](https://github.com/jumpserver/koko) | Connector for SSH, Telnet, Kubernetes, SFTP, and databases | Go |
+
 ### 🗣 豆瓣:
 
 <!-- DOUBAN-ACTIVITIES:START -->
