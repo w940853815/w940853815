@@ -23,3 +23,10 @@
 [仓库](https://github.com/w940853815?tab=repositories) · [收藏](https://github.com/w940853815?tab=stars) · [豆瓣](https://www.douban.com/people/136069238/) · [统计](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=17764568)
 
 </details>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/w940853815/w940853815/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/w940853815/w940853815/output/github-contribution-grid-snake.svg" alt="贪吃蛇动画：逐格吃掉 w940853815 的 GitHub 贡献记录">
+</picture>
+</p>
