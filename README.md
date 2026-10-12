@@ -1,11 +1,11 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/terminal-mobile.svg">
+  <source media="(max-width: 1011px)" srcset="assets/terminal-mobile.svg">
   <img src="assets/terminal.svg" width="880" alt="wrd · @w940853815 · FIT2CLOUD · Beijing。参与 JumpServer 生态的开发与维护。工作之外，读书、看电影。">
 </picture>
 
 <p><samp><a href="https://github.com/jumpserver/jumpserver">JumpServer</a> / <a href="https://github.com/jumpserver/lina">Lina</a> / <a href="https://github.com/jumpserver/luna">Luna</a></samp></p>
 
-### `$ tail -3 life.log`
+<h3><samp>$ tail -3 life.log</samp></h3>
 
 最近在读 · 在看
 
