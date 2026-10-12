@@ -1,6 +1,6 @@
 <table width="100%">
 <tr>
-<td colspan="2">
+<td colspan="2" width="880">
 <img src="assets/terminal-controls.svg" width="36" height="12" alt="">&nbsp;&nbsp; <samp>wrd@github: ~</samp>
 </td>
 </tr>
@@ -8,7 +8,7 @@
 <td width="62%" valign="top">
 <br>
 <samp>$ whoami</samp>
-<h3>wrd</h3>
+<h1>wrd</h1>
 <samp>@w940853815</samp>
 <p>FIT2CLOUD · Beijing</p>
 <p>参与 JumpServer 生态的开发与维护。<br>工作之外，读书、看电影。</p>
