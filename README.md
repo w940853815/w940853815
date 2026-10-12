@@ -1,12 +1,4 @@
-![WakaTime 累计编码时长](https://wakatime.com/badge/user/8f145c8d-599d-496b-82c7-91f941d33614.svg)
-[![GitHub 关注者](https://img.shields.io/github/followers/w940853815?style=flat&logo=github&label=Followers&color=007ec6)](https://github.com/w940853815?tab=followers)
-[![GitHub 仓库获星数](https://img.shields.io/github/stars/w940853815?style=flat&logo=github&label=Stars&color=007ec6)](https://github.com/w940853815?tab=repositories&sort=stargazers)
-[![GitHub 公开仓库数量](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fw940853815&query=%24.public_repos&label=Public+repos&style=flat&logo=github&color=007ec6)](https://github.com/w940853815?tab=repositories)
-![GitHub 加入年份：2016](https://img.shields.io/badge/GitHub-since%202016-007ec6?style=flat&logo=github)
-
-[![GitHub 公开 PR 数量](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dis%253Apr%2Bauthor%253Aw940853815%2Bis%253Apublic%26per_page%3D1&query=%24.total_count&label=Public+PRs&style=flat&logo=github&color=007ec6)](https://github.com/search?q=is%3Apr+author%3Aw940853815+is%3Apublic&type=pullrequests)
-[![GitHub 已合并公开 PR 数量](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dis%253Apr%2Bis%253Amerged%2Bauthor%253Aw940853815%2Bis%253Apublic%26per_page%3D1&query=%24.total_count&label=Merged+PRs&style=flat&logo=github&color=007ec6)](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Aw940853815+is%3Apublic&type=pullrequests)
-[![GitHub 公开仓库默认分支的 Commit 数量](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%253Aw940853815%2Bis%253Apublic%26per_page%3D1&query=%24.total_count&label=Public+commits&style=flat&logo=github&color=007ec6)](https://github.com/search?q=author%3Aw940853815+is%3Apublic&type=commits)
+![WakaTime 累计编码时长](https://wakatime.com/badge/user/8f145c8d-599d-496b-82c7-91f941d33614.svg) [![GitHub 已合并公开 PR 数量](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dis%253Apr%2Bis%253Amerged%2Bauthor%253Aw940853815%2Bis%253Apublic%26per_page%3D1&query=%24.total_count&label=Merged+PRs&style=flat&logo=github&color=007ec6)](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Aw940853815+is%3Apublic&type=pullrequests) [![GitHub 公开仓库默认分支的 Commit 数量](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%253Aw940853815%2Bis%253Apublic%26per_page%3D1&query=%24.total_count&label=Public+commits&style=flat&logo=github&color=007ec6)](https://github.com/search?q=author%3Aw940853815+is%3Apublic&type=commits)
 
 ### 🚀 Projects I Contribute To
 
