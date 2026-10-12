@@ -5,7 +5,7 @@
 </td>
 </tr>
 <tr>
-<td width="62%" valign="top">
+<td width="55%" valign="top">
 <br>
 <samp>$ whoami</samp>
 <h1>wrd</h1>
@@ -13,7 +13,7 @@
 <p>FIT2CLOUD · Beijing</p>
 <p>参与 JumpServer 生态的开发与维护。<br>工作之外，读书、看电影。</p>
 </td>
-<td width="38%" valign="top">
+<td width="45%" valign="top">
 <br>
 <samp>$ ls projects/</samp>
 <br><br>
@@ -29,9 +29,9 @@
 <p><sub>最近在读 · 在看</sub></p>
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 小黄人与大怪兽 Minions & Monsters‎ (2026)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F9800930862%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=91766849)
-- [在读 明朝那些事儿·第4部](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F9793023538%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=91766849)
-- [读过 明朝那些事儿·第3部](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F9793022068%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=91766849)
+- 看过 · [小黄人与大怪兽 Minions & Monsters‎ (2026)](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F9800930862%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=91766849)
+- 在读 · [明朝那些事儿·第4部](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F9793023538%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=91766849)
+- 读过 · [明朝那些事儿·第3部](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F9793022068%2F%3F_spm_id%3DMTM2MDY5MjM4&_i=91766849)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 <br>
