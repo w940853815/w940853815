@@ -1,7 +1,9 @@
+<p align="center">
 <picture>
   <source media="(max-width: 1011px)" srcset="assets/profile-mobile.svg">
-  <img src="assets/profile.svg" width="880" alt="wrd · FIT2CLOUD · Beijing。参与 JumpServer 生态的开发与维护；工作之外，读书、看电影。项目与近期书影音记录的文字和链接见下方展开区。">
+  <img src="assets/profile.svg" alt="wrd · FIT2CLOUD · Beijing。参与 JumpServer 生态的开发与维护；工作之外，读书、看电影。项目与近期书影音记录的文字和链接见下方展开区。">
 </picture>
+</p>
 
 <details>
 <summary>打开项目与书影音链接</summary>
