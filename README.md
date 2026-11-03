@@ -1,3 +1,12 @@
+<a href="https://github.com/w940853815">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/profile-mobile-dark.svg">
+    <source media="(max-width: 600px)" srcset="./assets/profile-mobile.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg">
+    <img alt="wrd (w940853815) — FIT2ClOUD, Beijing; JumpServer contributor. Project stack: Python, Django, Go, Vue, JavaScript, TypeScript. Email: w940853815@gmail.com. Public GitHub data on 2026-11-03: 106 repositories, 17 followers, 83 following." src="./assets/profile.svg" width="100%">
+  </picture>
+</a>
+
 ![WakaTime 累计编码时长](https://wakatime.com/badge/user/8f145c8d-599d-496b-82c7-91f941d33614.svg) [![GitHub 已合并公开 PR 数量](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dis%253Apr%2Bis%253Amerged%2Bauthor%253Aw940853815%2Bis%253Apublic%26per_page%3D1&query=%24.total_count&label=Merged+PRs&style=flat&logo=github&color=007ec6)](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Aw940853815+is%3Apublic&type=pullrequests) [![GitHub 公开仓库默认分支的 Commit 数量](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%253Aw940853815%2Bis%253Apublic%26per_page%3D1&query=%24.total_count&label=Public+commits&style=flat&logo=github&color=007ec6)](https://github.com/search?q=author%3Aw940853815+is%3Apublic&type=commits)
 
 ### 🚀 Projects I Contribute To
