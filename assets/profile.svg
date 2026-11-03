@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="510" viewBox="0 0 1040 510" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="630" viewBox="0 0 1040 630" role="img" aria-labelledby="title desc">
 <title id="title">wrd — GitHub profile</title>
-<desc id="desc">Panda avatar in ASCII art. wrd, FIT2ClOUD, Beijing. JumpServer contributor. Public GitHub statistics as of 2026-11-03.</desc>
-<rect x=".5" y=".5" width="1039" height="509" rx="14" fill="#ffffff" stroke="#d1d9e0"/>
+<desc id="desc">Panda avatar in ASCII art. wrd, FIT2ClOUD, Beijing. Public statistics updated daily. Select the card for the statistics methodology.</desc>
+<rect x=".5" y=".5" width="1039" height="629" rx="14" fill="#ffffff" stroke="#d1d9e0"/>
 <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace">
 <g fill="#59636e" font-size="12" style="white-space:pre" xml:space="preserve" aria-hidden="true">
 <text x="38" y="100" style="white-space:pre">      .:--:.                      .=+###*=:     </text>
@@ -59,6 +59,23 @@
 <text x="1008" y="367" fill="#1f2328" font-size="16" font-weight="400" text-anchor="end">w940853815@gmail.com</text>
 <text x="432" y="414" fill="#0969da" font-size="17" font-weight="400" text-anchor="start">— GitHub stats</text>
 <path d="M585 409H1008" stroke="#d1d9e0"/>
-<text x="432" y="446" fill="#1f2328" font-size="16" font-weight="400" text-anchor="start">Repos: 106  |  Followers: 17  |  Following: 83</text>
-<text x="1008" y="482" fill="#59636e" font-size="12" font-weight="400" text-anchor="end">2026-11-03 · public data</text>
+<g id="profile-stats">
+<text x="432" y="446" fill="#953800" font-size="16" text-anchor="start">Repos:</text>
+<text x="500" y="446" fill="#1f2328" font-size="16" text-anchor="start">106 {Contributed: 19}</text>
+<text x="844" y="446" fill="#953800" font-size="16" text-anchor="start">Stars:</text>
+<text x="1008" y="446" fill="#1f2328" font-size="16" text-anchor="end">21</text>
+<text x="432" y="476" fill="#953800" font-size="16" text-anchor="start">Commits:</text>
+<text x="522" y="476" fill="#1f2328" font-size="16" text-anchor="start">4,746</text>
+<text x="660" y="476" fill="#953800" font-size="16" text-anchor="start">Followers:</text>
+<text x="790" y="476" fill="#1f2328" font-size="16" text-anchor="end">17</text>
+<text x="834" y="476" fill="#953800" font-size="16" text-anchor="start">Following:</text>
+<text x="1008" y="476" fill="#1f2328" font-size="16" text-anchor="end">83</text>
+<text x="432" y="506" fill="#953800" font-size="16" text-anchor="start">Lines of Code:</text>
+<text x="578" y="506" fill="#1f2328" font-size="16">120,966 ( <tspan fill="#116329">162,778++</tspan>, <tspan fill="#b42318">41,812--</tspan> )</text>
+<text x="432" y="536" fill="#953800" font-size="16" text-anchor="start">Merged PRs:</text>
+<text x="1008" y="536" fill="#1f2328" font-size="16" text-anchor="end">44</text>
+<text x="432" y="566" fill="#953800" font-size="16" text-anchor="start">WakaTime:</text>
+<text x="1008" y="566" fill="#1f2328" font-size="16" text-anchor="end">885 hrs 3 mins</text>
+<text x="1008" y="606" fill="#59636e" font-size="12" text-anchor="end">2026-11-03 17:59 CST · updated daily</text>
+</g>
 </g></svg>

@@ -1,0 +1,41 @@
+name: Update profile stats
+
+on:
+  schedule:
+    - cron: "17 0 * * *" # 08:17 Asia/Shanghai
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - scripts/profile_stats.py
+      - tests/test_profile_stats.py
+      - .github/workflows/profile-stats.yml
+
+concurrency:
+  group: profile-stats
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - name: Test statistics and rendering
+        run: python3 -m unittest discover -s tests -v
+      - name: Refresh public statistics
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/profile_stats.py
+      - name: Publish updated card
+        run: |
+          git add README.md assets/profile*.svg assets/profile-stats.json
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'chore(profile): refresh daily statistics'
+          git pull --rebase origin master
+          git push origin HEAD:master
