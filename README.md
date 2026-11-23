@@ -3,7 +3,7 @@
     <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/profile-mobile-dark.svg">
     <source media="(max-width: 600px)" srcset="./assets/profile-mobile.svg">
     <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg">
-    <img alt="wrd (w940853815) — FIT2ClOUD, Beijing; JumpServer contributor. Project stack: Python, Django, Go, Vue, JavaScript, TypeScript. Email: w940853815@gmail.com. Public repos: 107; contributed: 21; stars: 21; commits: 5221; followers: 16; following: 81; net lines: 121790 (164632 added, 42842 deleted); merged PRs: 48; WakaTime: 945 hrs 44 mins. Updated 2026-11-22 14:41 CST." src="./assets/profile.svg" width="100%">
+    <img alt="wrd (w940853815) — FIT2ClOUD, Beijing; JumpServer contributor. Project stack: Python, Django, Go, Vue, JavaScript, TypeScript. Email: w940853815@gmail.com. Public repos: 107; contributed: 21; stars: 21; commits: 5221; followers: 16; following: 81; net lines: 121790 (164632 added, 42842 deleted); merged PRs: 48; WakaTime: 950 hrs 43 mins. Updated 2026-11-23 15:30 CST." src="./assets/profile.svg" width="100%">
   </picture>
 </a>
 
